@@ -1,0 +1,1801 @@
+month,employee_id,department,role,base_salary,bonus,benefits,total_cost
+2023-01,E001,Engineering,Software Engineer,10600.0,0.0,2120.0,12720.0
+2023-01,E002,Engineering,Senior Software Engineer,10726.47,0.0,2145.29,12871.76
+2023-01,E003,Engineering,Staff Engineer,10852.94,0.0,2170.59,13023.53
+2023-01,E004,Engineering,DevOps Engineer,10979.41,0.0,2195.88,13175.29
+2023-01,E005,Engineering,Software Engineer,11105.88,0.0,2221.18,13327.06
+2023-01,E006,Engineering,Senior Software Engineer,11232.35,0.0,2246.47,13478.82
+2023-01,E007,Engineering,Staff Engineer,11358.82,0.0,2271.76,13630.59
+2023-01,E008,Engineering,DevOps Engineer,11485.29,0.0,2297.06,13782.35
+2023-01,E009,Engineering,Software Engineer,11611.76,0.0,2322.35,13934.12
+2023-01,E010,Engineering,Senior Software Engineer,11738.24,0.0,2347.65,14085.88
+2023-01,E011,Engineering,Staff Engineer,11864.71,0.0,2372.94,14237.65
+2023-01,E012,Engineering,DevOps Engineer,11991.18,0.0,2398.24,14389.41
+2023-01,E013,Engineering,Software Engineer,12117.65,0.0,2423.53,14541.18
+2023-01,E014,Engineering,Senior Software Engineer,12244.12,0.0,2448.82,14692.94
+2023-01,E015,Engineering,Staff Engineer,12370.59,0.0,2474.12,14844.71
+2023-01,E016,Engineering,DevOps Engineer,12497.06,0.0,2499.41,14996.47
+2023-01,E017,Engineering,Software Engineer,12623.53,0.0,2524.71,15148.24
+2023-01,E018,Engineering,Senior Software Engineer,12750.0,0.0,2550.0,15300.0
+2023-01,E019,Sales,Account Executive,7066.67,706.67,1413.33,9186.67
+2023-01,E020,Sales,Sales Development Rep,7225.93,722.59,1445.19,9393.7
+2023-01,E021,Sales,Sales Manager,7385.19,738.52,1477.04,9600.74
+2023-01,E022,Sales,Account Executive,7544.44,754.44,1508.89,9807.78
+2023-01,E023,Sales,Sales Development Rep,7703.7,770.37,1540.74,10014.81
+2023-01,E024,Sales,Sales Manager,7862.96,786.3,1572.59,10221.85
+2023-01,E025,Sales,Account Executive,8022.22,802.22,1604.44,10428.89
+2023-01,E026,Sales,Sales Development Rep,8181.48,818.15,1636.3,10635.93
+2023-01,E027,Sales,Sales Manager,8340.74,834.07,1668.15,10842.96
+2023-01,E028,Sales,Account Executive,8500.0,850.0,1700.0,11050.0
+2023-01,E029,Marketing,Marketing Manager,6600.0,0.0,1320.0,7920.0
+2023-01,E030,Marketing,Demand Generation Specialist,6850.83,0.0,1370.17,8221.0
+2023-01,E031,Marketing,Content Strategist,7101.67,0.0,1420.33,8522.0
+2023-01,E032,Marketing,Marketing Manager,7352.5,0.0,1470.5,8823.0
+2023-01,E033,Marketing,Demand Generation Specialist,7603.33,0.0,1520.67,9124.0
+2023-01,E034,Marketing,Content Strategist,7854.17,0.0,1570.83,9425.0
+2023-01,E035,Product,Product Manager,9566.67,0.0,1913.33,11480.0
+2023-01,E036,Product,Senior Product Manager,9925.0,0.0,1985.0,11910.0
+2023-01,E037,Product,Product Designer,10283.33,0.0,2056.67,12340.0
+2023-01,E038,Product,Product Manager,10641.67,0.0,2128.33,12770.0
+2023-01,E039,Product,Senior Product Manager,11000.0,0.0,2200.0,13200.0
+2023-01,E040,Operations,Operations Manager,5716.67,0.0,1143.33,6860.0
+2023-01,E041,Operations,People Operations Specialist,5895.83,0.0,1179.17,7075.0
+2023-01,E042,Operations,IT Administrator,6075.0,0.0,1215.0,7290.0
+2023-01,E043,Operations,Operations Manager,6254.17,0.0,1250.83,7505.0
+2023-01,E044,Operations,People Operations Specialist,6433.33,0.0,1286.67,7720.0
+2023-01,E045,Operations,IT Administrator,6612.5,0.0,1322.5,7935.0
+2023-01,E046,Operations,Operations Manager,6791.67,0.0,1358.33,8150.0
+2023-01,E047,Finance,Financial Analyst,7433.33,0.0,1486.67,8920.0
+2023-01,E048,Finance,Controller,7851.39,0.0,1570.28,9421.67
+2023-01,E049,Finance,Accounting Manager,8269.44,0.0,1653.89,9923.33
+2023-01,E050,Finance,Financial Analyst,8687.5,0.0,1737.5,10425.0
+2023-02,E001,Engineering,Software Engineer,10600.0,0.0,2120.0,12720.0
+2023-02,E002,Engineering,Senior Software Engineer,10726.47,0.0,2145.29,12871.76
+2023-02,E003,Engineering,Staff Engineer,10852.94,0.0,2170.59,13023.53
+2023-02,E004,Engineering,DevOps Engineer,10979.41,0.0,2195.88,13175.29
+2023-02,E005,Engineering,Software Engineer,11105.88,0.0,2221.18,13327.06
+2023-02,E006,Engineering,Senior Software Engineer,11232.35,0.0,2246.47,13478.82
+2023-02,E007,Engineering,Staff Engineer,11358.82,0.0,2271.76,13630.59
+2023-02,E008,Engineering,DevOps Engineer,11485.29,0.0,2297.06,13782.35
+2023-02,E009,Engineering,Software Engineer,11611.76,0.0,2322.35,13934.12
+2023-02,E010,Engineering,Senior Software Engineer,11738.24,0.0,2347.65,14085.88
+2023-02,E011,Engineering,Staff Engineer,11864.71,0.0,2372.94,14237.65
+2023-02,E012,Engineering,DevOps Engineer,11991.18,0.0,2398.24,14389.41
+2023-02,E013,Engineering,Software Engineer,12117.65,0.0,2423.53,14541.18
+2023-02,E014,Engineering,Senior Software Engineer,12244.12,0.0,2448.82,14692.94
+2023-02,E015,Engineering,Staff Engineer,12370.59,0.0,2474.12,14844.71
+2023-02,E016,Engineering,DevOps Engineer,12497.06,0.0,2499.41,14996.47
+2023-02,E017,Engineering,Software Engineer,12623.53,0.0,2524.71,15148.24
+2023-02,E018,Engineering,Senior Software Engineer,12750.0,0.0,2550.0,15300.0
+2023-02,E019,Sales,Account Executive,7066.67,706.67,1413.33,9186.67
+2023-02,E020,Sales,Sales Development Rep,7225.93,722.59,1445.19,9393.7
+2023-02,E021,Sales,Sales Manager,7385.19,738.52,1477.04,9600.74
+2023-02,E022,Sales,Account Executive,7544.44,754.44,1508.89,9807.78
+2023-02,E023,Sales,Sales Development Rep,7703.7,770.37,1540.74,10014.81
+2023-02,E024,Sales,Sales Manager,7862.96,786.3,1572.59,10221.85
+2023-02,E025,Sales,Account Executive,8022.22,802.22,1604.44,10428.89
+2023-02,E026,Sales,Sales Development Rep,8181.48,818.15,1636.3,10635.93
+2023-02,E027,Sales,Sales Manager,8340.74,834.07,1668.15,10842.96
+2023-02,E028,Sales,Account Executive,8500.0,850.0,1700.0,11050.0
+2023-02,E029,Marketing,Marketing Manager,6600.0,0.0,1320.0,7920.0
+2023-02,E030,Marketing,Demand Generation Specialist,6850.83,0.0,1370.17,8221.0
+2023-02,E031,Marketing,Content Strategist,7101.67,0.0,1420.33,8522.0
+2023-02,E032,Marketing,Marketing Manager,7352.5,0.0,1470.5,8823.0
+2023-02,E033,Marketing,Demand Generation Specialist,7603.33,0.0,1520.67,9124.0
+2023-02,E034,Marketing,Content Strategist,7854.17,0.0,1570.83,9425.0
+2023-02,E035,Product,Product Manager,9566.67,0.0,1913.33,11480.0
+2023-02,E036,Product,Senior Product Manager,9925.0,0.0,1985.0,11910.0
+2023-02,E037,Product,Product Designer,10283.33,0.0,2056.67,12340.0
+2023-02,E038,Product,Product Manager,10641.67,0.0,2128.33,12770.0
+2023-02,E039,Product,Senior Product Manager,11000.0,0.0,2200.0,13200.0
+2023-02,E040,Operations,Operations Manager,5716.67,0.0,1143.33,6860.0
+2023-02,E041,Operations,People Operations Specialist,5895.83,0.0,1179.17,7075.0
+2023-02,E042,Operations,IT Administrator,6075.0,0.0,1215.0,7290.0
+2023-02,E043,Operations,Operations Manager,6254.17,0.0,1250.83,7505.0
+2023-02,E044,Operations,People Operations Specialist,6433.33,0.0,1286.67,7720.0
+2023-02,E045,Operations,IT Administrator,6612.5,0.0,1322.5,7935.0
+2023-02,E046,Operations,Operations Manager,6791.67,0.0,1358.33,8150.0
+2023-02,E047,Finance,Financial Analyst,7433.33,0.0,1486.67,8920.0
+2023-02,E048,Finance,Controller,7851.39,0.0,1570.28,9421.67
+2023-02,E049,Finance,Accounting Manager,8269.44,0.0,1653.89,9923.33
+2023-02,E050,Finance,Financial Analyst,8687.5,0.0,1737.5,10425.0
+2023-03,E001,Engineering,Software Engineer,10600.0,0.0,2120.0,12720.0
+2023-03,E002,Engineering,Senior Software Engineer,10726.47,0.0,2145.29,12871.76
+2023-03,E003,Engineering,Staff Engineer,10852.94,0.0,2170.59,13023.53
+2023-03,E004,Engineering,DevOps Engineer,10979.41,0.0,2195.88,13175.29
+2023-03,E005,Engineering,Software Engineer,11105.88,0.0,2221.18,13327.06
+2023-03,E006,Engineering,Senior Software Engineer,11232.35,0.0,2246.47,13478.82
+2023-03,E007,Engineering,Staff Engineer,11358.82,0.0,2271.76,13630.59
+2023-03,E008,Engineering,DevOps Engineer,11485.29,0.0,2297.06,13782.35
+2023-03,E009,Engineering,Software Engineer,11611.76,0.0,2322.35,13934.12
+2023-03,E010,Engineering,Senior Software Engineer,11738.24,0.0,2347.65,14085.88
+2023-03,E011,Engineering,Staff Engineer,11864.71,0.0,2372.94,14237.65
+2023-03,E012,Engineering,DevOps Engineer,11991.18,0.0,2398.24,14389.41
+2023-03,E013,Engineering,Software Engineer,12117.65,0.0,2423.53,14541.18
+2023-03,E014,Engineering,Senior Software Engineer,12244.12,0.0,2448.82,14692.94
+2023-03,E015,Engineering,Staff Engineer,12370.59,0.0,2474.12,14844.71
+2023-03,E016,Engineering,DevOps Engineer,12497.06,0.0,2499.41,14996.47
+2023-03,E017,Engineering,Software Engineer,12623.53,0.0,2524.71,15148.24
+2023-03,E018,Engineering,Senior Software Engineer,12750.0,0.0,2550.0,15300.0
+2023-03,E019,Sales,Account Executive,7066.67,706.67,1413.33,9186.67
+2023-03,E020,Sales,Sales Development Rep,7225.93,722.59,1445.19,9393.7
+2023-03,E021,Sales,Sales Manager,7385.19,738.52,1477.04,9600.74
+2023-03,E022,Sales,Account Executive,7544.44,754.44,1508.89,9807.78
+2023-03,E023,Sales,Sales Development Rep,7703.7,770.37,1540.74,10014.81
+2023-03,E024,Sales,Sales Manager,7862.96,786.3,1572.59,10221.85
+2023-03,E025,Sales,Account Executive,8022.22,802.22,1604.44,10428.89
+2023-03,E026,Sales,Sales Development Rep,8181.48,818.15,1636.3,10635.93
+2023-03,E027,Sales,Sales Manager,8340.74,834.07,1668.15,10842.96
+2023-03,E028,Sales,Account Executive,8500.0,850.0,1700.0,11050.0
+2023-03,E029,Marketing,Marketing Manager,6600.0,0.0,1320.0,7920.0
+2023-03,E030,Marketing,Demand Generation Specialist,6850.83,0.0,1370.17,8221.0
+2023-03,E031,Marketing,Content Strategist,7101.67,0.0,1420.33,8522.0
+2023-03,E032,Marketing,Marketing Manager,7352.5,0.0,1470.5,8823.0
+2023-03,E033,Marketing,Demand Generation Specialist,7603.33,0.0,1520.67,9124.0
+2023-03,E034,Marketing,Content Strategist,7854.17,0.0,1570.83,9425.0
+2023-03,E035,Product,Product Manager,9566.67,0.0,1913.33,11480.0
+2023-03,E036,Product,Senior Product Manager,9925.0,0.0,1985.0,11910.0
+2023-03,E037,Product,Product Designer,10283.33,0.0,2056.67,12340.0
+2023-03,E038,Product,Product Manager,10641.67,0.0,2128.33,12770.0
+2023-03,E039,Product,Senior Product Manager,11000.0,0.0,2200.0,13200.0
+2023-03,E040,Operations,Operations Manager,5716.67,0.0,1143.33,6860.0
+2023-03,E041,Operations,People Operations Specialist,5895.83,0.0,1179.17,7075.0
+2023-03,E042,Operations,IT Administrator,6075.0,0.0,1215.0,7290.0
+2023-03,E043,Operations,Operations Manager,6254.17,0.0,1250.83,7505.0
+2023-03,E044,Operations,People Operations Specialist,6433.33,0.0,1286.67,7720.0
+2023-03,E045,Operations,IT Administrator,6612.5,0.0,1322.5,7935.0
+2023-03,E046,Operations,Operations Manager,6791.67,0.0,1358.33,8150.0
+2023-03,E047,Finance,Financial Analyst,7433.33,0.0,1486.67,8920.0
+2023-03,E048,Finance,Controller,7851.39,0.0,1570.28,9421.67
+2023-03,E049,Finance,Accounting Manager,8269.44,0.0,1653.89,9923.33
+2023-03,E050,Finance,Financial Analyst,8687.5,0.0,1737.5,10425.0
+2023-04,E001,Engineering,Software Engineer,10600.0,0.0,2120.0,12720.0
+2023-04,E002,Engineering,Senior Software Engineer,10726.47,0.0,2145.29,12871.76
+2023-04,E003,Engineering,Staff Engineer,10852.94,0.0,2170.59,13023.53
+2023-04,E004,Engineering,DevOps Engineer,10979.41,0.0,2195.88,13175.29
+2023-04,E005,Engineering,Software Engineer,11105.88,0.0,2221.18,13327.06
+2023-04,E006,Engineering,Senior Software Engineer,11232.35,0.0,2246.47,13478.82
+2023-04,E007,Engineering,Staff Engineer,11358.82,0.0,2271.76,13630.59
+2023-04,E008,Engineering,DevOps Engineer,11485.29,0.0,2297.06,13782.35
+2023-04,E009,Engineering,Software Engineer,11611.76,0.0,2322.35,13934.12
+2023-04,E010,Engineering,Senior Software Engineer,11738.24,0.0,2347.65,14085.88
+2023-04,E011,Engineering,Staff Engineer,11864.71,0.0,2372.94,14237.65
+2023-04,E012,Engineering,DevOps Engineer,11991.18,0.0,2398.24,14389.41
+2023-04,E013,Engineering,Software Engineer,12117.65,0.0,2423.53,14541.18
+2023-04,E014,Engineering,Senior Software Engineer,12244.12,0.0,2448.82,14692.94
+2023-04,E015,Engineering,Staff Engineer,12370.59,0.0,2474.12,14844.71
+2023-04,E016,Engineering,DevOps Engineer,12497.06,0.0,2499.41,14996.47
+2023-04,E017,Engineering,Software Engineer,12623.53,0.0,2524.71,15148.24
+2023-04,E018,Engineering,Senior Software Engineer,12750.0,0.0,2550.0,15300.0
+2023-04,E019,Sales,Account Executive,7066.67,706.67,1413.33,9186.67
+2023-04,E020,Sales,Sales Development Rep,7225.93,722.59,1445.19,9393.7
+2023-04,E021,Sales,Sales Manager,7385.19,738.52,1477.04,9600.74
+2023-04,E022,Sales,Account Executive,7544.44,754.44,1508.89,9807.78
+2023-04,E023,Sales,Sales Development Rep,7703.7,770.37,1540.74,10014.81
+2023-04,E024,Sales,Sales Manager,7862.96,786.3,1572.59,10221.85
+2023-04,E025,Sales,Account Executive,8022.22,802.22,1604.44,10428.89
+2023-04,E026,Sales,Sales Development Rep,8181.48,818.15,1636.3,10635.93
+2023-04,E027,Sales,Sales Manager,8340.74,834.07,1668.15,10842.96
+2023-04,E028,Sales,Account Executive,8500.0,850.0,1700.0,11050.0
+2023-04,E029,Marketing,Marketing Manager,6600.0,0.0,1320.0,7920.0
+2023-04,E030,Marketing,Demand Generation Specialist,6850.83,0.0,1370.17,8221.0
+2023-04,E031,Marketing,Content Strategist,7101.67,0.0,1420.33,8522.0
+2023-04,E032,Marketing,Marketing Manager,7352.5,0.0,1470.5,8823.0
+2023-04,E033,Marketing,Demand Generation Specialist,7603.33,0.0,1520.67,9124.0
+2023-04,E034,Marketing,Content Strategist,7854.17,0.0,1570.83,9425.0
+2023-04,E035,Product,Product Manager,9566.67,0.0,1913.33,11480.0
+2023-04,E036,Product,Senior Product Manager,9925.0,0.0,1985.0,11910.0
+2023-04,E037,Product,Product Designer,10283.33,0.0,2056.67,12340.0
+2023-04,E038,Product,Product Manager,10641.67,0.0,2128.33,12770.0
+2023-04,E039,Product,Senior Product Manager,11000.0,0.0,2200.0,13200.0
+2023-04,E040,Operations,Operations Manager,5716.67,0.0,1143.33,6860.0
+2023-04,E041,Operations,People Operations Specialist,5895.83,0.0,1179.17,7075.0
+2023-04,E042,Operations,IT Administrator,6075.0,0.0,1215.0,7290.0
+2023-04,E043,Operations,Operations Manager,6254.17,0.0,1250.83,7505.0
+2023-04,E044,Operations,People Operations Specialist,6433.33,0.0,1286.67,7720.0
+2023-04,E045,Operations,IT Administrator,6612.5,0.0,1322.5,7935.0
+2023-04,E046,Operations,Operations Manager,6791.67,0.0,1358.33,8150.0
+2023-04,E047,Finance,Financial Analyst,7433.33,0.0,1486.67,8920.0
+2023-04,E048,Finance,Controller,7851.39,0.0,1570.28,9421.67
+2023-04,E049,Finance,Accounting Manager,8269.44,0.0,1653.89,9923.33
+2023-04,E050,Finance,Financial Analyst,8687.5,0.0,1737.5,10425.0
+2023-05,E001,Engineering,Software Engineer,10600.0,0.0,2120.0,12720.0
+2023-05,E002,Engineering,Senior Software Engineer,10726.47,0.0,2145.29,12871.76
+2023-05,E003,Engineering,Staff Engineer,10852.94,0.0,2170.59,13023.53
+2023-05,E004,Engineering,DevOps Engineer,10979.41,0.0,2195.88,13175.29
+2023-05,E005,Engineering,Software Engineer,11105.88,0.0,2221.18,13327.06
+2023-05,E006,Engineering,Senior Software Engineer,11232.35,0.0,2246.47,13478.82
+2023-05,E007,Engineering,Staff Engineer,11358.82,0.0,2271.76,13630.59
+2023-05,E008,Engineering,DevOps Engineer,11485.29,0.0,2297.06,13782.35
+2023-05,E009,Engineering,Software Engineer,11611.76,0.0,2322.35,13934.12
+2023-05,E010,Engineering,Senior Software Engineer,11738.24,0.0,2347.65,14085.88
+2023-05,E011,Engineering,Staff Engineer,11864.71,0.0,2372.94,14237.65
+2023-05,E012,Engineering,DevOps Engineer,11991.18,0.0,2398.24,14389.41
+2023-05,E013,Engineering,Software Engineer,12117.65,0.0,2423.53,14541.18
+2023-05,E014,Engineering,Senior Software Engineer,12244.12,0.0,2448.82,14692.94
+2023-05,E015,Engineering,Staff Engineer,12370.59,0.0,2474.12,14844.71
+2023-05,E016,Engineering,DevOps Engineer,12497.06,0.0,2499.41,14996.47
+2023-05,E017,Engineering,Software Engineer,12623.53,0.0,2524.71,15148.24
+2023-05,E018,Engineering,Senior Software Engineer,12750.0,0.0,2550.0,15300.0
+2023-05,E019,Sales,Account Executive,7066.67,706.67,1413.33,9186.67
+2023-05,E020,Sales,Sales Development Rep,7225.93,722.59,1445.19,9393.7
+2023-05,E021,Sales,Sales Manager,7385.19,738.52,1477.04,9600.74
+2023-05,E022,Sales,Account Executive,7544.44,754.44,1508.89,9807.78
+2023-05,E023,Sales,Sales Development Rep,7703.7,770.37,1540.74,10014.81
+2023-05,E024,Sales,Sales Manager,7862.96,786.3,1572.59,10221.85
+2023-05,E025,Sales,Account Executive,8022.22,802.22,1604.44,10428.89
+2023-05,E026,Sales,Sales Development Rep,8181.48,818.15,1636.3,10635.93
+2023-05,E027,Sales,Sales Manager,8340.74,834.07,1668.15,10842.96
+2023-05,E028,Sales,Account Executive,8500.0,850.0,1700.0,11050.0
+2023-05,E029,Marketing,Marketing Manager,6600.0,0.0,1320.0,7920.0
+2023-05,E030,Marketing,Demand Generation Specialist,6850.83,0.0,1370.17,8221.0
+2023-05,E031,Marketing,Content Strategist,7101.67,0.0,1420.33,8522.0
+2023-05,E032,Marketing,Marketing Manager,7352.5,0.0,1470.5,8823.0
+2023-05,E033,Marketing,Demand Generation Specialist,7603.33,0.0,1520.67,9124.0
+2023-05,E034,Marketing,Content Strategist,7854.17,0.0,1570.83,9425.0
+2023-05,E035,Product,Product Manager,9566.67,0.0,1913.33,11480.0
+2023-05,E036,Product,Senior Product Manager,9925.0,0.0,1985.0,11910.0
+2023-05,E037,Product,Product Designer,10283.33,0.0,2056.67,12340.0
+2023-05,E038,Product,Product Manager,10641.67,0.0,2128.33,12770.0
+2023-05,E039,Product,Senior Product Manager,11000.0,0.0,2200.0,13200.0
+2023-05,E040,Operations,Operations Manager,5716.67,0.0,1143.33,6860.0
+2023-05,E041,Operations,People Operations Specialist,5895.83,0.0,1179.17,7075.0
+2023-05,E042,Operations,IT Administrator,6075.0,0.0,1215.0,7290.0
+2023-05,E043,Operations,Operations Manager,6254.17,0.0,1250.83,7505.0
+2023-05,E044,Operations,People Operations Specialist,6433.33,0.0,1286.67,7720.0
+2023-05,E045,Operations,IT Administrator,6612.5,0.0,1322.5,7935.0
+2023-05,E046,Operations,Operations Manager,6791.67,0.0,1358.33,8150.0
+2023-05,E047,Finance,Financial Analyst,7433.33,0.0,1486.67,8920.0
+2023-05,E048,Finance,Controller,7851.39,0.0,1570.28,9421.67
+2023-05,E049,Finance,Accounting Manager,8269.44,0.0,1653.89,9923.33
+2023-05,E050,Finance,Financial Analyst,8687.5,0.0,1737.5,10425.0
+2023-06,E001,Engineering,Software Engineer,10600.0,0.0,2120.0,12720.0
+2023-06,E002,Engineering,Senior Software Engineer,10726.47,0.0,2145.29,12871.76
+2023-06,E003,Engineering,Staff Engineer,10852.94,0.0,2170.59,13023.53
+2023-06,E004,Engineering,DevOps Engineer,10979.41,0.0,2195.88,13175.29
+2023-06,E005,Engineering,Software Engineer,11105.88,0.0,2221.18,13327.06
+2023-06,E006,Engineering,Senior Software Engineer,11232.35,0.0,2246.47,13478.82
+2023-06,E007,Engineering,Staff Engineer,11358.82,0.0,2271.76,13630.59
+2023-06,E008,Engineering,DevOps Engineer,11485.29,0.0,2297.06,13782.35
+2023-06,E009,Engineering,Software Engineer,11611.76,0.0,2322.35,13934.12
+2023-06,E010,Engineering,Senior Software Engineer,11738.24,0.0,2347.65,14085.88
+2023-06,E011,Engineering,Staff Engineer,11864.71,0.0,2372.94,14237.65
+2023-06,E012,Engineering,DevOps Engineer,11991.18,0.0,2398.24,14389.41
+2023-06,E013,Engineering,Software Engineer,12117.65,0.0,2423.53,14541.18
+2023-06,E014,Engineering,Senior Software Engineer,12244.12,0.0,2448.82,14692.94
+2023-06,E015,Engineering,Staff Engineer,12370.59,0.0,2474.12,14844.71
+2023-06,E016,Engineering,DevOps Engineer,12497.06,0.0,2499.41,14996.47
+2023-06,E017,Engineering,Software Engineer,12623.53,0.0,2524.71,15148.24
+2023-06,E018,Engineering,Senior Software Engineer,12750.0,0.0,2550.0,15300.0
+2023-06,E019,Sales,Account Executive,7066.67,706.67,1413.33,9186.67
+2023-06,E020,Sales,Sales Development Rep,7225.93,722.59,1445.19,9393.7
+2023-06,E021,Sales,Sales Manager,7385.19,738.52,1477.04,9600.74
+2023-06,E022,Sales,Account Executive,7544.44,754.44,1508.89,9807.78
+2023-06,E023,Sales,Sales Development Rep,7703.7,770.37,1540.74,10014.81
+2023-06,E024,Sales,Sales Manager,7862.96,786.3,1572.59,10221.85
+2023-06,E025,Sales,Account Executive,8022.22,802.22,1604.44,10428.89
+2023-06,E026,Sales,Sales Development Rep,8181.48,818.15,1636.3,10635.93
+2023-06,E027,Sales,Sales Manager,8340.74,834.07,1668.15,10842.96
+2023-06,E028,Sales,Account Executive,8500.0,850.0,1700.0,11050.0
+2023-06,E029,Marketing,Marketing Manager,6600.0,0.0,1320.0,7920.0
+2023-06,E030,Marketing,Demand Generation Specialist,6850.83,0.0,1370.17,8221.0
+2023-06,E031,Marketing,Content Strategist,7101.67,0.0,1420.33,8522.0
+2023-06,E032,Marketing,Marketing Manager,7352.5,0.0,1470.5,8823.0
+2023-06,E033,Marketing,Demand Generation Specialist,7603.33,0.0,1520.67,9124.0
+2023-06,E034,Marketing,Content Strategist,7854.17,0.0,1570.83,9425.0
+2023-06,E035,Product,Product Manager,9566.67,0.0,1913.33,11480.0
+2023-06,E036,Product,Senior Product Manager,9925.0,0.0,1985.0,11910.0
+2023-06,E037,Product,Product Designer,10283.33,0.0,2056.67,12340.0
+2023-06,E038,Product,Product Manager,10641.67,0.0,2128.33,12770.0
+2023-06,E039,Product,Senior Product Manager,11000.0,0.0,2200.0,13200.0
+2023-06,E040,Operations,Operations Manager,5716.67,0.0,1143.33,6860.0
+2023-06,E041,Operations,People Operations Specialist,5895.83,0.0,1179.17,7075.0
+2023-06,E042,Operations,IT Administrator,6075.0,0.0,1215.0,7290.0
+2023-06,E043,Operations,Operations Manager,6254.17,0.0,1250.83,7505.0
+2023-06,E044,Operations,People Operations Specialist,6433.33,0.0,1286.67,7720.0
+2023-06,E045,Operations,IT Administrator,6612.5,0.0,1322.5,7935.0
+2023-06,E046,Operations,Operations Manager,6791.67,0.0,1358.33,8150.0
+2023-06,E047,Finance,Financial Analyst,7433.33,0.0,1486.67,8920.0
+2023-06,E048,Finance,Controller,7851.39,0.0,1570.28,9421.67
+2023-06,E049,Finance,Accounting Manager,8269.44,0.0,1653.89,9923.33
+2023-06,E050,Finance,Financial Analyst,8687.5,0.0,1737.5,10425.0
+2023-07,E001,Engineering,Software Engineer,10600.0,0.0,2120.0,12720.0
+2023-07,E002,Engineering,Senior Software Engineer,10726.47,0.0,2145.29,12871.76
+2023-07,E003,Engineering,Staff Engineer,10852.94,0.0,2170.59,13023.53
+2023-07,E004,Engineering,DevOps Engineer,10979.41,0.0,2195.88,13175.29
+2023-07,E005,Engineering,Software Engineer,11105.88,0.0,2221.18,13327.06
+2023-07,E006,Engineering,Senior Software Engineer,11232.35,0.0,2246.47,13478.82
+2023-07,E007,Engineering,Staff Engineer,11358.82,0.0,2271.76,13630.59
+2023-07,E008,Engineering,DevOps Engineer,11485.29,0.0,2297.06,13782.35
+2023-07,E009,Engineering,Software Engineer,11611.76,0.0,2322.35,13934.12
+2023-07,E010,Engineering,Senior Software Engineer,11738.24,0.0,2347.65,14085.88
+2023-07,E011,Engineering,Staff Engineer,11864.71,0.0,2372.94,14237.65
+2023-07,E012,Engineering,DevOps Engineer,11991.18,0.0,2398.24,14389.41
+2023-07,E013,Engineering,Software Engineer,12117.65,0.0,2423.53,14541.18
+2023-07,E014,Engineering,Senior Software Engineer,12244.12,0.0,2448.82,14692.94
+2023-07,E015,Engineering,Staff Engineer,12370.59,0.0,2474.12,14844.71
+2023-07,E016,Engineering,DevOps Engineer,12497.06,0.0,2499.41,14996.47
+2023-07,E017,Engineering,Software Engineer,12623.53,0.0,2524.71,15148.24
+2023-07,E018,Engineering,Senior Software Engineer,12750.0,0.0,2550.0,15300.0
+2023-07,E019,Sales,Account Executive,7066.67,706.67,1413.33,9186.67
+2023-07,E020,Sales,Sales Development Rep,7225.93,722.59,1445.19,9393.7
+2023-07,E021,Sales,Sales Manager,7385.19,738.52,1477.04,9600.74
+2023-07,E022,Sales,Account Executive,7544.44,754.44,1508.89,9807.78
+2023-07,E023,Sales,Sales Development Rep,7703.7,770.37,1540.74,10014.81
+2023-07,E024,Sales,Sales Manager,7862.96,786.3,1572.59,10221.85
+2023-07,E025,Sales,Account Executive,8022.22,802.22,1604.44,10428.89
+2023-07,E026,Sales,Sales Development Rep,8181.48,818.15,1636.3,10635.93
+2023-07,E027,Sales,Sales Manager,8340.74,834.07,1668.15,10842.96
+2023-07,E028,Sales,Account Executive,8500.0,850.0,1700.0,11050.0
+2023-07,E029,Marketing,Marketing Manager,6600.0,0.0,1320.0,7920.0
+2023-07,E030,Marketing,Demand Generation Specialist,6850.83,0.0,1370.17,8221.0
+2023-07,E031,Marketing,Content Strategist,7101.67,0.0,1420.33,8522.0
+2023-07,E032,Marketing,Marketing Manager,7352.5,0.0,1470.5,8823.0
+2023-07,E033,Marketing,Demand Generation Specialist,7603.33,0.0,1520.67,9124.0
+2023-07,E034,Marketing,Content Strategist,7854.17,0.0,1570.83,9425.0
+2023-07,E035,Product,Product Manager,9566.67,0.0,1913.33,11480.0
+2023-07,E036,Product,Senior Product Manager,9925.0,0.0,1985.0,11910.0
+2023-07,E037,Product,Product Designer,10283.33,0.0,2056.67,12340.0
+2023-07,E038,Product,Product Manager,10641.67,0.0,2128.33,12770.0
+2023-07,E039,Product,Senior Product Manager,11000.0,0.0,2200.0,13200.0
+2023-07,E040,Operations,Operations Manager,5716.67,0.0,1143.33,6860.0
+2023-07,E041,Operations,People Operations Specialist,5895.83,0.0,1179.17,7075.0
+2023-07,E042,Operations,IT Administrator,6075.0,0.0,1215.0,7290.0
+2023-07,E043,Operations,Operations Manager,6254.17,0.0,1250.83,7505.0
+2023-07,E044,Operations,People Operations Specialist,6433.33,0.0,1286.67,7720.0
+2023-07,E045,Operations,IT Administrator,6612.5,0.0,1322.5,7935.0
+2023-07,E046,Operations,Operations Manager,6791.67,0.0,1358.33,8150.0
+2023-07,E047,Finance,Financial Analyst,7433.33,0.0,1486.67,8920.0
+2023-07,E048,Finance,Controller,7851.39,0.0,1570.28,9421.67
+2023-07,E049,Finance,Accounting Manager,8269.44,0.0,1653.89,9923.33
+2023-07,E050,Finance,Financial Analyst,8687.5,0.0,1737.5,10425.0
+2023-08,E001,Engineering,Software Engineer,10600.0,0.0,2120.0,12720.0
+2023-08,E002,Engineering,Senior Software Engineer,10726.47,0.0,2145.29,12871.76
+2023-08,E003,Engineering,Staff Engineer,10852.94,0.0,2170.59,13023.53
+2023-08,E004,Engineering,DevOps Engineer,10979.41,0.0,2195.88,13175.29
+2023-08,E005,Engineering,Software Engineer,11105.88,0.0,2221.18,13327.06
+2023-08,E006,Engineering,Senior Software Engineer,11232.35,0.0,2246.47,13478.82
+2023-08,E007,Engineering,Staff Engineer,11358.82,0.0,2271.76,13630.59
+2023-08,E008,Engineering,DevOps Engineer,11485.29,0.0,2297.06,13782.35
+2023-08,E009,Engineering,Software Engineer,11611.76,0.0,2322.35,13934.12
+2023-08,E010,Engineering,Senior Software Engineer,11738.24,0.0,2347.65,14085.88
+2023-08,E011,Engineering,Staff Engineer,11864.71,0.0,2372.94,14237.65
+2023-08,E012,Engineering,DevOps Engineer,11991.18,0.0,2398.24,14389.41
+2023-08,E013,Engineering,Software Engineer,12117.65,0.0,2423.53,14541.18
+2023-08,E014,Engineering,Senior Software Engineer,12244.12,0.0,2448.82,14692.94
+2023-08,E015,Engineering,Staff Engineer,12370.59,0.0,2474.12,14844.71
+2023-08,E016,Engineering,DevOps Engineer,12497.06,0.0,2499.41,14996.47
+2023-08,E017,Engineering,Software Engineer,12623.53,0.0,2524.71,15148.24
+2023-08,E018,Engineering,Senior Software Engineer,12750.0,0.0,2550.0,15300.0
+2023-08,E019,Sales,Account Executive,7066.67,706.67,1413.33,9186.67
+2023-08,E020,Sales,Sales Development Rep,7225.93,722.59,1445.19,9393.7
+2023-08,E021,Sales,Sales Manager,7385.19,738.52,1477.04,9600.74
+2023-08,E022,Sales,Account Executive,7544.44,754.44,1508.89,9807.78
+2023-08,E023,Sales,Sales Development Rep,7703.7,770.37,1540.74,10014.81
+2023-08,E024,Sales,Sales Manager,7862.96,786.3,1572.59,10221.85
+2023-08,E025,Sales,Account Executive,8022.22,802.22,1604.44,10428.89
+2023-08,E026,Sales,Sales Development Rep,8181.48,818.15,1636.3,10635.93
+2023-08,E027,Sales,Sales Manager,8340.74,834.07,1668.15,10842.96
+2023-08,E028,Sales,Account Executive,8500.0,850.0,1700.0,11050.0
+2023-08,E029,Marketing,Marketing Manager,6600.0,0.0,1320.0,7920.0
+2023-08,E030,Marketing,Demand Generation Specialist,6850.83,0.0,1370.17,8221.0
+2023-08,E031,Marketing,Content Strategist,7101.67,0.0,1420.33,8522.0
+2023-08,E032,Marketing,Marketing Manager,7352.5,0.0,1470.5,8823.0
+2023-08,E033,Marketing,Demand Generation Specialist,7603.33,0.0,1520.67,9124.0
+2023-08,E034,Marketing,Content Strategist,7854.17,0.0,1570.83,9425.0
+2023-08,E035,Product,Product Manager,9566.67,0.0,1913.33,11480.0
+2023-08,E036,Product,Senior Product Manager,9925.0,0.0,1985.0,11910.0
+2023-08,E037,Product,Product Designer,10283.33,0.0,2056.67,12340.0
+2023-08,E038,Product,Product Manager,10641.67,0.0,2128.33,12770.0
+2023-08,E039,Product,Senior Product Manager,11000.0,0.0,2200.0,13200.0
+2023-08,E040,Operations,Operations Manager,5716.67,0.0,1143.33,6860.0
+2023-08,E041,Operations,People Operations Specialist,5895.83,0.0,1179.17,7075.0
+2023-08,E042,Operations,IT Administrator,6075.0,0.0,1215.0,7290.0
+2023-08,E043,Operations,Operations Manager,6254.17,0.0,1250.83,7505.0
+2023-08,E044,Operations,People Operations Specialist,6433.33,0.0,1286.67,7720.0
+2023-08,E045,Operations,IT Administrator,6612.5,0.0,1322.5,7935.0
+2023-08,E046,Operations,Operations Manager,6791.67,0.0,1358.33,8150.0
+2023-08,E047,Finance,Financial Analyst,7433.33,0.0,1486.67,8920.0
+2023-08,E048,Finance,Controller,7851.39,0.0,1570.28,9421.67
+2023-08,E049,Finance,Accounting Manager,8269.44,0.0,1653.89,9923.33
+2023-08,E050,Finance,Financial Analyst,8687.5,0.0,1737.5,10425.0
+2023-09,E001,Engineering,Software Engineer,10600.0,0.0,2120.0,12720.0
+2023-09,E002,Engineering,Senior Software Engineer,10726.47,0.0,2145.29,12871.76
+2023-09,E003,Engineering,Staff Engineer,10852.94,0.0,2170.59,13023.53
+2023-09,E004,Engineering,DevOps Engineer,10979.41,0.0,2195.88,13175.29
+2023-09,E005,Engineering,Software Engineer,11105.88,0.0,2221.18,13327.06
+2023-09,E006,Engineering,Senior Software Engineer,11232.35,0.0,2246.47,13478.82
+2023-09,E007,Engineering,Staff Engineer,11358.82,0.0,2271.76,13630.59
+2023-09,E008,Engineering,DevOps Engineer,11485.29,0.0,2297.06,13782.35
+2023-09,E009,Engineering,Software Engineer,11611.76,0.0,2322.35,13934.12
+2023-09,E010,Engineering,Senior Software Engineer,11738.24,0.0,2347.65,14085.88
+2023-09,E011,Engineering,Staff Engineer,11864.71,0.0,2372.94,14237.65
+2023-09,E012,Engineering,DevOps Engineer,11991.18,0.0,2398.24,14389.41
+2023-09,E013,Engineering,Software Engineer,12117.65,0.0,2423.53,14541.18
+2023-09,E014,Engineering,Senior Software Engineer,12244.12,0.0,2448.82,14692.94
+2023-09,E015,Engineering,Staff Engineer,12370.59,0.0,2474.12,14844.71
+2023-09,E016,Engineering,DevOps Engineer,12497.06,0.0,2499.41,14996.47
+2023-09,E017,Engineering,Software Engineer,12623.53,0.0,2524.71,15148.24
+2023-09,E018,Engineering,Senior Software Engineer,12750.0,0.0,2550.0,15300.0
+2023-09,E019,Sales,Account Executive,7066.67,706.67,1413.33,9186.67
+2023-09,E020,Sales,Sales Development Rep,7225.93,722.59,1445.19,9393.7
+2023-09,E021,Sales,Sales Manager,7385.19,738.52,1477.04,9600.74
+2023-09,E022,Sales,Account Executive,7544.44,754.44,1508.89,9807.78
+2023-09,E023,Sales,Sales Development Rep,7703.7,770.37,1540.74,10014.81
+2023-09,E024,Sales,Sales Manager,7862.96,786.3,1572.59,10221.85
+2023-09,E025,Sales,Account Executive,8022.22,802.22,1604.44,10428.89
+2023-09,E026,Sales,Sales Development Rep,8181.48,818.15,1636.3,10635.93
+2023-09,E027,Sales,Sales Manager,8340.74,834.07,1668.15,10842.96
+2023-09,E028,Sales,Account Executive,8500.0,850.0,1700.0,11050.0
+2023-09,E029,Marketing,Marketing Manager,6600.0,0.0,1320.0,7920.0
+2023-09,E030,Marketing,Demand Generation Specialist,6850.83,0.0,1370.17,8221.0
+2023-09,E031,Marketing,Content Strategist,7101.67,0.0,1420.33,8522.0
+2023-09,E032,Marketing,Marketing Manager,7352.5,0.0,1470.5,8823.0
+2023-09,E033,Marketing,Demand Generation Specialist,7603.33,0.0,1520.67,9124.0
+2023-09,E034,Marketing,Content Strategist,7854.17,0.0,1570.83,9425.0
+2023-09,E035,Product,Product Manager,9566.67,0.0,1913.33,11480.0
+2023-09,E036,Product,Senior Product Manager,9925.0,0.0,1985.0,11910.0
+2023-09,E037,Product,Product Designer,10283.33,0.0,2056.67,12340.0
+2023-09,E038,Product,Product Manager,10641.67,0.0,2128.33,12770.0
+2023-09,E039,Product,Senior Product Manager,11000.0,0.0,2200.0,13200.0
+2023-09,E040,Operations,Operations Manager,5716.67,0.0,1143.33,6860.0
+2023-09,E041,Operations,People Operations Specialist,5895.83,0.0,1179.17,7075.0
+2023-09,E042,Operations,IT Administrator,6075.0,0.0,1215.0,7290.0
+2023-09,E043,Operations,Operations Manager,6254.17,0.0,1250.83,7505.0
+2023-09,E044,Operations,People Operations Specialist,6433.33,0.0,1286.67,7720.0
+2023-09,E045,Operations,IT Administrator,6612.5,0.0,1322.5,7935.0
+2023-09,E046,Operations,Operations Manager,6791.67,0.0,1358.33,8150.0
+2023-09,E047,Finance,Financial Analyst,7433.33,0.0,1486.67,8920.0
+2023-09,E048,Finance,Controller,7851.39,0.0,1570.28,9421.67
+2023-09,E049,Finance,Accounting Manager,8269.44,0.0,1653.89,9923.33
+2023-09,E050,Finance,Financial Analyst,8687.5,0.0,1737.5,10425.0
+2023-10,E001,Engineering,Software Engineer,10600.0,0.0,2120.0,12720.0
+2023-10,E002,Engineering,Senior Software Engineer,10726.47,0.0,2145.29,12871.76
+2023-10,E003,Engineering,Staff Engineer,10852.94,0.0,2170.59,13023.53
+2023-10,E004,Engineering,DevOps Engineer,10979.41,0.0,2195.88,13175.29
+2023-10,E005,Engineering,Software Engineer,11105.88,0.0,2221.18,13327.06
+2023-10,E006,Engineering,Senior Software Engineer,11232.35,0.0,2246.47,13478.82
+2023-10,E007,Engineering,Staff Engineer,11358.82,0.0,2271.76,13630.59
+2023-10,E008,Engineering,DevOps Engineer,11485.29,0.0,2297.06,13782.35
+2023-10,E009,Engineering,Software Engineer,11611.76,0.0,2322.35,13934.12
+2023-10,E010,Engineering,Senior Software Engineer,11738.24,0.0,2347.65,14085.88
+2023-10,E011,Engineering,Staff Engineer,11864.71,0.0,2372.94,14237.65
+2023-10,E012,Engineering,DevOps Engineer,11991.18,0.0,2398.24,14389.41
+2023-10,E013,Engineering,Software Engineer,12117.65,0.0,2423.53,14541.18
+2023-10,E014,Engineering,Senior Software Engineer,12244.12,0.0,2448.82,14692.94
+2023-10,E015,Engineering,Staff Engineer,12370.59,0.0,2474.12,14844.71
+2023-10,E016,Engineering,DevOps Engineer,12497.06,0.0,2499.41,14996.47
+2023-10,E017,Engineering,Software Engineer,12623.53,0.0,2524.71,15148.24
+2023-10,E018,Engineering,Senior Software Engineer,12750.0,0.0,2550.0,15300.0
+2023-10,E019,Sales,Account Executive,7066.67,706.67,1413.33,9186.67
+2023-10,E020,Sales,Sales Development Rep,7225.93,722.59,1445.19,9393.7
+2023-10,E021,Sales,Sales Manager,7385.19,738.52,1477.04,9600.74
+2023-10,E022,Sales,Account Executive,7544.44,754.44,1508.89,9807.78
+2023-10,E023,Sales,Sales Development Rep,7703.7,770.37,1540.74,10014.81
+2023-10,E024,Sales,Sales Manager,7862.96,786.3,1572.59,10221.85
+2023-10,E025,Sales,Account Executive,8022.22,802.22,1604.44,10428.89
+2023-10,E026,Sales,Sales Development Rep,8181.48,818.15,1636.3,10635.93
+2023-10,E027,Sales,Sales Manager,8340.74,834.07,1668.15,10842.96
+2023-10,E028,Sales,Account Executive,8500.0,850.0,1700.0,11050.0
+2023-10,E029,Marketing,Marketing Manager,6600.0,0.0,1320.0,7920.0
+2023-10,E030,Marketing,Demand Generation Specialist,6850.83,0.0,1370.17,8221.0
+2023-10,E031,Marketing,Content Strategist,7101.67,0.0,1420.33,8522.0
+2023-10,E032,Marketing,Marketing Manager,7352.5,0.0,1470.5,8823.0
+2023-10,E033,Marketing,Demand Generation Specialist,7603.33,0.0,1520.67,9124.0
+2023-10,E034,Marketing,Content Strategist,7854.17,0.0,1570.83,9425.0
+2023-10,E035,Product,Product Manager,9566.67,0.0,1913.33,11480.0
+2023-10,E036,Product,Senior Product Manager,9925.0,0.0,1985.0,11910.0
+2023-10,E037,Product,Product Designer,10283.33,0.0,2056.67,12340.0
+2023-10,E038,Product,Product Manager,10641.67,0.0,2128.33,12770.0
+2023-10,E039,Product,Senior Product Manager,11000.0,0.0,2200.0,13200.0
+2023-10,E040,Operations,Operations Manager,5716.67,0.0,1143.33,6860.0
+2023-10,E041,Operations,People Operations Specialist,5895.83,0.0,1179.17,7075.0
+2023-10,E042,Operations,IT Administrator,6075.0,0.0,1215.0,7290.0
+2023-10,E043,Operations,Operations Manager,6254.17,0.0,1250.83,7505.0
+2023-10,E044,Operations,People Operations Specialist,6433.33,0.0,1286.67,7720.0
+2023-10,E045,Operations,IT Administrator,6612.5,0.0,1322.5,7935.0
+2023-10,E046,Operations,Operations Manager,6791.67,0.0,1358.33,8150.0
+2023-10,E047,Finance,Financial Analyst,7433.33,0.0,1486.67,8920.0
+2023-10,E048,Finance,Controller,7851.39,0.0,1570.28,9421.67
+2023-10,E049,Finance,Accounting Manager,8269.44,0.0,1653.89,9923.33
+2023-10,E050,Finance,Financial Analyst,8687.5,0.0,1737.5,10425.0
+2023-11,E001,Engineering,Software Engineer,10600.0,0.0,2120.0,12720.0
+2023-11,E002,Engineering,Senior Software Engineer,10726.47,0.0,2145.29,12871.76
+2023-11,E003,Engineering,Staff Engineer,10852.94,0.0,2170.59,13023.53
+2023-11,E004,Engineering,DevOps Engineer,10979.41,0.0,2195.88,13175.29
+2023-11,E005,Engineering,Software Engineer,11105.88,0.0,2221.18,13327.06
+2023-11,E006,Engineering,Senior Software Engineer,11232.35,0.0,2246.47,13478.82
+2023-11,E007,Engineering,Staff Engineer,11358.82,0.0,2271.76,13630.59
+2023-11,E008,Engineering,DevOps Engineer,11485.29,0.0,2297.06,13782.35
+2023-11,E009,Engineering,Software Engineer,11611.76,0.0,2322.35,13934.12
+2023-11,E010,Engineering,Senior Software Engineer,11738.24,0.0,2347.65,14085.88
+2023-11,E011,Engineering,Staff Engineer,11864.71,0.0,2372.94,14237.65
+2023-11,E012,Engineering,DevOps Engineer,11991.18,0.0,2398.24,14389.41
+2023-11,E013,Engineering,Software Engineer,12117.65,0.0,2423.53,14541.18
+2023-11,E014,Engineering,Senior Software Engineer,12244.12,0.0,2448.82,14692.94
+2023-11,E015,Engineering,Staff Engineer,12370.59,0.0,2474.12,14844.71
+2023-11,E016,Engineering,DevOps Engineer,12497.06,0.0,2499.41,14996.47
+2023-11,E017,Engineering,Software Engineer,12623.53,0.0,2524.71,15148.24
+2023-11,E018,Engineering,Senior Software Engineer,12750.0,0.0,2550.0,15300.0
+2023-11,E019,Sales,Account Executive,7066.67,706.67,1413.33,9186.67
+2023-11,E020,Sales,Sales Development Rep,7225.93,722.59,1445.19,9393.7
+2023-11,E021,Sales,Sales Manager,7385.19,738.52,1477.04,9600.74
+2023-11,E022,Sales,Account Executive,7544.44,754.44,1508.89,9807.78
+2023-11,E023,Sales,Sales Development Rep,7703.7,770.37,1540.74,10014.81
+2023-11,E024,Sales,Sales Manager,7862.96,786.3,1572.59,10221.85
+2023-11,E025,Sales,Account Executive,8022.22,802.22,1604.44,10428.89
+2023-11,E026,Sales,Sales Development Rep,8181.48,818.15,1636.3,10635.93
+2023-11,E027,Sales,Sales Manager,8340.74,834.07,1668.15,10842.96
+2023-11,E028,Sales,Account Executive,8500.0,850.0,1700.0,11050.0
+2023-11,E029,Marketing,Marketing Manager,6600.0,0.0,1320.0,7920.0
+2023-11,E030,Marketing,Demand Generation Specialist,6850.83,0.0,1370.17,8221.0
+2023-11,E031,Marketing,Content Strategist,7101.67,0.0,1420.33,8522.0
+2023-11,E032,Marketing,Marketing Manager,7352.5,0.0,1470.5,8823.0
+2023-11,E033,Marketing,Demand Generation Specialist,7603.33,0.0,1520.67,9124.0
+2023-11,E034,Marketing,Content Strategist,7854.17,0.0,1570.83,9425.0
+2023-11,E035,Product,Product Manager,9566.67,0.0,1913.33,11480.0
+2023-11,E036,Product,Senior Product Manager,9925.0,0.0,1985.0,11910.0
+2023-11,E037,Product,Product Designer,10283.33,0.0,2056.67,12340.0
+2023-11,E038,Product,Product Manager,10641.67,0.0,2128.33,12770.0
+2023-11,E039,Product,Senior Product Manager,11000.0,0.0,2200.0,13200.0
+2023-11,E040,Operations,Operations Manager,5716.67,0.0,1143.33,6860.0
+2023-11,E041,Operations,People Operations Specialist,5895.83,0.0,1179.17,7075.0
+2023-11,E042,Operations,IT Administrator,6075.0,0.0,1215.0,7290.0
+2023-11,E043,Operations,Operations Manager,6254.17,0.0,1250.83,7505.0
+2023-11,E044,Operations,People Operations Specialist,6433.33,0.0,1286.67,7720.0
+2023-11,E045,Operations,IT Administrator,6612.5,0.0,1322.5,7935.0
+2023-11,E046,Operations,Operations Manager,6791.67,0.0,1358.33,8150.0
+2023-11,E047,Finance,Financial Analyst,7433.33,0.0,1486.67,8920.0
+2023-11,E048,Finance,Controller,7851.39,0.0,1570.28,9421.67
+2023-11,E049,Finance,Accounting Manager,8269.44,0.0,1653.89,9923.33
+2023-11,E050,Finance,Financial Analyst,8687.5,0.0,1737.5,10425.0
+2023-12,E001,Engineering,Software Engineer,10600.0,19080.0,2120.0,31800.0
+2023-12,E002,Engineering,Senior Software Engineer,10726.47,19307.65,2145.29,32179.41
+2023-12,E003,Engineering,Staff Engineer,10852.94,19535.29,2170.59,32558.82
+2023-12,E004,Engineering,DevOps Engineer,10979.41,19762.94,2195.88,32938.24
+2023-12,E005,Engineering,Software Engineer,11105.88,19990.59,2221.18,33317.65
+2023-12,E006,Engineering,Senior Software Engineer,11232.35,20218.24,2246.47,33697.06
+2023-12,E007,Engineering,Staff Engineer,11358.82,20445.88,2271.76,34076.47
+2023-12,E008,Engineering,DevOps Engineer,11485.29,20673.53,2297.06,34455.88
+2023-12,E009,Engineering,Software Engineer,11611.76,20901.18,2322.35,34835.29
+2023-12,E010,Engineering,Senior Software Engineer,11738.24,21128.82,2347.65,35214.71
+2023-12,E011,Engineering,Staff Engineer,11864.71,21356.47,2372.94,35594.12
+2023-12,E012,Engineering,DevOps Engineer,11991.18,21584.12,2398.24,35973.53
+2023-12,E013,Engineering,Software Engineer,12117.65,21811.76,2423.53,36352.94
+2023-12,E014,Engineering,Senior Software Engineer,12244.12,22039.41,2448.82,36732.35
+2023-12,E015,Engineering,Staff Engineer,12370.59,22267.06,2474.12,37111.76
+2023-12,E016,Engineering,DevOps Engineer,12497.06,22494.71,2499.41,37491.18
+2023-12,E017,Engineering,Software Engineer,12623.53,22722.35,2524.71,37870.59
+2023-12,E018,Engineering,Senior Software Engineer,12750.0,22950.0,2550.0,38250.0
+2023-12,E019,Sales,Account Executive,7066.67,13426.67,1413.33,21906.67
+2023-12,E020,Sales,Sales Development Rep,7225.93,13729.26,1445.19,22400.37
+2023-12,E021,Sales,Sales Manager,7385.19,14031.85,1477.04,22894.07
+2023-12,E022,Sales,Account Executive,7544.44,14334.44,1508.89,23387.78
+2023-12,E023,Sales,Sales Development Rep,7703.7,14637.04,1540.74,23881.48
+2023-12,E024,Sales,Sales Manager,7862.96,14939.63,1572.59,24375.19
+2023-12,E025,Sales,Account Executive,8022.22,15242.22,1604.44,24868.89
+2023-12,E026,Sales,Sales Development Rep,8181.48,15544.81,1636.3,25362.59
+2023-12,E027,Sales,Sales Manager,8340.74,15847.41,1668.15,25856.3
+2023-12,E028,Sales,Account Executive,8500.0,16150.0,1700.0,26350.0
+2023-12,E029,Marketing,Marketing Manager,6600.0,11880.0,1320.0,19800.0
+2023-12,E030,Marketing,Demand Generation Specialist,6850.83,12331.5,1370.17,20552.5
+2023-12,E031,Marketing,Content Strategist,7101.67,12783.0,1420.33,21305.0
+2023-12,E032,Marketing,Marketing Manager,7352.5,13234.5,1470.5,22057.5
+2023-12,E033,Marketing,Demand Generation Specialist,7603.33,13686.0,1520.67,22810.0
+2023-12,E034,Marketing,Content Strategist,7854.17,14137.5,1570.83,23562.5
+2023-12,E035,Product,Product Manager,9566.67,17220.0,1913.33,28700.0
+2023-12,E036,Product,Senior Product Manager,9925.0,17865.0,1985.0,29775.0
+2023-12,E037,Product,Product Designer,10283.33,18510.0,2056.67,30850.0
+2023-12,E038,Product,Product Manager,10641.67,19155.0,2128.33,31925.0
+2023-12,E039,Product,Senior Product Manager,11000.0,19800.0,2200.0,33000.0
+2023-12,E040,Operations,Operations Manager,5716.67,10290.0,1143.33,17150.0
+2023-12,E041,Operations,People Operations Specialist,5895.83,10612.5,1179.17,17687.5
+2023-12,E042,Operations,IT Administrator,6075.0,10935.0,1215.0,18225.0
+2023-12,E043,Operations,Operations Manager,6254.17,11257.5,1250.83,18762.5
+2023-12,E044,Operations,People Operations Specialist,6433.33,11580.0,1286.67,19300.0
+2023-12,E045,Operations,IT Administrator,6612.5,11902.5,1322.5,19837.5
+2023-12,E046,Operations,Operations Manager,6791.67,12225.0,1358.33,20375.0
+2023-12,E047,Finance,Financial Analyst,7433.33,13380.0,1486.67,22300.0
+2023-12,E048,Finance,Controller,7851.39,14132.5,1570.28,23554.17
+2023-12,E049,Finance,Accounting Manager,8269.44,14885.0,1653.89,24808.33
+2023-12,E050,Finance,Financial Analyst,8687.5,15637.5,1737.5,26062.5
+2024-01,E001,Engineering,Software Engineer,11660.0,0.0,2332.0,13992.0
+2024-01,E002,Engineering,Senior Software Engineer,11799.12,0.0,2359.82,14158.94
+2024-01,E003,Engineering,Staff Engineer,11938.24,0.0,2387.65,14325.88
+2024-01,E004,Engineering,DevOps Engineer,12077.35,0.0,2415.47,14492.82
+2024-01,E005,Engineering,Software Engineer,12216.47,0.0,2443.29,14659.76
+2024-01,E006,Engineering,Senior Software Engineer,12355.59,0.0,2471.12,14826.71
+2024-01,E007,Engineering,Staff Engineer,12494.71,0.0,2498.94,14993.65
+2024-01,E008,Engineering,DevOps Engineer,12633.82,0.0,2526.76,15160.59
+2024-01,E009,Engineering,Software Engineer,12772.94,0.0,2554.59,15327.53
+2024-01,E010,Engineering,Senior Software Engineer,12912.06,0.0,2582.41,15494.47
+2024-01,E011,Engineering,Staff Engineer,13051.18,0.0,2610.24,15661.41
+2024-01,E012,Engineering,DevOps Engineer,13190.29,0.0,2638.06,15828.35
+2024-01,E013,Engineering,Software Engineer,13329.41,0.0,2665.88,15995.29
+2024-01,E014,Engineering,Senior Software Engineer,13468.53,0.0,2693.71,16162.24
+2024-01,E015,Engineering,Staff Engineer,13607.65,0.0,2721.53,16329.18
+2024-01,E016,Engineering,DevOps Engineer,13746.76,0.0,2749.35,16496.12
+2024-01,E017,Engineering,Software Engineer,13885.88,0.0,2777.18,16663.06
+2024-01,E018,Engineering,Senior Software Engineer,14025.0,0.0,2805.0,16830.0
+2024-01,E019,Sales,Account Executive,7773.33,777.33,1554.67,10105.33
+2024-01,E020,Sales,Sales Development Rep,7948.52,794.85,1589.7,10333.07
+2024-01,E021,Sales,Sales Manager,8123.7,812.37,1624.74,10560.81
+2024-01,E022,Sales,Account Executive,8298.89,829.89,1659.78,10788.56
+2024-01,E023,Sales,Sales Development Rep,8474.07,847.41,1694.81,11016.3
+2024-01,E024,Sales,Sales Manager,8649.26,864.93,1729.85,11244.04
+2024-01,E025,Sales,Account Executive,8824.44,882.44,1764.89,11471.78
+2024-01,E026,Sales,Sales Development Rep,8999.63,899.96,1799.93,11699.52
+2024-01,E027,Sales,Sales Manager,9174.81,917.48,1834.96,11927.26
+2024-01,E028,Sales,Account Executive,9350.0,935.0,1870.0,12155.0
+2024-01,E029,Marketing,Marketing Manager,7260.0,0.0,1452.0,8712.0
+2024-01,E030,Marketing,Demand Generation Specialist,7535.92,0.0,1507.18,9043.1
+2024-01,E031,Marketing,Content Strategist,7811.83,0.0,1562.37,9374.2
+2024-01,E032,Marketing,Marketing Manager,8087.75,0.0,1617.55,9705.3
+2024-01,E033,Marketing,Demand Generation Specialist,8363.67,0.0,1672.73,10036.4
+2024-01,E034,Marketing,Content Strategist,8639.58,0.0,1727.92,10367.5
+2024-01,E035,Product,Product Manager,10523.33,0.0,2104.67,12628.0
+2024-01,E036,Product,Senior Product Manager,10917.5,0.0,2183.5,13101.0
+2024-01,E037,Product,Product Designer,11311.67,0.0,2262.33,13574.0
+2024-01,E038,Product,Product Manager,11705.83,0.0,2341.17,14047.0
+2024-01,E039,Product,Senior Product Manager,12100.0,0.0,2420.0,14520.0
+2024-01,E040,Operations,Operations Manager,6288.33,0.0,1257.67,7546.0
+2024-01,E041,Operations,People Operations Specialist,6485.42,0.0,1297.08,7782.5
+2024-01,E042,Operations,IT Administrator,6682.5,0.0,1336.5,8019.0
+2024-01,E043,Operations,Operations Manager,6879.58,0.0,1375.92,8255.5
+2024-01,E044,Operations,People Operations Specialist,7076.67,0.0,1415.33,8492.0
+2024-01,E045,Operations,IT Administrator,7273.75,0.0,1454.75,8728.5
+2024-01,E046,Operations,Operations Manager,7470.83,0.0,1494.17,8965.0
+2024-01,E047,Finance,Financial Analyst,8176.67,0.0,1635.33,9812.0
+2024-01,E048,Finance,Controller,8636.53,0.0,1727.31,10363.83
+2024-01,E049,Finance,Accounting Manager,9096.39,0.0,1819.28,10915.67
+2024-01,E050,Finance,Financial Analyst,9556.25,0.0,1911.25,11467.5
+2024-02,E001,Engineering,Software Engineer,11660.0,0.0,2332.0,13992.0
+2024-02,E002,Engineering,Senior Software Engineer,11799.12,0.0,2359.82,14158.94
+2024-02,E003,Engineering,Staff Engineer,11938.24,0.0,2387.65,14325.88
+2024-02,E004,Engineering,DevOps Engineer,12077.35,0.0,2415.47,14492.82
+2024-02,E005,Engineering,Software Engineer,12216.47,0.0,2443.29,14659.76
+2024-02,E006,Engineering,Senior Software Engineer,12355.59,0.0,2471.12,14826.71
+2024-02,E007,Engineering,Staff Engineer,12494.71,0.0,2498.94,14993.65
+2024-02,E008,Engineering,DevOps Engineer,12633.82,0.0,2526.76,15160.59
+2024-02,E009,Engineering,Software Engineer,12772.94,0.0,2554.59,15327.53
+2024-02,E010,Engineering,Senior Software Engineer,12912.06,0.0,2582.41,15494.47
+2024-02,E011,Engineering,Staff Engineer,13051.18,0.0,2610.24,15661.41
+2024-02,E012,Engineering,DevOps Engineer,13190.29,0.0,2638.06,15828.35
+2024-02,E013,Engineering,Software Engineer,13329.41,0.0,2665.88,15995.29
+2024-02,E014,Engineering,Senior Software Engineer,13468.53,0.0,2693.71,16162.24
+2024-02,E015,Engineering,Staff Engineer,13607.65,0.0,2721.53,16329.18
+2024-02,E016,Engineering,DevOps Engineer,13746.76,0.0,2749.35,16496.12
+2024-02,E017,Engineering,Software Engineer,13885.88,0.0,2777.18,16663.06
+2024-02,E018,Engineering,Senior Software Engineer,14025.0,0.0,2805.0,16830.0
+2024-02,E019,Sales,Account Executive,7773.33,777.33,1554.67,10105.33
+2024-02,E020,Sales,Sales Development Rep,7948.52,794.85,1589.7,10333.07
+2024-02,E021,Sales,Sales Manager,8123.7,812.37,1624.74,10560.81
+2024-02,E022,Sales,Account Executive,8298.89,829.89,1659.78,10788.56
+2024-02,E023,Sales,Sales Development Rep,8474.07,847.41,1694.81,11016.3
+2024-02,E024,Sales,Sales Manager,8649.26,864.93,1729.85,11244.04
+2024-02,E025,Sales,Account Executive,8824.44,882.44,1764.89,11471.78
+2024-02,E026,Sales,Sales Development Rep,8999.63,899.96,1799.93,11699.52
+2024-02,E027,Sales,Sales Manager,9174.81,917.48,1834.96,11927.26
+2024-02,E028,Sales,Account Executive,9350.0,935.0,1870.0,12155.0
+2024-02,E029,Marketing,Marketing Manager,7260.0,0.0,1452.0,8712.0
+2024-02,E030,Marketing,Demand Generation Specialist,7535.92,0.0,1507.18,9043.1
+2024-02,E031,Marketing,Content Strategist,7811.83,0.0,1562.37,9374.2
+2024-02,E032,Marketing,Marketing Manager,8087.75,0.0,1617.55,9705.3
+2024-02,E033,Marketing,Demand Generation Specialist,8363.67,0.0,1672.73,10036.4
+2024-02,E034,Marketing,Content Strategist,8639.58,0.0,1727.92,10367.5
+2024-02,E035,Product,Product Manager,10523.33,0.0,2104.67,12628.0
+2024-02,E036,Product,Senior Product Manager,10917.5,0.0,2183.5,13101.0
+2024-02,E037,Product,Product Designer,11311.67,0.0,2262.33,13574.0
+2024-02,E038,Product,Product Manager,11705.83,0.0,2341.17,14047.0
+2024-02,E039,Product,Senior Product Manager,12100.0,0.0,2420.0,14520.0
+2024-02,E040,Operations,Operations Manager,6288.33,0.0,1257.67,7546.0
+2024-02,E041,Operations,People Operations Specialist,6485.42,0.0,1297.08,7782.5
+2024-02,E042,Operations,IT Administrator,6682.5,0.0,1336.5,8019.0
+2024-02,E043,Operations,Operations Manager,6879.58,0.0,1375.92,8255.5
+2024-02,E044,Operations,People Operations Specialist,7076.67,0.0,1415.33,8492.0
+2024-02,E045,Operations,IT Administrator,7273.75,0.0,1454.75,8728.5
+2024-02,E046,Operations,Operations Manager,7470.83,0.0,1494.17,8965.0
+2024-02,E047,Finance,Financial Analyst,8176.67,0.0,1635.33,9812.0
+2024-02,E048,Finance,Controller,8636.53,0.0,1727.31,10363.83
+2024-02,E049,Finance,Accounting Manager,9096.39,0.0,1819.28,10915.67
+2024-02,E050,Finance,Financial Analyst,9556.25,0.0,1911.25,11467.5
+2024-03,E001,Engineering,Software Engineer,11660.0,0.0,2332.0,13992.0
+2024-03,E002,Engineering,Senior Software Engineer,11799.12,0.0,2359.82,14158.94
+2024-03,E003,Engineering,Staff Engineer,11938.24,0.0,2387.65,14325.88
+2024-03,E004,Engineering,DevOps Engineer,12077.35,0.0,2415.47,14492.82
+2024-03,E005,Engineering,Software Engineer,12216.47,0.0,2443.29,14659.76
+2024-03,E006,Engineering,Senior Software Engineer,12355.59,0.0,2471.12,14826.71
+2024-03,E007,Engineering,Staff Engineer,12494.71,0.0,2498.94,14993.65
+2024-03,E008,Engineering,DevOps Engineer,12633.82,0.0,2526.76,15160.59
+2024-03,E009,Engineering,Software Engineer,12772.94,0.0,2554.59,15327.53
+2024-03,E010,Engineering,Senior Software Engineer,12912.06,0.0,2582.41,15494.47
+2024-03,E011,Engineering,Staff Engineer,13051.18,0.0,2610.24,15661.41
+2024-03,E012,Engineering,DevOps Engineer,13190.29,0.0,2638.06,15828.35
+2024-03,E013,Engineering,Software Engineer,13329.41,0.0,2665.88,15995.29
+2024-03,E014,Engineering,Senior Software Engineer,13468.53,0.0,2693.71,16162.24
+2024-03,E015,Engineering,Staff Engineer,13607.65,0.0,2721.53,16329.18
+2024-03,E016,Engineering,DevOps Engineer,13746.76,0.0,2749.35,16496.12
+2024-03,E017,Engineering,Software Engineer,13885.88,0.0,2777.18,16663.06
+2024-03,E018,Engineering,Senior Software Engineer,14025.0,0.0,2805.0,16830.0
+2024-03,E019,Sales,Account Executive,7773.33,777.33,1554.67,10105.33
+2024-03,E020,Sales,Sales Development Rep,7948.52,794.85,1589.7,10333.07
+2024-03,E021,Sales,Sales Manager,8123.7,812.37,1624.74,10560.81
+2024-03,E022,Sales,Account Executive,8298.89,829.89,1659.78,10788.56
+2024-03,E023,Sales,Sales Development Rep,8474.07,847.41,1694.81,11016.3
+2024-03,E024,Sales,Sales Manager,8649.26,864.93,1729.85,11244.04
+2024-03,E025,Sales,Account Executive,8824.44,882.44,1764.89,11471.78
+2024-03,E026,Sales,Sales Development Rep,8999.63,899.96,1799.93,11699.52
+2024-03,E027,Sales,Sales Manager,9174.81,917.48,1834.96,11927.26
+2024-03,E028,Sales,Account Executive,9350.0,935.0,1870.0,12155.0
+2024-03,E029,Marketing,Marketing Manager,7260.0,0.0,1452.0,8712.0
+2024-03,E030,Marketing,Demand Generation Specialist,7535.92,0.0,1507.18,9043.1
+2024-03,E031,Marketing,Content Strategist,7811.83,0.0,1562.37,9374.2
+2024-03,E032,Marketing,Marketing Manager,8087.75,0.0,1617.55,9705.3
+2024-03,E033,Marketing,Demand Generation Specialist,8363.67,0.0,1672.73,10036.4
+2024-03,E034,Marketing,Content Strategist,8639.58,0.0,1727.92,10367.5
+2024-03,E035,Product,Product Manager,10523.33,0.0,2104.67,12628.0
+2024-03,E036,Product,Senior Product Manager,10917.5,0.0,2183.5,13101.0
+2024-03,E037,Product,Product Designer,11311.67,0.0,2262.33,13574.0
+2024-03,E038,Product,Product Manager,11705.83,0.0,2341.17,14047.0
+2024-03,E039,Product,Senior Product Manager,12100.0,0.0,2420.0,14520.0
+2024-03,E040,Operations,Operations Manager,6288.33,0.0,1257.67,7546.0
+2024-03,E041,Operations,People Operations Specialist,6485.42,0.0,1297.08,7782.5
+2024-03,E042,Operations,IT Administrator,6682.5,0.0,1336.5,8019.0
+2024-03,E043,Operations,Operations Manager,6879.58,0.0,1375.92,8255.5
+2024-03,E044,Operations,People Operations Specialist,7076.67,0.0,1415.33,8492.0
+2024-03,E045,Operations,IT Administrator,7273.75,0.0,1454.75,8728.5
+2024-03,E046,Operations,Operations Manager,7470.83,0.0,1494.17,8965.0
+2024-03,E047,Finance,Financial Analyst,8176.67,0.0,1635.33,9812.0
+2024-03,E048,Finance,Controller,8636.53,0.0,1727.31,10363.83
+2024-03,E049,Finance,Accounting Manager,9096.39,0.0,1819.28,10915.67
+2024-03,E050,Finance,Financial Analyst,9556.25,0.0,1911.25,11467.5
+2024-04,E001,Engineering,Software Engineer,11660.0,0.0,2332.0,13992.0
+2024-04,E002,Engineering,Senior Software Engineer,11799.12,0.0,2359.82,14158.94
+2024-04,E003,Engineering,Staff Engineer,11938.24,0.0,2387.65,14325.88
+2024-04,E004,Engineering,DevOps Engineer,12077.35,0.0,2415.47,14492.82
+2024-04,E005,Engineering,Software Engineer,12216.47,0.0,2443.29,14659.76
+2024-04,E006,Engineering,Senior Software Engineer,12355.59,0.0,2471.12,14826.71
+2024-04,E007,Engineering,Staff Engineer,12494.71,0.0,2498.94,14993.65
+2024-04,E008,Engineering,DevOps Engineer,12633.82,0.0,2526.76,15160.59
+2024-04,E009,Engineering,Software Engineer,12772.94,0.0,2554.59,15327.53
+2024-04,E010,Engineering,Senior Software Engineer,12912.06,0.0,2582.41,15494.47
+2024-04,E011,Engineering,Staff Engineer,13051.18,0.0,2610.24,15661.41
+2024-04,E012,Engineering,DevOps Engineer,13190.29,0.0,2638.06,15828.35
+2024-04,E013,Engineering,Software Engineer,13329.41,0.0,2665.88,15995.29
+2024-04,E014,Engineering,Senior Software Engineer,13468.53,0.0,2693.71,16162.24
+2024-04,E015,Engineering,Staff Engineer,13607.65,0.0,2721.53,16329.18
+2024-04,E016,Engineering,DevOps Engineer,13746.76,0.0,2749.35,16496.12
+2024-04,E017,Engineering,Software Engineer,13885.88,0.0,2777.18,16663.06
+2024-04,E018,Engineering,Senior Software Engineer,14025.0,0.0,2805.0,16830.0
+2024-04,E019,Sales,Account Executive,7773.33,777.33,1554.67,10105.33
+2024-04,E020,Sales,Sales Development Rep,7948.52,794.85,1589.7,10333.07
+2024-04,E021,Sales,Sales Manager,8123.7,812.37,1624.74,10560.81
+2024-04,E022,Sales,Account Executive,8298.89,829.89,1659.78,10788.56
+2024-04,E023,Sales,Sales Development Rep,8474.07,847.41,1694.81,11016.3
+2024-04,E024,Sales,Sales Manager,8649.26,864.93,1729.85,11244.04
+2024-04,E025,Sales,Account Executive,8824.44,882.44,1764.89,11471.78
+2024-04,E026,Sales,Sales Development Rep,8999.63,899.96,1799.93,11699.52
+2024-04,E027,Sales,Sales Manager,9174.81,917.48,1834.96,11927.26
+2024-04,E028,Sales,Account Executive,9350.0,935.0,1870.0,12155.0
+2024-04,E029,Marketing,Marketing Manager,7260.0,0.0,1452.0,8712.0
+2024-04,E030,Marketing,Demand Generation Specialist,7535.92,0.0,1507.18,9043.1
+2024-04,E031,Marketing,Content Strategist,7811.83,0.0,1562.37,9374.2
+2024-04,E032,Marketing,Marketing Manager,8087.75,0.0,1617.55,9705.3
+2024-04,E033,Marketing,Demand Generation Specialist,8363.67,0.0,1672.73,10036.4
+2024-04,E034,Marketing,Content Strategist,8639.58,0.0,1727.92,10367.5
+2024-04,E035,Product,Product Manager,10523.33,0.0,2104.67,12628.0
+2024-04,E036,Product,Senior Product Manager,10917.5,0.0,2183.5,13101.0
+2024-04,E037,Product,Product Designer,11311.67,0.0,2262.33,13574.0
+2024-04,E038,Product,Product Manager,11705.83,0.0,2341.17,14047.0
+2024-04,E039,Product,Senior Product Manager,12100.0,0.0,2420.0,14520.0
+2024-04,E040,Operations,Operations Manager,6288.33,0.0,1257.67,7546.0
+2024-04,E041,Operations,People Operations Specialist,6485.42,0.0,1297.08,7782.5
+2024-04,E042,Operations,IT Administrator,6682.5,0.0,1336.5,8019.0
+2024-04,E043,Operations,Operations Manager,6879.58,0.0,1375.92,8255.5
+2024-04,E044,Operations,People Operations Specialist,7076.67,0.0,1415.33,8492.0
+2024-04,E045,Operations,IT Administrator,7273.75,0.0,1454.75,8728.5
+2024-04,E046,Operations,Operations Manager,7470.83,0.0,1494.17,8965.0
+2024-04,E047,Finance,Financial Analyst,8176.67,0.0,1635.33,9812.0
+2024-04,E048,Finance,Controller,8636.53,0.0,1727.31,10363.83
+2024-04,E049,Finance,Accounting Manager,9096.39,0.0,1819.28,10915.67
+2024-04,E050,Finance,Financial Analyst,9556.25,0.0,1911.25,11467.5
+2024-05,E001,Engineering,Software Engineer,11660.0,0.0,2332.0,13992.0
+2024-05,E002,Engineering,Senior Software Engineer,11799.12,0.0,2359.82,14158.94
+2024-05,E003,Engineering,Staff Engineer,11938.24,0.0,2387.65,14325.88
+2024-05,E004,Engineering,DevOps Engineer,12077.35,0.0,2415.47,14492.82
+2024-05,E005,Engineering,Software Engineer,12216.47,0.0,2443.29,14659.76
+2024-05,E006,Engineering,Senior Software Engineer,12355.59,0.0,2471.12,14826.71
+2024-05,E007,Engineering,Staff Engineer,12494.71,0.0,2498.94,14993.65
+2024-05,E008,Engineering,DevOps Engineer,12633.82,0.0,2526.76,15160.59
+2024-05,E009,Engineering,Software Engineer,12772.94,0.0,2554.59,15327.53
+2024-05,E010,Engineering,Senior Software Engineer,12912.06,0.0,2582.41,15494.47
+2024-05,E011,Engineering,Staff Engineer,13051.18,0.0,2610.24,15661.41
+2024-05,E012,Engineering,DevOps Engineer,13190.29,0.0,2638.06,15828.35
+2024-05,E013,Engineering,Software Engineer,13329.41,0.0,2665.88,15995.29
+2024-05,E014,Engineering,Senior Software Engineer,13468.53,0.0,2693.71,16162.24
+2024-05,E015,Engineering,Staff Engineer,13607.65,0.0,2721.53,16329.18
+2024-05,E016,Engineering,DevOps Engineer,13746.76,0.0,2749.35,16496.12
+2024-05,E017,Engineering,Software Engineer,13885.88,0.0,2777.18,16663.06
+2024-05,E018,Engineering,Senior Software Engineer,14025.0,0.0,2805.0,16830.0
+2024-05,E019,Sales,Account Executive,7773.33,777.33,1554.67,10105.33
+2024-05,E020,Sales,Sales Development Rep,7948.52,794.85,1589.7,10333.07
+2024-05,E021,Sales,Sales Manager,8123.7,812.37,1624.74,10560.81
+2024-05,E022,Sales,Account Executive,8298.89,829.89,1659.78,10788.56
+2024-05,E023,Sales,Sales Development Rep,8474.07,847.41,1694.81,11016.3
+2024-05,E024,Sales,Sales Manager,8649.26,864.93,1729.85,11244.04
+2024-05,E025,Sales,Account Executive,8824.44,882.44,1764.89,11471.78
+2024-05,E026,Sales,Sales Development Rep,8999.63,899.96,1799.93,11699.52
+2024-05,E027,Sales,Sales Manager,9174.81,917.48,1834.96,11927.26
+2024-05,E028,Sales,Account Executive,9350.0,935.0,1870.0,12155.0
+2024-05,E029,Marketing,Marketing Manager,7260.0,0.0,1452.0,8712.0
+2024-05,E030,Marketing,Demand Generation Specialist,7535.92,0.0,1507.18,9043.1
+2024-05,E031,Marketing,Content Strategist,7811.83,0.0,1562.37,9374.2
+2024-05,E032,Marketing,Marketing Manager,8087.75,0.0,1617.55,9705.3
+2024-05,E033,Marketing,Demand Generation Specialist,8363.67,0.0,1672.73,10036.4
+2024-05,E034,Marketing,Content Strategist,8639.58,0.0,1727.92,10367.5
+2024-05,E035,Product,Product Manager,10523.33,0.0,2104.67,12628.0
+2024-05,E036,Product,Senior Product Manager,10917.5,0.0,2183.5,13101.0
+2024-05,E037,Product,Product Designer,11311.67,0.0,2262.33,13574.0
+2024-05,E038,Product,Product Manager,11705.83,0.0,2341.17,14047.0
+2024-05,E039,Product,Senior Product Manager,12100.0,0.0,2420.0,14520.0
+2024-05,E040,Operations,Operations Manager,6288.33,0.0,1257.67,7546.0
+2024-05,E041,Operations,People Operations Specialist,6485.42,0.0,1297.08,7782.5
+2024-05,E042,Operations,IT Administrator,6682.5,0.0,1336.5,8019.0
+2024-05,E043,Operations,Operations Manager,6879.58,0.0,1375.92,8255.5
+2024-05,E044,Operations,People Operations Specialist,7076.67,0.0,1415.33,8492.0
+2024-05,E045,Operations,IT Administrator,7273.75,0.0,1454.75,8728.5
+2024-05,E046,Operations,Operations Manager,7470.83,0.0,1494.17,8965.0
+2024-05,E047,Finance,Financial Analyst,8176.67,0.0,1635.33,9812.0
+2024-05,E048,Finance,Controller,8636.53,0.0,1727.31,10363.83
+2024-05,E049,Finance,Accounting Manager,9096.39,0.0,1819.28,10915.67
+2024-05,E050,Finance,Financial Analyst,9556.25,0.0,1911.25,11467.5
+2024-06,E001,Engineering,Software Engineer,11660.0,0.0,2332.0,13992.0
+2024-06,E002,Engineering,Senior Software Engineer,11799.12,0.0,2359.82,14158.94
+2024-06,E003,Engineering,Staff Engineer,11938.24,0.0,2387.65,14325.88
+2024-06,E004,Engineering,DevOps Engineer,12077.35,0.0,2415.47,14492.82
+2024-06,E005,Engineering,Software Engineer,12216.47,0.0,2443.29,14659.76
+2024-06,E006,Engineering,Senior Software Engineer,12355.59,0.0,2471.12,14826.71
+2024-06,E007,Engineering,Staff Engineer,12494.71,0.0,2498.94,14993.65
+2024-06,E008,Engineering,DevOps Engineer,12633.82,0.0,2526.76,15160.59
+2024-06,E009,Engineering,Software Engineer,12772.94,0.0,2554.59,15327.53
+2024-06,E010,Engineering,Senior Software Engineer,12912.06,0.0,2582.41,15494.47
+2024-06,E011,Engineering,Staff Engineer,13051.18,0.0,2610.24,15661.41
+2024-06,E012,Engineering,DevOps Engineer,13190.29,0.0,2638.06,15828.35
+2024-06,E013,Engineering,Software Engineer,13329.41,0.0,2665.88,15995.29
+2024-06,E014,Engineering,Senior Software Engineer,13468.53,0.0,2693.71,16162.24
+2024-06,E015,Engineering,Staff Engineer,13607.65,0.0,2721.53,16329.18
+2024-06,E016,Engineering,DevOps Engineer,13746.76,0.0,2749.35,16496.12
+2024-06,E017,Engineering,Software Engineer,13885.88,0.0,2777.18,16663.06
+2024-06,E018,Engineering,Senior Software Engineer,14025.0,0.0,2805.0,16830.0
+2024-06,E019,Sales,Account Executive,7773.33,777.33,1554.67,10105.33
+2024-06,E020,Sales,Sales Development Rep,7948.52,794.85,1589.7,10333.07
+2024-06,E021,Sales,Sales Manager,8123.7,812.37,1624.74,10560.81
+2024-06,E022,Sales,Account Executive,8298.89,829.89,1659.78,10788.56
+2024-06,E023,Sales,Sales Development Rep,8474.07,847.41,1694.81,11016.3
+2024-06,E024,Sales,Sales Manager,8649.26,864.93,1729.85,11244.04
+2024-06,E025,Sales,Account Executive,8824.44,882.44,1764.89,11471.78
+2024-06,E026,Sales,Sales Development Rep,8999.63,899.96,1799.93,11699.52
+2024-06,E027,Sales,Sales Manager,9174.81,917.48,1834.96,11927.26
+2024-06,E028,Sales,Account Executive,9350.0,935.0,1870.0,12155.0
+2024-06,E029,Marketing,Marketing Manager,7260.0,0.0,1452.0,8712.0
+2024-06,E030,Marketing,Demand Generation Specialist,7535.92,0.0,1507.18,9043.1
+2024-06,E031,Marketing,Content Strategist,7811.83,0.0,1562.37,9374.2
+2024-06,E032,Marketing,Marketing Manager,8087.75,0.0,1617.55,9705.3
+2024-06,E033,Marketing,Demand Generation Specialist,8363.67,0.0,1672.73,10036.4
+2024-06,E034,Marketing,Content Strategist,8639.58,0.0,1727.92,10367.5
+2024-06,E035,Product,Product Manager,10523.33,0.0,2104.67,12628.0
+2024-06,E036,Product,Senior Product Manager,10917.5,0.0,2183.5,13101.0
+2024-06,E037,Product,Product Designer,11311.67,0.0,2262.33,13574.0
+2024-06,E038,Product,Product Manager,11705.83,0.0,2341.17,14047.0
+2024-06,E039,Product,Senior Product Manager,12100.0,0.0,2420.0,14520.0
+2024-06,E040,Operations,Operations Manager,6288.33,0.0,1257.67,7546.0
+2024-06,E041,Operations,People Operations Specialist,6485.42,0.0,1297.08,7782.5
+2024-06,E042,Operations,IT Administrator,6682.5,0.0,1336.5,8019.0
+2024-06,E043,Operations,Operations Manager,6879.58,0.0,1375.92,8255.5
+2024-06,E044,Operations,People Operations Specialist,7076.67,0.0,1415.33,8492.0
+2024-06,E045,Operations,IT Administrator,7273.75,0.0,1454.75,8728.5
+2024-06,E046,Operations,Operations Manager,7470.83,0.0,1494.17,8965.0
+2024-06,E047,Finance,Financial Analyst,8176.67,0.0,1635.33,9812.0
+2024-06,E048,Finance,Controller,8636.53,0.0,1727.31,10363.83
+2024-06,E049,Finance,Accounting Manager,9096.39,0.0,1819.28,10915.67
+2024-06,E050,Finance,Financial Analyst,9556.25,0.0,1911.25,11467.5
+2024-07,E001,Engineering,Software Engineer,11660.0,0.0,2332.0,13992.0
+2024-07,E002,Engineering,Senior Software Engineer,11799.12,0.0,2359.82,14158.94
+2024-07,E003,Engineering,Staff Engineer,11938.24,0.0,2387.65,14325.88
+2024-07,E004,Engineering,DevOps Engineer,12077.35,0.0,2415.47,14492.82
+2024-07,E005,Engineering,Software Engineer,12216.47,0.0,2443.29,14659.76
+2024-07,E006,Engineering,Senior Software Engineer,12355.59,0.0,2471.12,14826.71
+2024-07,E007,Engineering,Staff Engineer,12494.71,0.0,2498.94,14993.65
+2024-07,E008,Engineering,DevOps Engineer,12633.82,0.0,2526.76,15160.59
+2024-07,E009,Engineering,Software Engineer,12772.94,0.0,2554.59,15327.53
+2024-07,E010,Engineering,Senior Software Engineer,12912.06,0.0,2582.41,15494.47
+2024-07,E011,Engineering,Staff Engineer,13051.18,0.0,2610.24,15661.41
+2024-07,E012,Engineering,DevOps Engineer,13190.29,0.0,2638.06,15828.35
+2024-07,E013,Engineering,Software Engineer,13329.41,0.0,2665.88,15995.29
+2024-07,E014,Engineering,Senior Software Engineer,13468.53,0.0,2693.71,16162.24
+2024-07,E015,Engineering,Staff Engineer,13607.65,0.0,2721.53,16329.18
+2024-07,E016,Engineering,DevOps Engineer,13746.76,0.0,2749.35,16496.12
+2024-07,E017,Engineering,Software Engineer,13885.88,0.0,2777.18,16663.06
+2024-07,E018,Engineering,Senior Software Engineer,14025.0,0.0,2805.0,16830.0
+2024-07,E019,Sales,Account Executive,7773.33,777.33,1554.67,10105.33
+2024-07,E020,Sales,Sales Development Rep,7948.52,794.85,1589.7,10333.07
+2024-07,E021,Sales,Sales Manager,8123.7,812.37,1624.74,10560.81
+2024-07,E022,Sales,Account Executive,8298.89,829.89,1659.78,10788.56
+2024-07,E023,Sales,Sales Development Rep,8474.07,847.41,1694.81,11016.3
+2024-07,E024,Sales,Sales Manager,8649.26,864.93,1729.85,11244.04
+2024-07,E025,Sales,Account Executive,8824.44,882.44,1764.89,11471.78
+2024-07,E026,Sales,Sales Development Rep,8999.63,899.96,1799.93,11699.52
+2024-07,E027,Sales,Sales Manager,9174.81,917.48,1834.96,11927.26
+2024-07,E028,Sales,Account Executive,9350.0,935.0,1870.0,12155.0
+2024-07,E029,Marketing,Marketing Manager,7260.0,0.0,1452.0,8712.0
+2024-07,E030,Marketing,Demand Generation Specialist,7535.92,0.0,1507.18,9043.1
+2024-07,E031,Marketing,Content Strategist,7811.83,0.0,1562.37,9374.2
+2024-07,E032,Marketing,Marketing Manager,8087.75,0.0,1617.55,9705.3
+2024-07,E033,Marketing,Demand Generation Specialist,8363.67,0.0,1672.73,10036.4
+2024-07,E034,Marketing,Content Strategist,8639.58,0.0,1727.92,10367.5
+2024-07,E035,Product,Product Manager,10523.33,0.0,2104.67,12628.0
+2024-07,E036,Product,Senior Product Manager,10917.5,0.0,2183.5,13101.0
+2024-07,E037,Product,Product Designer,11311.67,0.0,2262.33,13574.0
+2024-07,E038,Product,Product Manager,11705.83,0.0,2341.17,14047.0
+2024-07,E039,Product,Senior Product Manager,12100.0,0.0,2420.0,14520.0
+2024-07,E040,Operations,Operations Manager,6288.33,0.0,1257.67,7546.0
+2024-07,E041,Operations,People Operations Specialist,6485.42,0.0,1297.08,7782.5
+2024-07,E042,Operations,IT Administrator,6682.5,0.0,1336.5,8019.0
+2024-07,E043,Operations,Operations Manager,6879.58,0.0,1375.92,8255.5
+2024-07,E044,Operations,People Operations Specialist,7076.67,0.0,1415.33,8492.0
+2024-07,E045,Operations,IT Administrator,7273.75,0.0,1454.75,8728.5
+2024-07,E046,Operations,Operations Manager,7470.83,0.0,1494.17,8965.0
+2024-07,E047,Finance,Financial Analyst,8176.67,0.0,1635.33,9812.0
+2024-07,E048,Finance,Controller,8636.53,0.0,1727.31,10363.83
+2024-07,E049,Finance,Accounting Manager,9096.39,0.0,1819.28,10915.67
+2024-07,E050,Finance,Financial Analyst,9556.25,0.0,1911.25,11467.5
+2024-08,E001,Engineering,Software Engineer,11660.0,0.0,2332.0,13992.0
+2024-08,E002,Engineering,Senior Software Engineer,11799.12,0.0,2359.82,14158.94
+2024-08,E003,Engineering,Staff Engineer,11938.24,0.0,2387.65,14325.88
+2024-08,E004,Engineering,DevOps Engineer,12077.35,0.0,2415.47,14492.82
+2024-08,E005,Engineering,Software Engineer,12216.47,0.0,2443.29,14659.76
+2024-08,E006,Engineering,Senior Software Engineer,12355.59,0.0,2471.12,14826.71
+2024-08,E007,Engineering,Staff Engineer,12494.71,0.0,2498.94,14993.65
+2024-08,E008,Engineering,DevOps Engineer,12633.82,0.0,2526.76,15160.59
+2024-08,E009,Engineering,Software Engineer,12772.94,0.0,2554.59,15327.53
+2024-08,E010,Engineering,Senior Software Engineer,12912.06,0.0,2582.41,15494.47
+2024-08,E011,Engineering,Staff Engineer,13051.18,0.0,2610.24,15661.41
+2024-08,E012,Engineering,DevOps Engineer,13190.29,0.0,2638.06,15828.35
+2024-08,E013,Engineering,Software Engineer,13329.41,0.0,2665.88,15995.29
+2024-08,E014,Engineering,Senior Software Engineer,13468.53,0.0,2693.71,16162.24
+2024-08,E015,Engineering,Staff Engineer,13607.65,0.0,2721.53,16329.18
+2024-08,E016,Engineering,DevOps Engineer,13746.76,0.0,2749.35,16496.12
+2024-08,E017,Engineering,Software Engineer,13885.88,0.0,2777.18,16663.06
+2024-08,E018,Engineering,Senior Software Engineer,14025.0,0.0,2805.0,16830.0
+2024-08,E019,Sales,Account Executive,7773.33,777.33,1554.67,10105.33
+2024-08,E020,Sales,Sales Development Rep,7948.52,794.85,1589.7,10333.07
+2024-08,E021,Sales,Sales Manager,8123.7,812.37,1624.74,10560.81
+2024-08,E022,Sales,Account Executive,8298.89,829.89,1659.78,10788.56
+2024-08,E023,Sales,Sales Development Rep,8474.07,847.41,1694.81,11016.3
+2024-08,E024,Sales,Sales Manager,8649.26,864.93,1729.85,11244.04
+2024-08,E025,Sales,Account Executive,8824.44,882.44,1764.89,11471.78
+2024-08,E026,Sales,Sales Development Rep,8999.63,899.96,1799.93,11699.52
+2024-08,E027,Sales,Sales Manager,9174.81,917.48,1834.96,11927.26
+2024-08,E028,Sales,Account Executive,9350.0,935.0,1870.0,12155.0
+2024-08,E029,Marketing,Marketing Manager,7260.0,0.0,1452.0,8712.0
+2024-08,E030,Marketing,Demand Generation Specialist,7535.92,0.0,1507.18,9043.1
+2024-08,E031,Marketing,Content Strategist,7811.83,0.0,1562.37,9374.2
+2024-08,E032,Marketing,Marketing Manager,8087.75,0.0,1617.55,9705.3
+2024-08,E033,Marketing,Demand Generation Specialist,8363.67,0.0,1672.73,10036.4
+2024-08,E034,Marketing,Content Strategist,8639.58,0.0,1727.92,10367.5
+2024-08,E035,Product,Product Manager,10523.33,0.0,2104.67,12628.0
+2024-08,E036,Product,Senior Product Manager,10917.5,0.0,2183.5,13101.0
+2024-08,E037,Product,Product Designer,11311.67,0.0,2262.33,13574.0
+2024-08,E038,Product,Product Manager,11705.83,0.0,2341.17,14047.0
+2024-08,E039,Product,Senior Product Manager,12100.0,0.0,2420.0,14520.0
+2024-08,E040,Operations,Operations Manager,6288.33,0.0,1257.67,7546.0
+2024-08,E041,Operations,People Operations Specialist,6485.42,0.0,1297.08,7782.5
+2024-08,E042,Operations,IT Administrator,6682.5,0.0,1336.5,8019.0
+2024-08,E043,Operations,Operations Manager,6879.58,0.0,1375.92,8255.5
+2024-08,E044,Operations,People Operations Specialist,7076.67,0.0,1415.33,8492.0
+2024-08,E045,Operations,IT Administrator,7273.75,0.0,1454.75,8728.5
+2024-08,E046,Operations,Operations Manager,7470.83,0.0,1494.17,8965.0
+2024-08,E047,Finance,Financial Analyst,8176.67,0.0,1635.33,9812.0
+2024-08,E048,Finance,Controller,8636.53,0.0,1727.31,10363.83
+2024-08,E049,Finance,Accounting Manager,9096.39,0.0,1819.28,10915.67
+2024-08,E050,Finance,Financial Analyst,9556.25,0.0,1911.25,11467.5
+2024-09,E001,Engineering,Software Engineer,11660.0,0.0,2332.0,13992.0
+2024-09,E002,Engineering,Senior Software Engineer,11799.12,0.0,2359.82,14158.94
+2024-09,E003,Engineering,Staff Engineer,11938.24,0.0,2387.65,14325.88
+2024-09,E004,Engineering,DevOps Engineer,12077.35,0.0,2415.47,14492.82
+2024-09,E005,Engineering,Software Engineer,12216.47,0.0,2443.29,14659.76
+2024-09,E006,Engineering,Senior Software Engineer,12355.59,0.0,2471.12,14826.71
+2024-09,E007,Engineering,Staff Engineer,12494.71,0.0,2498.94,14993.65
+2024-09,E008,Engineering,DevOps Engineer,12633.82,0.0,2526.76,15160.59
+2024-09,E009,Engineering,Software Engineer,12772.94,0.0,2554.59,15327.53
+2024-09,E010,Engineering,Senior Software Engineer,12912.06,0.0,2582.41,15494.47
+2024-09,E011,Engineering,Staff Engineer,13051.18,0.0,2610.24,15661.41
+2024-09,E012,Engineering,DevOps Engineer,13190.29,0.0,2638.06,15828.35
+2024-09,E013,Engineering,Software Engineer,13329.41,0.0,2665.88,15995.29
+2024-09,E014,Engineering,Senior Software Engineer,13468.53,0.0,2693.71,16162.24
+2024-09,E015,Engineering,Staff Engineer,13607.65,0.0,2721.53,16329.18
+2024-09,E016,Engineering,DevOps Engineer,13746.76,0.0,2749.35,16496.12
+2024-09,E017,Engineering,Software Engineer,13885.88,0.0,2777.18,16663.06
+2024-09,E018,Engineering,Senior Software Engineer,14025.0,0.0,2805.0,16830.0
+2024-09,E019,Sales,Account Executive,7773.33,777.33,1554.67,10105.33
+2024-09,E020,Sales,Sales Development Rep,7948.52,794.85,1589.7,10333.07
+2024-09,E021,Sales,Sales Manager,8123.7,812.37,1624.74,10560.81
+2024-09,E022,Sales,Account Executive,8298.89,829.89,1659.78,10788.56
+2024-09,E023,Sales,Sales Development Rep,8474.07,847.41,1694.81,11016.3
+2024-09,E024,Sales,Sales Manager,8649.26,864.93,1729.85,11244.04
+2024-09,E025,Sales,Account Executive,8824.44,882.44,1764.89,11471.78
+2024-09,E026,Sales,Sales Development Rep,8999.63,899.96,1799.93,11699.52
+2024-09,E027,Sales,Sales Manager,9174.81,917.48,1834.96,11927.26
+2024-09,E028,Sales,Account Executive,9350.0,935.0,1870.0,12155.0
+2024-09,E029,Marketing,Marketing Manager,7260.0,0.0,1452.0,8712.0
+2024-09,E030,Marketing,Demand Generation Specialist,7535.92,0.0,1507.18,9043.1
+2024-09,E031,Marketing,Content Strategist,7811.83,0.0,1562.37,9374.2
+2024-09,E032,Marketing,Marketing Manager,8087.75,0.0,1617.55,9705.3
+2024-09,E033,Marketing,Demand Generation Specialist,8363.67,0.0,1672.73,10036.4
+2024-09,E034,Marketing,Content Strategist,8639.58,0.0,1727.92,10367.5
+2024-09,E035,Product,Product Manager,10523.33,0.0,2104.67,12628.0
+2024-09,E036,Product,Senior Product Manager,10917.5,0.0,2183.5,13101.0
+2024-09,E037,Product,Product Designer,11311.67,0.0,2262.33,13574.0
+2024-09,E038,Product,Product Manager,11705.83,0.0,2341.17,14047.0
+2024-09,E039,Product,Senior Product Manager,12100.0,0.0,2420.0,14520.0
+2024-09,E040,Operations,Operations Manager,6288.33,0.0,1257.67,7546.0
+2024-09,E041,Operations,People Operations Specialist,6485.42,0.0,1297.08,7782.5
+2024-09,E042,Operations,IT Administrator,6682.5,0.0,1336.5,8019.0
+2024-09,E043,Operations,Operations Manager,6879.58,0.0,1375.92,8255.5
+2024-09,E044,Operations,People Operations Specialist,7076.67,0.0,1415.33,8492.0
+2024-09,E045,Operations,IT Administrator,7273.75,0.0,1454.75,8728.5
+2024-09,E046,Operations,Operations Manager,7470.83,0.0,1494.17,8965.0
+2024-09,E047,Finance,Financial Analyst,8176.67,0.0,1635.33,9812.0
+2024-09,E048,Finance,Controller,8636.53,0.0,1727.31,10363.83
+2024-09,E049,Finance,Accounting Manager,9096.39,0.0,1819.28,10915.67
+2024-09,E050,Finance,Financial Analyst,9556.25,0.0,1911.25,11467.5
+2024-10,E001,Engineering,Software Engineer,11660.0,0.0,2332.0,13992.0
+2024-10,E002,Engineering,Senior Software Engineer,11799.12,0.0,2359.82,14158.94
+2024-10,E003,Engineering,Staff Engineer,11938.24,0.0,2387.65,14325.88
+2024-10,E004,Engineering,DevOps Engineer,12077.35,0.0,2415.47,14492.82
+2024-10,E005,Engineering,Software Engineer,12216.47,0.0,2443.29,14659.76
+2024-10,E006,Engineering,Senior Software Engineer,12355.59,0.0,2471.12,14826.71
+2024-10,E007,Engineering,Staff Engineer,12494.71,0.0,2498.94,14993.65
+2024-10,E008,Engineering,DevOps Engineer,12633.82,0.0,2526.76,15160.59
+2024-10,E009,Engineering,Software Engineer,12772.94,0.0,2554.59,15327.53
+2024-10,E010,Engineering,Senior Software Engineer,12912.06,0.0,2582.41,15494.47
+2024-10,E011,Engineering,Staff Engineer,13051.18,0.0,2610.24,15661.41
+2024-10,E012,Engineering,DevOps Engineer,13190.29,0.0,2638.06,15828.35
+2024-10,E013,Engineering,Software Engineer,13329.41,0.0,2665.88,15995.29
+2024-10,E014,Engineering,Senior Software Engineer,13468.53,0.0,2693.71,16162.24
+2024-10,E015,Engineering,Staff Engineer,13607.65,0.0,2721.53,16329.18
+2024-10,E016,Engineering,DevOps Engineer,13746.76,0.0,2749.35,16496.12
+2024-10,E017,Engineering,Software Engineer,13885.88,0.0,2777.18,16663.06
+2024-10,E018,Engineering,Senior Software Engineer,14025.0,0.0,2805.0,16830.0
+2024-10,E019,Sales,Account Executive,7773.33,777.33,1554.67,10105.33
+2024-10,E020,Sales,Sales Development Rep,7948.52,794.85,1589.7,10333.07
+2024-10,E021,Sales,Sales Manager,8123.7,812.37,1624.74,10560.81
+2024-10,E022,Sales,Account Executive,8298.89,829.89,1659.78,10788.56
+2024-10,E023,Sales,Sales Development Rep,8474.07,847.41,1694.81,11016.3
+2024-10,E024,Sales,Sales Manager,8649.26,864.93,1729.85,11244.04
+2024-10,E025,Sales,Account Executive,8824.44,882.44,1764.89,11471.78
+2024-10,E026,Sales,Sales Development Rep,8999.63,899.96,1799.93,11699.52
+2024-10,E027,Sales,Sales Manager,9174.81,917.48,1834.96,11927.26
+2024-10,E028,Sales,Account Executive,9350.0,935.0,1870.0,12155.0
+2024-10,E029,Marketing,Marketing Manager,7260.0,0.0,1452.0,8712.0
+2024-10,E030,Marketing,Demand Generation Specialist,7535.92,0.0,1507.18,9043.1
+2024-10,E031,Marketing,Content Strategist,7811.83,0.0,1562.37,9374.2
+2024-10,E032,Marketing,Marketing Manager,8087.75,0.0,1617.55,9705.3
+2024-10,E033,Marketing,Demand Generation Specialist,8363.67,0.0,1672.73,10036.4
+2024-10,E034,Marketing,Content Strategist,8639.58,0.0,1727.92,10367.5
+2024-10,E035,Product,Product Manager,10523.33,0.0,2104.67,12628.0
+2024-10,E036,Product,Senior Product Manager,10917.5,0.0,2183.5,13101.0
+2024-10,E037,Product,Product Designer,11311.67,0.0,2262.33,13574.0
+2024-10,E038,Product,Product Manager,11705.83,0.0,2341.17,14047.0
+2024-10,E039,Product,Senior Product Manager,12100.0,0.0,2420.0,14520.0
+2024-10,E040,Operations,Operations Manager,6288.33,0.0,1257.67,7546.0
+2024-10,E041,Operations,People Operations Specialist,6485.42,0.0,1297.08,7782.5
+2024-10,E042,Operations,IT Administrator,6682.5,0.0,1336.5,8019.0
+2024-10,E043,Operations,Operations Manager,6879.58,0.0,1375.92,8255.5
+2024-10,E044,Operations,People Operations Specialist,7076.67,0.0,1415.33,8492.0
+2024-10,E045,Operations,IT Administrator,7273.75,0.0,1454.75,8728.5
+2024-10,E046,Operations,Operations Manager,7470.83,0.0,1494.17,8965.0
+2024-10,E047,Finance,Financial Analyst,8176.67,0.0,1635.33,9812.0
+2024-10,E048,Finance,Controller,8636.53,0.0,1727.31,10363.83
+2024-10,E049,Finance,Accounting Manager,9096.39,0.0,1819.28,10915.67
+2024-10,E050,Finance,Financial Analyst,9556.25,0.0,1911.25,11467.5
+2024-11,E001,Engineering,Software Engineer,11660.0,0.0,2332.0,13992.0
+2024-11,E002,Engineering,Senior Software Engineer,11799.12,0.0,2359.82,14158.94
+2024-11,E003,Engineering,Staff Engineer,11938.24,0.0,2387.65,14325.88
+2024-11,E004,Engineering,DevOps Engineer,12077.35,0.0,2415.47,14492.82
+2024-11,E005,Engineering,Software Engineer,12216.47,0.0,2443.29,14659.76
+2024-11,E006,Engineering,Senior Software Engineer,12355.59,0.0,2471.12,14826.71
+2024-11,E007,Engineering,Staff Engineer,12494.71,0.0,2498.94,14993.65
+2024-11,E008,Engineering,DevOps Engineer,12633.82,0.0,2526.76,15160.59
+2024-11,E009,Engineering,Software Engineer,12772.94,0.0,2554.59,15327.53
+2024-11,E010,Engineering,Senior Software Engineer,12912.06,0.0,2582.41,15494.47
+2024-11,E011,Engineering,Staff Engineer,13051.18,0.0,2610.24,15661.41
+2024-11,E012,Engineering,DevOps Engineer,13190.29,0.0,2638.06,15828.35
+2024-11,E013,Engineering,Software Engineer,13329.41,0.0,2665.88,15995.29
+2024-11,E014,Engineering,Senior Software Engineer,13468.53,0.0,2693.71,16162.24
+2024-11,E015,Engineering,Staff Engineer,13607.65,0.0,2721.53,16329.18
+2024-11,E016,Engineering,DevOps Engineer,13746.76,0.0,2749.35,16496.12
+2024-11,E017,Engineering,Software Engineer,13885.88,0.0,2777.18,16663.06
+2024-11,E018,Engineering,Senior Software Engineer,14025.0,0.0,2805.0,16830.0
+2024-11,E019,Sales,Account Executive,7773.33,777.33,1554.67,10105.33
+2024-11,E020,Sales,Sales Development Rep,7948.52,794.85,1589.7,10333.07
+2024-11,E021,Sales,Sales Manager,8123.7,812.37,1624.74,10560.81
+2024-11,E022,Sales,Account Executive,8298.89,829.89,1659.78,10788.56
+2024-11,E023,Sales,Sales Development Rep,8474.07,847.41,1694.81,11016.3
+2024-11,E024,Sales,Sales Manager,8649.26,864.93,1729.85,11244.04
+2024-11,E025,Sales,Account Executive,8824.44,882.44,1764.89,11471.78
+2024-11,E026,Sales,Sales Development Rep,8999.63,899.96,1799.93,11699.52
+2024-11,E027,Sales,Sales Manager,9174.81,917.48,1834.96,11927.26
+2024-11,E028,Sales,Account Executive,9350.0,935.0,1870.0,12155.0
+2024-11,E029,Marketing,Marketing Manager,7260.0,0.0,1452.0,8712.0
+2024-11,E030,Marketing,Demand Generation Specialist,7535.92,0.0,1507.18,9043.1
+2024-11,E031,Marketing,Content Strategist,7811.83,0.0,1562.37,9374.2
+2024-11,E032,Marketing,Marketing Manager,8087.75,0.0,1617.55,9705.3
+2024-11,E033,Marketing,Demand Generation Specialist,8363.67,0.0,1672.73,10036.4
+2024-11,E034,Marketing,Content Strategist,8639.58,0.0,1727.92,10367.5
+2024-11,E035,Product,Product Manager,10523.33,0.0,2104.67,12628.0
+2024-11,E036,Product,Senior Product Manager,10917.5,0.0,2183.5,13101.0
+2024-11,E037,Product,Product Designer,11311.67,0.0,2262.33,13574.0
+2024-11,E038,Product,Product Manager,11705.83,0.0,2341.17,14047.0
+2024-11,E039,Product,Senior Product Manager,12100.0,0.0,2420.0,14520.0
+2024-11,E040,Operations,Operations Manager,6288.33,0.0,1257.67,7546.0
+2024-11,E041,Operations,People Operations Specialist,6485.42,0.0,1297.08,7782.5
+2024-11,E042,Operations,IT Administrator,6682.5,0.0,1336.5,8019.0
+2024-11,E043,Operations,Operations Manager,6879.58,0.0,1375.92,8255.5
+2024-11,E044,Operations,People Operations Specialist,7076.67,0.0,1415.33,8492.0
+2024-11,E045,Operations,IT Administrator,7273.75,0.0,1454.75,8728.5
+2024-11,E046,Operations,Operations Manager,7470.83,0.0,1494.17,8965.0
+2024-11,E047,Finance,Financial Analyst,8176.67,0.0,1635.33,9812.0
+2024-11,E048,Finance,Controller,8636.53,0.0,1727.31,10363.83
+2024-11,E049,Finance,Accounting Manager,9096.39,0.0,1819.28,10915.67
+2024-11,E050,Finance,Financial Analyst,9556.25,0.0,1911.25,11467.5
+2024-12,E001,Engineering,Software Engineer,11660.0,20988.0,2332.0,34980.0
+2024-12,E002,Engineering,Senior Software Engineer,11799.12,21238.41,2359.82,35397.35
+2024-12,E003,Engineering,Staff Engineer,11938.24,21488.82,2387.65,35814.71
+2024-12,E004,Engineering,DevOps Engineer,12077.35,21739.24,2415.47,36232.06
+2024-12,E005,Engineering,Software Engineer,12216.47,21989.65,2443.29,36649.41
+2024-12,E006,Engineering,Senior Software Engineer,12355.59,22240.06,2471.12,37066.76
+2024-12,E007,Engineering,Staff Engineer,12494.71,22490.47,2498.94,37484.12
+2024-12,E008,Engineering,DevOps Engineer,12633.82,22740.88,2526.76,37901.47
+2024-12,E009,Engineering,Software Engineer,12772.94,22991.29,2554.59,38318.82
+2024-12,E010,Engineering,Senior Software Engineer,12912.06,23241.71,2582.41,38736.18
+2024-12,E011,Engineering,Staff Engineer,13051.18,23492.12,2610.24,39153.53
+2024-12,E012,Engineering,DevOps Engineer,13190.29,23742.53,2638.06,39570.88
+2024-12,E013,Engineering,Software Engineer,13329.41,23992.94,2665.88,39988.24
+2024-12,E014,Engineering,Senior Software Engineer,13468.53,24243.35,2693.71,40405.59
+2024-12,E015,Engineering,Staff Engineer,13607.65,24493.76,2721.53,40822.94
+2024-12,E016,Engineering,DevOps Engineer,13746.76,24744.18,2749.35,41240.29
+2024-12,E017,Engineering,Software Engineer,13885.88,24994.59,2777.18,41657.65
+2024-12,E018,Engineering,Senior Software Engineer,14025.0,25245.0,2805.0,42075.0
+2024-12,E019,Sales,Account Executive,7773.33,14769.33,1554.67,24097.33
+2024-12,E020,Sales,Sales Development Rep,7948.52,15102.19,1589.7,24640.41
+2024-12,E021,Sales,Sales Manager,8123.7,15435.04,1624.74,25183.48
+2024-12,E022,Sales,Account Executive,8298.89,15767.89,1659.78,25726.56
+2024-12,E023,Sales,Sales Development Rep,8474.07,16100.74,1694.81,26269.63
+2024-12,E024,Sales,Sales Manager,8649.26,16433.59,1729.85,26812.7
+2024-12,E025,Sales,Account Executive,8824.44,16766.44,1764.89,27355.78
+2024-12,E026,Sales,Sales Development Rep,8999.63,17099.3,1799.93,27898.85
+2024-12,E027,Sales,Sales Manager,9174.81,17432.15,1834.96,28441.93
+2024-12,E028,Sales,Account Executive,9350.0,17765.0,1870.0,28985.0
+2024-12,E029,Marketing,Marketing Manager,7260.0,13068.0,1452.0,21780.0
+2024-12,E030,Marketing,Demand Generation Specialist,7535.92,13564.65,1507.18,22607.75
+2024-12,E031,Marketing,Content Strategist,7811.83,14061.3,1562.37,23435.5
+2024-12,E032,Marketing,Marketing Manager,8087.75,14557.95,1617.55,24263.25
+2024-12,E033,Marketing,Demand Generation Specialist,8363.67,15054.6,1672.73,25091.0
+2024-12,E034,Marketing,Content Strategist,8639.58,15551.25,1727.92,25918.75
+2024-12,E035,Product,Product Manager,10523.33,18942.0,2104.67,31570.0
+2024-12,E036,Product,Senior Product Manager,10917.5,19651.5,2183.5,32752.5
+2024-12,E037,Product,Product Designer,11311.67,20361.0,2262.33,33935.0
+2024-12,E038,Product,Product Manager,11705.83,21070.5,2341.17,35117.5
+2024-12,E039,Product,Senior Product Manager,12100.0,21780.0,2420.0,36300.0
+2024-12,E040,Operations,Operations Manager,6288.33,11319.0,1257.67,18865.0
+2024-12,E041,Operations,People Operations Specialist,6485.42,11673.75,1297.08,19456.25
+2024-12,E042,Operations,IT Administrator,6682.5,12028.5,1336.5,20047.5
+2024-12,E043,Operations,Operations Manager,6879.58,12383.25,1375.92,20638.75
+2024-12,E044,Operations,People Operations Specialist,7076.67,12738.0,1415.33,21230.0
+2024-12,E045,Operations,IT Administrator,7273.75,13092.75,1454.75,21821.25
+2024-12,E046,Operations,Operations Manager,7470.83,13447.5,1494.17,22412.5
+2024-12,E047,Finance,Financial Analyst,8176.67,14718.0,1635.33,24530.0
+2024-12,E048,Finance,Controller,8636.53,15545.75,1727.31,25909.58
+2024-12,E049,Finance,Accounting Manager,9096.39,16373.5,1819.28,27289.17
+2024-12,E050,Finance,Financial Analyst,9556.25,17201.25,1911.25,28668.75
+2025-01,E001,Engineering,Software Engineer,12826.0,0.0,2565.2,15391.2
+2025-01,E002,Engineering,Senior Software Engineer,12979.03,0.0,2595.81,15574.84
+2025-01,E003,Engineering,Staff Engineer,13132.06,0.0,2626.41,15758.47
+2025-01,E004,Engineering,DevOps Engineer,13285.09,0.0,2657.02,15942.11
+2025-01,E005,Engineering,Software Engineer,13438.12,0.0,2687.62,16125.74
+2025-01,E006,Engineering,Senior Software Engineer,13591.15,0.0,2718.23,16309.38
+2025-01,E007,Engineering,Staff Engineer,13744.18,0.0,2748.84,16493.01
+2025-01,E008,Engineering,DevOps Engineer,13897.21,0.0,2779.44,16676.65
+2025-01,E009,Engineering,Software Engineer,14050.24,0.0,2810.05,16860.28
+2025-01,E010,Engineering,Senior Software Engineer,14203.26,0.0,2840.65,17043.92
+2025-01,E011,Engineering,Staff Engineer,14356.29,0.0,2871.26,17227.55
+2025-01,E012,Engineering,DevOps Engineer,14509.32,0.0,2901.86,17411.19
+2025-01,E013,Engineering,Software Engineer,14662.35,0.0,2932.47,17594.82
+2025-01,E014,Engineering,Senior Software Engineer,14815.38,0.0,2963.08,17778.46
+2025-01,E015,Engineering,Staff Engineer,14968.41,0.0,2993.68,17962.09
+2025-01,E016,Engineering,DevOps Engineer,15121.44,0.0,3024.29,18145.73
+2025-01,E017,Engineering,Software Engineer,15274.47,0.0,3054.89,18329.36
+2025-01,E018,Engineering,Senior Software Engineer,15427.5,0.0,3085.5,18513.0
+2025-01,E019,Sales,Account Executive,8550.67,855.07,1710.13,11115.87
+2025-01,E020,Sales,Sales Development Rep,8743.37,874.34,1748.67,11366.38
+2025-01,E021,Sales,Sales Manager,8936.07,893.61,1787.21,11616.9
+2025-01,E022,Sales,Account Executive,9128.78,912.88,1825.76,11867.41
+2025-01,E023,Sales,Sales Development Rep,9321.48,932.15,1864.3,12117.93
+2025-01,E024,Sales,Sales Manager,9514.19,951.42,1902.84,12368.44
+2025-01,E025,Sales,Account Executive,9706.89,970.69,1941.38,12618.96
+2025-01,E026,Sales,Sales Development Rep,9899.59,989.96,1979.92,12869.47
+2025-01,E027,Sales,Sales Manager,10092.3,1009.23,2018.46,13119.99
+2025-01,E028,Sales,Account Executive,10285.0,1028.5,2057.0,13370.5
+2025-01,E029,Marketing,Marketing Manager,7986.0,0.0,1597.2,9583.2
+2025-01,E030,Marketing,Demand Generation Specialist,8289.51,0.0,1657.9,9947.41
+2025-01,E031,Marketing,Content Strategist,8593.02,0.0,1718.6,10311.62
+2025-01,E032,Marketing,Marketing Manager,8896.53,0.0,1779.31,10675.83
+2025-01,E033,Marketing,Demand Generation Specialist,9200.03,0.0,1840.01,11040.04
+2025-01,E034,Marketing,Content Strategist,9503.54,0.0,1900.71,11404.25
+2025-01,E035,Product,Product Manager,11575.67,0.0,2315.13,13890.8
+2025-01,E036,Product,Senior Product Manager,12009.25,0.0,2401.85,14411.1
+2025-01,E037,Product,Product Designer,12442.83,0.0,2488.57,14931.4
+2025-01,E038,Product,Product Manager,12876.42,0.0,2575.28,15451.7
+2025-01,E039,Product,Senior Product Manager,13310.0,0.0,2662.0,15972.0
+2025-01,E040,Operations,Operations Manager,6917.17,0.0,1383.43,8300.6
+2025-01,E041,Operations,People Operations Specialist,7133.96,0.0,1426.79,8560.75
+2025-01,E042,Operations,IT Administrator,7350.75,0.0,1470.15,8820.9
+2025-01,E043,Operations,Operations Manager,7567.54,0.0,1513.51,9081.05
+2025-01,E044,Operations,People Operations Specialist,7784.33,0.0,1556.87,9341.2
+2025-01,E045,Operations,IT Administrator,8001.13,0.0,1600.23,9601.35
+2025-01,E046,Operations,Operations Manager,8217.92,0.0,1643.58,9861.5
+2025-01,E047,Finance,Financial Analyst,8994.33,0.0,1798.87,10793.2
+2025-01,E048,Finance,Controller,9500.18,0.0,1900.04,11400.22
+2025-01,E049,Finance,Accounting Manager,10006.03,0.0,2001.21,12007.23
+2025-01,E050,Finance,Financial Analyst,10511.88,0.0,2102.38,12614.25
+2025-02,E001,Engineering,Software Engineer,12826.0,0.0,2565.2,15391.2
+2025-02,E002,Engineering,Senior Software Engineer,12979.03,0.0,2595.81,15574.84
+2025-02,E003,Engineering,Staff Engineer,13132.06,0.0,2626.41,15758.47
+2025-02,E004,Engineering,DevOps Engineer,13285.09,0.0,2657.02,15942.11
+2025-02,E005,Engineering,Software Engineer,13438.12,0.0,2687.62,16125.74
+2025-02,E006,Engineering,Senior Software Engineer,13591.15,0.0,2718.23,16309.38
+2025-02,E007,Engineering,Staff Engineer,13744.18,0.0,2748.84,16493.01
+2025-02,E008,Engineering,DevOps Engineer,13897.21,0.0,2779.44,16676.65
+2025-02,E009,Engineering,Software Engineer,14050.24,0.0,2810.05,16860.28
+2025-02,E010,Engineering,Senior Software Engineer,14203.26,0.0,2840.65,17043.92
+2025-02,E011,Engineering,Staff Engineer,14356.29,0.0,2871.26,17227.55
+2025-02,E012,Engineering,DevOps Engineer,14509.32,0.0,2901.86,17411.19
+2025-02,E013,Engineering,Software Engineer,14662.35,0.0,2932.47,17594.82
+2025-02,E014,Engineering,Senior Software Engineer,14815.38,0.0,2963.08,17778.46
+2025-02,E015,Engineering,Staff Engineer,14968.41,0.0,2993.68,17962.09
+2025-02,E016,Engineering,DevOps Engineer,15121.44,0.0,3024.29,18145.73
+2025-02,E017,Engineering,Software Engineer,15274.47,0.0,3054.89,18329.36
+2025-02,E018,Engineering,Senior Software Engineer,15427.5,0.0,3085.5,18513.0
+2025-02,E019,Sales,Account Executive,8550.67,855.07,1710.13,11115.87
+2025-02,E020,Sales,Sales Development Rep,8743.37,874.34,1748.67,11366.38
+2025-02,E021,Sales,Sales Manager,8936.07,893.61,1787.21,11616.9
+2025-02,E022,Sales,Account Executive,9128.78,912.88,1825.76,11867.41
+2025-02,E023,Sales,Sales Development Rep,9321.48,932.15,1864.3,12117.93
+2025-02,E024,Sales,Sales Manager,9514.19,951.42,1902.84,12368.44
+2025-02,E025,Sales,Account Executive,9706.89,970.69,1941.38,12618.96
+2025-02,E026,Sales,Sales Development Rep,9899.59,989.96,1979.92,12869.47
+2025-02,E027,Sales,Sales Manager,10092.3,1009.23,2018.46,13119.99
+2025-02,E028,Sales,Account Executive,10285.0,1028.5,2057.0,13370.5
+2025-02,E029,Marketing,Marketing Manager,7986.0,0.0,1597.2,9583.2
+2025-02,E030,Marketing,Demand Generation Specialist,8289.51,0.0,1657.9,9947.41
+2025-02,E031,Marketing,Content Strategist,8593.02,0.0,1718.6,10311.62
+2025-02,E032,Marketing,Marketing Manager,8896.53,0.0,1779.31,10675.83
+2025-02,E033,Marketing,Demand Generation Specialist,9200.03,0.0,1840.01,11040.04
+2025-02,E034,Marketing,Content Strategist,9503.54,0.0,1900.71,11404.25
+2025-02,E035,Product,Product Manager,11575.67,0.0,2315.13,13890.8
+2025-02,E036,Product,Senior Product Manager,12009.25,0.0,2401.85,14411.1
+2025-02,E037,Product,Product Designer,12442.83,0.0,2488.57,14931.4
+2025-02,E038,Product,Product Manager,12876.42,0.0,2575.28,15451.7
+2025-02,E039,Product,Senior Product Manager,13310.0,0.0,2662.0,15972.0
+2025-02,E040,Operations,Operations Manager,6917.17,0.0,1383.43,8300.6
+2025-02,E041,Operations,People Operations Specialist,7133.96,0.0,1426.79,8560.75
+2025-02,E042,Operations,IT Administrator,7350.75,0.0,1470.15,8820.9
+2025-02,E043,Operations,Operations Manager,7567.54,0.0,1513.51,9081.05
+2025-02,E044,Operations,People Operations Specialist,7784.33,0.0,1556.87,9341.2
+2025-02,E045,Operations,IT Administrator,8001.13,0.0,1600.23,9601.35
+2025-02,E046,Operations,Operations Manager,8217.92,0.0,1643.58,9861.5
+2025-02,E047,Finance,Financial Analyst,8994.33,0.0,1798.87,10793.2
+2025-02,E048,Finance,Controller,9500.18,0.0,1900.04,11400.22
+2025-02,E049,Finance,Accounting Manager,10006.03,0.0,2001.21,12007.23
+2025-02,E050,Finance,Financial Analyst,10511.88,0.0,2102.38,12614.25
+2025-03,E001,Engineering,Software Engineer,12826.0,0.0,2565.2,15391.2
+2025-03,E002,Engineering,Senior Software Engineer,12979.03,0.0,2595.81,15574.84
+2025-03,E003,Engineering,Staff Engineer,13132.06,0.0,2626.41,15758.47
+2025-03,E004,Engineering,DevOps Engineer,13285.09,0.0,2657.02,15942.11
+2025-03,E005,Engineering,Software Engineer,13438.12,0.0,2687.62,16125.74
+2025-03,E006,Engineering,Senior Software Engineer,13591.15,0.0,2718.23,16309.38
+2025-03,E007,Engineering,Staff Engineer,13744.18,0.0,2748.84,16493.01
+2025-03,E008,Engineering,DevOps Engineer,13897.21,0.0,2779.44,16676.65
+2025-03,E009,Engineering,Software Engineer,14050.24,0.0,2810.05,16860.28
+2025-03,E010,Engineering,Senior Software Engineer,14203.26,0.0,2840.65,17043.92
+2025-03,E011,Engineering,Staff Engineer,14356.29,0.0,2871.26,17227.55
+2025-03,E012,Engineering,DevOps Engineer,14509.32,0.0,2901.86,17411.19
+2025-03,E013,Engineering,Software Engineer,14662.35,0.0,2932.47,17594.82
+2025-03,E014,Engineering,Senior Software Engineer,14815.38,0.0,2963.08,17778.46
+2025-03,E015,Engineering,Staff Engineer,14968.41,0.0,2993.68,17962.09
+2025-03,E016,Engineering,DevOps Engineer,15121.44,0.0,3024.29,18145.73
+2025-03,E017,Engineering,Software Engineer,15274.47,0.0,3054.89,18329.36
+2025-03,E018,Engineering,Senior Software Engineer,15427.5,0.0,3085.5,18513.0
+2025-03,E019,Sales,Account Executive,8550.67,855.07,1710.13,11115.87
+2025-03,E020,Sales,Sales Development Rep,8743.37,874.34,1748.67,11366.38
+2025-03,E021,Sales,Sales Manager,8936.07,893.61,1787.21,11616.9
+2025-03,E022,Sales,Account Executive,9128.78,912.88,1825.76,11867.41
+2025-03,E023,Sales,Sales Development Rep,9321.48,932.15,1864.3,12117.93
+2025-03,E024,Sales,Sales Manager,9514.19,951.42,1902.84,12368.44
+2025-03,E025,Sales,Account Executive,9706.89,970.69,1941.38,12618.96
+2025-03,E026,Sales,Sales Development Rep,9899.59,989.96,1979.92,12869.47
+2025-03,E027,Sales,Sales Manager,10092.3,1009.23,2018.46,13119.99
+2025-03,E028,Sales,Account Executive,10285.0,1028.5,2057.0,13370.5
+2025-03,E029,Marketing,Marketing Manager,7986.0,0.0,1597.2,9583.2
+2025-03,E030,Marketing,Demand Generation Specialist,8289.51,0.0,1657.9,9947.41
+2025-03,E031,Marketing,Content Strategist,8593.02,0.0,1718.6,10311.62
+2025-03,E032,Marketing,Marketing Manager,8896.53,0.0,1779.31,10675.83
+2025-03,E033,Marketing,Demand Generation Specialist,9200.03,0.0,1840.01,11040.04
+2025-03,E034,Marketing,Content Strategist,9503.54,0.0,1900.71,11404.25
+2025-03,E035,Product,Product Manager,11575.67,0.0,2315.13,13890.8
+2025-03,E036,Product,Senior Product Manager,12009.25,0.0,2401.85,14411.1
+2025-03,E037,Product,Product Designer,12442.83,0.0,2488.57,14931.4
+2025-03,E038,Product,Product Manager,12876.42,0.0,2575.28,15451.7
+2025-03,E039,Product,Senior Product Manager,13310.0,0.0,2662.0,15972.0
+2025-03,E040,Operations,Operations Manager,6917.17,0.0,1383.43,8300.6
+2025-03,E041,Operations,People Operations Specialist,7133.96,0.0,1426.79,8560.75
+2025-03,E042,Operations,IT Administrator,7350.75,0.0,1470.15,8820.9
+2025-03,E043,Operations,Operations Manager,7567.54,0.0,1513.51,9081.05
+2025-03,E044,Operations,People Operations Specialist,7784.33,0.0,1556.87,9341.2
+2025-03,E045,Operations,IT Administrator,8001.13,0.0,1600.23,9601.35
+2025-03,E046,Operations,Operations Manager,8217.92,0.0,1643.58,9861.5
+2025-03,E047,Finance,Financial Analyst,8994.33,0.0,1798.87,10793.2
+2025-03,E048,Finance,Controller,9500.18,0.0,1900.04,11400.22
+2025-03,E049,Finance,Accounting Manager,10006.03,0.0,2001.21,12007.23
+2025-03,E050,Finance,Financial Analyst,10511.88,0.0,2102.38,12614.25
+2025-04,E001,Engineering,Software Engineer,12826.0,0.0,2565.2,15391.2
+2025-04,E002,Engineering,Senior Software Engineer,12979.03,0.0,2595.81,15574.84
+2025-04,E003,Engineering,Staff Engineer,13132.06,0.0,2626.41,15758.47
+2025-04,E004,Engineering,DevOps Engineer,13285.09,0.0,2657.02,15942.11
+2025-04,E005,Engineering,Software Engineer,13438.12,0.0,2687.62,16125.74
+2025-04,E006,Engineering,Senior Software Engineer,13591.15,0.0,2718.23,16309.38
+2025-04,E007,Engineering,Staff Engineer,13744.18,0.0,2748.84,16493.01
+2025-04,E008,Engineering,DevOps Engineer,13897.21,0.0,2779.44,16676.65
+2025-04,E009,Engineering,Software Engineer,14050.24,0.0,2810.05,16860.28
+2025-04,E010,Engineering,Senior Software Engineer,14203.26,0.0,2840.65,17043.92
+2025-04,E011,Engineering,Staff Engineer,14356.29,0.0,2871.26,17227.55
+2025-04,E012,Engineering,DevOps Engineer,14509.32,0.0,2901.86,17411.19
+2025-04,E013,Engineering,Software Engineer,14662.35,0.0,2932.47,17594.82
+2025-04,E014,Engineering,Senior Software Engineer,14815.38,0.0,2963.08,17778.46
+2025-04,E015,Engineering,Staff Engineer,14968.41,0.0,2993.68,17962.09
+2025-04,E016,Engineering,DevOps Engineer,15121.44,0.0,3024.29,18145.73
+2025-04,E017,Engineering,Software Engineer,15274.47,0.0,3054.89,18329.36
+2025-04,E018,Engineering,Senior Software Engineer,15427.5,0.0,3085.5,18513.0
+2025-04,E019,Sales,Account Executive,8550.67,855.07,1710.13,11115.87
+2025-04,E020,Sales,Sales Development Rep,8743.37,874.34,1748.67,11366.38
+2025-04,E021,Sales,Sales Manager,8936.07,893.61,1787.21,11616.9
+2025-04,E022,Sales,Account Executive,9128.78,912.88,1825.76,11867.41
+2025-04,E023,Sales,Sales Development Rep,9321.48,932.15,1864.3,12117.93
+2025-04,E024,Sales,Sales Manager,9514.19,951.42,1902.84,12368.44
+2025-04,E025,Sales,Account Executive,9706.89,970.69,1941.38,12618.96
+2025-04,E026,Sales,Sales Development Rep,9899.59,989.96,1979.92,12869.47
+2025-04,E027,Sales,Sales Manager,10092.3,1009.23,2018.46,13119.99
+2025-04,E028,Sales,Account Executive,10285.0,1028.5,2057.0,13370.5
+2025-04,E029,Marketing,Marketing Manager,7986.0,0.0,1597.2,9583.2
+2025-04,E030,Marketing,Demand Generation Specialist,8289.51,0.0,1657.9,9947.41
+2025-04,E031,Marketing,Content Strategist,8593.02,0.0,1718.6,10311.62
+2025-04,E032,Marketing,Marketing Manager,8896.53,0.0,1779.31,10675.83
+2025-04,E033,Marketing,Demand Generation Specialist,9200.03,0.0,1840.01,11040.04
+2025-04,E034,Marketing,Content Strategist,9503.54,0.0,1900.71,11404.25
+2025-04,E035,Product,Product Manager,11575.67,0.0,2315.13,13890.8
+2025-04,E036,Product,Senior Product Manager,12009.25,0.0,2401.85,14411.1
+2025-04,E037,Product,Product Designer,12442.83,0.0,2488.57,14931.4
+2025-04,E038,Product,Product Manager,12876.42,0.0,2575.28,15451.7
+2025-04,E039,Product,Senior Product Manager,13310.0,0.0,2662.0,15972.0
+2025-04,E040,Operations,Operations Manager,6917.17,0.0,1383.43,8300.6
+2025-04,E041,Operations,People Operations Specialist,7133.96,0.0,1426.79,8560.75
+2025-04,E042,Operations,IT Administrator,7350.75,0.0,1470.15,8820.9
+2025-04,E043,Operations,Operations Manager,7567.54,0.0,1513.51,9081.05
+2025-04,E044,Operations,People Operations Specialist,7784.33,0.0,1556.87,9341.2
+2025-04,E045,Operations,IT Administrator,8001.13,0.0,1600.23,9601.35
+2025-04,E046,Operations,Operations Manager,8217.92,0.0,1643.58,9861.5
+2025-04,E047,Finance,Financial Analyst,8994.33,0.0,1798.87,10793.2
+2025-04,E048,Finance,Controller,9500.18,0.0,1900.04,11400.22
+2025-04,E049,Finance,Accounting Manager,10006.03,0.0,2001.21,12007.23
+2025-04,E050,Finance,Financial Analyst,10511.88,0.0,2102.38,12614.25
+2025-05,E001,Engineering,Software Engineer,12826.0,0.0,2565.2,15391.2
+2025-05,E002,Engineering,Senior Software Engineer,12979.03,0.0,2595.81,15574.84
+2025-05,E003,Engineering,Staff Engineer,13132.06,0.0,2626.41,15758.47
+2025-05,E004,Engineering,DevOps Engineer,13285.09,0.0,2657.02,15942.11
+2025-05,E005,Engineering,Software Engineer,13438.12,0.0,2687.62,16125.74
+2025-05,E006,Engineering,Senior Software Engineer,13591.15,0.0,2718.23,16309.38
+2025-05,E007,Engineering,Staff Engineer,13744.18,0.0,2748.84,16493.01
+2025-05,E008,Engineering,DevOps Engineer,13897.21,0.0,2779.44,16676.65
+2025-05,E009,Engineering,Software Engineer,14050.24,0.0,2810.05,16860.28
+2025-05,E010,Engineering,Senior Software Engineer,14203.26,0.0,2840.65,17043.92
+2025-05,E011,Engineering,Staff Engineer,14356.29,0.0,2871.26,17227.55
+2025-05,E012,Engineering,DevOps Engineer,14509.32,0.0,2901.86,17411.19
+2025-05,E013,Engineering,Software Engineer,14662.35,0.0,2932.47,17594.82
+2025-05,E014,Engineering,Senior Software Engineer,14815.38,0.0,2963.08,17778.46
+2025-05,E015,Engineering,Staff Engineer,14968.41,0.0,2993.68,17962.09
+2025-05,E016,Engineering,DevOps Engineer,15121.44,0.0,3024.29,18145.73
+2025-05,E017,Engineering,Software Engineer,15274.47,0.0,3054.89,18329.36
+2025-05,E018,Engineering,Senior Software Engineer,15427.5,0.0,3085.5,18513.0
+2025-05,E019,Sales,Account Executive,8550.67,855.07,1710.13,11115.87
+2025-05,E020,Sales,Sales Development Rep,8743.37,874.34,1748.67,11366.38
+2025-05,E021,Sales,Sales Manager,8936.07,893.61,1787.21,11616.9
+2025-05,E022,Sales,Account Executive,9128.78,912.88,1825.76,11867.41
+2025-05,E023,Sales,Sales Development Rep,9321.48,932.15,1864.3,12117.93
+2025-05,E024,Sales,Sales Manager,9514.19,951.42,1902.84,12368.44
+2025-05,E025,Sales,Account Executive,9706.89,970.69,1941.38,12618.96
+2025-05,E026,Sales,Sales Development Rep,9899.59,989.96,1979.92,12869.47
+2025-05,E027,Sales,Sales Manager,10092.3,1009.23,2018.46,13119.99
+2025-05,E028,Sales,Account Executive,10285.0,1028.5,2057.0,13370.5
+2025-05,E029,Marketing,Marketing Manager,7986.0,0.0,1597.2,9583.2
+2025-05,E030,Marketing,Demand Generation Specialist,8289.51,0.0,1657.9,9947.41
+2025-05,E031,Marketing,Content Strategist,8593.02,0.0,1718.6,10311.62
+2025-05,E032,Marketing,Marketing Manager,8896.53,0.0,1779.31,10675.83
+2025-05,E033,Marketing,Demand Generation Specialist,9200.03,0.0,1840.01,11040.04
+2025-05,E034,Marketing,Content Strategist,9503.54,0.0,1900.71,11404.25
+2025-05,E035,Product,Product Manager,11575.67,0.0,2315.13,13890.8
+2025-05,E036,Product,Senior Product Manager,12009.25,0.0,2401.85,14411.1
+2025-05,E037,Product,Product Designer,12442.83,0.0,2488.57,14931.4
+2025-05,E038,Product,Product Manager,12876.42,0.0,2575.28,15451.7
+2025-05,E039,Product,Senior Product Manager,13310.0,0.0,2662.0,15972.0
+2025-05,E040,Operations,Operations Manager,6917.17,0.0,1383.43,8300.6
+2025-05,E041,Operations,People Operations Specialist,7133.96,0.0,1426.79,8560.75
+2025-05,E042,Operations,IT Administrator,7350.75,0.0,1470.15,8820.9
+2025-05,E043,Operations,Operations Manager,7567.54,0.0,1513.51,9081.05
+2025-05,E044,Operations,People Operations Specialist,7784.33,0.0,1556.87,9341.2
+2025-05,E045,Operations,IT Administrator,8001.13,0.0,1600.23,9601.35
+2025-05,E046,Operations,Operations Manager,8217.92,0.0,1643.58,9861.5
+2025-05,E047,Finance,Financial Analyst,8994.33,0.0,1798.87,10793.2
+2025-05,E048,Finance,Controller,9500.18,0.0,1900.04,11400.22
+2025-05,E049,Finance,Accounting Manager,10006.03,0.0,2001.21,12007.23
+2025-05,E050,Finance,Financial Analyst,10511.88,0.0,2102.38,12614.25
+2025-06,E001,Engineering,Software Engineer,12826.0,0.0,2565.2,15391.2
+2025-06,E002,Engineering,Senior Software Engineer,12979.03,0.0,2595.81,15574.84
+2025-06,E003,Engineering,Staff Engineer,13132.06,0.0,2626.41,15758.47
+2025-06,E004,Engineering,DevOps Engineer,13285.09,0.0,2657.02,15942.11
+2025-06,E005,Engineering,Software Engineer,13438.12,0.0,2687.62,16125.74
+2025-06,E006,Engineering,Senior Software Engineer,13591.15,0.0,2718.23,16309.38
+2025-06,E007,Engineering,Staff Engineer,13744.18,0.0,2748.84,16493.01
+2025-06,E008,Engineering,DevOps Engineer,13897.21,0.0,2779.44,16676.65
+2025-06,E009,Engineering,Software Engineer,14050.24,0.0,2810.05,16860.28
+2025-06,E010,Engineering,Senior Software Engineer,14203.26,0.0,2840.65,17043.92
+2025-06,E011,Engineering,Staff Engineer,14356.29,0.0,2871.26,17227.55
+2025-06,E012,Engineering,DevOps Engineer,14509.32,0.0,2901.86,17411.19
+2025-06,E013,Engineering,Software Engineer,14662.35,0.0,2932.47,17594.82
+2025-06,E014,Engineering,Senior Software Engineer,14815.38,0.0,2963.08,17778.46
+2025-06,E015,Engineering,Staff Engineer,14968.41,0.0,2993.68,17962.09
+2025-06,E016,Engineering,DevOps Engineer,15121.44,0.0,3024.29,18145.73
+2025-06,E017,Engineering,Software Engineer,15274.47,0.0,3054.89,18329.36
+2025-06,E018,Engineering,Senior Software Engineer,15427.5,0.0,3085.5,18513.0
+2025-06,E019,Sales,Account Executive,8550.67,855.07,1710.13,11115.87
+2025-06,E020,Sales,Sales Development Rep,8743.37,874.34,1748.67,11366.38
+2025-06,E021,Sales,Sales Manager,8936.07,893.61,1787.21,11616.9
+2025-06,E022,Sales,Account Executive,9128.78,912.88,1825.76,11867.41
+2025-06,E023,Sales,Sales Development Rep,9321.48,932.15,1864.3,12117.93
+2025-06,E024,Sales,Sales Manager,9514.19,951.42,1902.84,12368.44
+2025-06,E025,Sales,Account Executive,9706.89,970.69,1941.38,12618.96
+2025-06,E026,Sales,Sales Development Rep,9899.59,989.96,1979.92,12869.47
+2025-06,E027,Sales,Sales Manager,10092.3,1009.23,2018.46,13119.99
+2025-06,E028,Sales,Account Executive,10285.0,1028.5,2057.0,13370.5
+2025-06,E029,Marketing,Marketing Manager,7986.0,0.0,1597.2,9583.2
+2025-06,E030,Marketing,Demand Generation Specialist,8289.51,0.0,1657.9,9947.41
+2025-06,E031,Marketing,Content Strategist,8593.02,0.0,1718.6,10311.62
+2025-06,E032,Marketing,Marketing Manager,8896.53,0.0,1779.31,10675.83
+2025-06,E033,Marketing,Demand Generation Specialist,9200.03,0.0,1840.01,11040.04
+2025-06,E034,Marketing,Content Strategist,9503.54,0.0,1900.71,11404.25
+2025-06,E035,Product,Product Manager,11575.67,0.0,2315.13,13890.8
+2025-06,E036,Product,Senior Product Manager,12009.25,0.0,2401.85,14411.1
+2025-06,E037,Product,Product Designer,12442.83,0.0,2488.57,14931.4
+2025-06,E038,Product,Product Manager,12876.42,0.0,2575.28,15451.7
+2025-06,E039,Product,Senior Product Manager,13310.0,0.0,2662.0,15972.0
+2025-06,E040,Operations,Operations Manager,6917.17,0.0,1383.43,8300.6
+2025-06,E041,Operations,People Operations Specialist,7133.96,0.0,1426.79,8560.75
+2025-06,E042,Operations,IT Administrator,7350.75,0.0,1470.15,8820.9
+2025-06,E043,Operations,Operations Manager,7567.54,0.0,1513.51,9081.05
+2025-06,E044,Operations,People Operations Specialist,7784.33,0.0,1556.87,9341.2
+2025-06,E045,Operations,IT Administrator,8001.13,0.0,1600.23,9601.35
+2025-06,E046,Operations,Operations Manager,8217.92,0.0,1643.58,9861.5
+2025-06,E047,Finance,Financial Analyst,8994.33,0.0,1798.87,10793.2
+2025-06,E048,Finance,Controller,9500.18,0.0,1900.04,11400.22
+2025-06,E049,Finance,Accounting Manager,10006.03,0.0,2001.21,12007.23
+2025-06,E050,Finance,Financial Analyst,10511.88,0.0,2102.38,12614.25
+2025-07,E001,Engineering,Software Engineer,12826.0,0.0,2565.2,15391.2
+2025-07,E002,Engineering,Senior Software Engineer,12979.03,0.0,2595.81,15574.84
+2025-07,E003,Engineering,Staff Engineer,13132.06,0.0,2626.41,15758.47
+2025-07,E004,Engineering,DevOps Engineer,13285.09,0.0,2657.02,15942.11
+2025-07,E005,Engineering,Software Engineer,13438.12,0.0,2687.62,16125.74
+2025-07,E006,Engineering,Senior Software Engineer,13591.15,0.0,2718.23,16309.38
+2025-07,E007,Engineering,Staff Engineer,13744.18,0.0,2748.84,16493.01
+2025-07,E008,Engineering,DevOps Engineer,13897.21,0.0,2779.44,16676.65
+2025-07,E009,Engineering,Software Engineer,14050.24,0.0,2810.05,16860.28
+2025-07,E010,Engineering,Senior Software Engineer,14203.26,0.0,2840.65,17043.92
+2025-07,E011,Engineering,Staff Engineer,14356.29,0.0,2871.26,17227.55
+2025-07,E012,Engineering,DevOps Engineer,14509.32,0.0,2901.86,17411.19
+2025-07,E013,Engineering,Software Engineer,14662.35,0.0,2932.47,17594.82
+2025-07,E014,Engineering,Senior Software Engineer,14815.38,0.0,2963.08,17778.46
+2025-07,E015,Engineering,Staff Engineer,14968.41,0.0,2993.68,17962.09
+2025-07,E016,Engineering,DevOps Engineer,15121.44,0.0,3024.29,18145.73
+2025-07,E017,Engineering,Software Engineer,15274.47,0.0,3054.89,18329.36
+2025-07,E018,Engineering,Senior Software Engineer,15427.5,0.0,3085.5,18513.0
+2025-07,E019,Sales,Account Executive,8550.67,855.07,1710.13,11115.87
+2025-07,E020,Sales,Sales Development Rep,8743.37,874.34,1748.67,11366.38
+2025-07,E021,Sales,Sales Manager,8936.07,893.61,1787.21,11616.9
+2025-07,E022,Sales,Account Executive,9128.78,912.88,1825.76,11867.41
+2025-07,E023,Sales,Sales Development Rep,9321.48,932.15,1864.3,12117.93
+2025-07,E024,Sales,Sales Manager,9514.19,951.42,1902.84,12368.44
+2025-07,E025,Sales,Account Executive,9706.89,970.69,1941.38,12618.96
+2025-07,E026,Sales,Sales Development Rep,9899.59,989.96,1979.92,12869.47
+2025-07,E027,Sales,Sales Manager,10092.3,1009.23,2018.46,13119.99
+2025-07,E028,Sales,Account Executive,10285.0,1028.5,2057.0,13370.5
+2025-07,E029,Marketing,Marketing Manager,7986.0,0.0,1597.2,9583.2
+2025-07,E030,Marketing,Demand Generation Specialist,8289.51,0.0,1657.9,9947.41
+2025-07,E031,Marketing,Content Strategist,8593.02,0.0,1718.6,10311.62
+2025-07,E032,Marketing,Marketing Manager,8896.53,0.0,1779.31,10675.83
+2025-07,E033,Marketing,Demand Generation Specialist,9200.03,0.0,1840.01,11040.04
+2025-07,E034,Marketing,Content Strategist,9503.54,0.0,1900.71,11404.25
+2025-07,E035,Product,Product Manager,11575.67,0.0,2315.13,13890.8
+2025-07,E036,Product,Senior Product Manager,12009.25,0.0,2401.85,14411.1
+2025-07,E037,Product,Product Designer,12442.83,0.0,2488.57,14931.4
+2025-07,E038,Product,Product Manager,12876.42,0.0,2575.28,15451.7
+2025-07,E039,Product,Senior Product Manager,13310.0,0.0,2662.0,15972.0
+2025-07,E040,Operations,Operations Manager,6917.17,0.0,1383.43,8300.6
+2025-07,E041,Operations,People Operations Specialist,7133.96,0.0,1426.79,8560.75
+2025-07,E042,Operations,IT Administrator,7350.75,0.0,1470.15,8820.9
+2025-07,E043,Operations,Operations Manager,7567.54,0.0,1513.51,9081.05
+2025-07,E044,Operations,People Operations Specialist,7784.33,0.0,1556.87,9341.2
+2025-07,E045,Operations,IT Administrator,8001.13,0.0,1600.23,9601.35
+2025-07,E046,Operations,Operations Manager,8217.92,0.0,1643.58,9861.5
+2025-07,E047,Finance,Financial Analyst,8994.33,0.0,1798.87,10793.2
+2025-07,E048,Finance,Controller,9500.18,0.0,1900.04,11400.22
+2025-07,E049,Finance,Accounting Manager,10006.03,0.0,2001.21,12007.23
+2025-07,E050,Finance,Financial Analyst,10511.88,0.0,2102.38,12614.25
+2025-08,E001,Engineering,Software Engineer,12826.0,0.0,2565.2,15391.2
+2025-08,E002,Engineering,Senior Software Engineer,12979.03,0.0,2595.81,15574.84
+2025-08,E003,Engineering,Staff Engineer,13132.06,0.0,2626.41,15758.47
+2025-08,E004,Engineering,DevOps Engineer,13285.09,0.0,2657.02,15942.11
+2025-08,E005,Engineering,Software Engineer,13438.12,0.0,2687.62,16125.74
+2025-08,E006,Engineering,Senior Software Engineer,13591.15,0.0,2718.23,16309.38
+2025-08,E007,Engineering,Staff Engineer,13744.18,0.0,2748.84,16493.01
+2025-08,E008,Engineering,DevOps Engineer,13897.21,0.0,2779.44,16676.65
+2025-08,E009,Engineering,Software Engineer,14050.24,0.0,2810.05,16860.28
+2025-08,E010,Engineering,Senior Software Engineer,14203.26,0.0,2840.65,17043.92
+2025-08,E011,Engineering,Staff Engineer,14356.29,0.0,2871.26,17227.55
+2025-08,E012,Engineering,DevOps Engineer,14509.32,0.0,2901.86,17411.19
+2025-08,E013,Engineering,Software Engineer,14662.35,0.0,2932.47,17594.82
+2025-08,E014,Engineering,Senior Software Engineer,14815.38,0.0,2963.08,17778.46
+2025-08,E015,Engineering,Staff Engineer,14968.41,0.0,2993.68,17962.09
+2025-08,E016,Engineering,DevOps Engineer,15121.44,0.0,3024.29,18145.73
+2025-08,E017,Engineering,Software Engineer,15274.47,0.0,3054.89,18329.36
+2025-08,E018,Engineering,Senior Software Engineer,15427.5,0.0,3085.5,18513.0
+2025-08,E019,Sales,Account Executive,8550.67,855.07,1710.13,11115.87
+2025-08,E020,Sales,Sales Development Rep,8743.37,874.34,1748.67,11366.38
+2025-08,E021,Sales,Sales Manager,8936.07,893.61,1787.21,11616.9
+2025-08,E022,Sales,Account Executive,9128.78,912.88,1825.76,11867.41
+2025-08,E023,Sales,Sales Development Rep,9321.48,932.15,1864.3,12117.93
+2025-08,E024,Sales,Sales Manager,9514.19,951.42,1902.84,12368.44
+2025-08,E025,Sales,Account Executive,9706.89,970.69,1941.38,12618.96
+2025-08,E026,Sales,Sales Development Rep,9899.59,989.96,1979.92,12869.47
+2025-08,E027,Sales,Sales Manager,10092.3,1009.23,2018.46,13119.99
+2025-08,E028,Sales,Account Executive,10285.0,1028.5,2057.0,13370.5
+2025-08,E029,Marketing,Marketing Manager,7986.0,0.0,1597.2,9583.2
+2025-08,E030,Marketing,Demand Generation Specialist,8289.51,0.0,1657.9,9947.41
+2025-08,E031,Marketing,Content Strategist,8593.02,0.0,1718.6,10311.62
+2025-08,E032,Marketing,Marketing Manager,8896.53,0.0,1779.31,10675.83
+2025-08,E033,Marketing,Demand Generation Specialist,9200.03,0.0,1840.01,11040.04
+2025-08,E034,Marketing,Content Strategist,9503.54,0.0,1900.71,11404.25
+2025-08,E035,Product,Product Manager,11575.67,0.0,2315.13,13890.8
+2025-08,E036,Product,Senior Product Manager,12009.25,0.0,2401.85,14411.1
+2025-08,E037,Product,Product Designer,12442.83,0.0,2488.57,14931.4
+2025-08,E038,Product,Product Manager,12876.42,0.0,2575.28,15451.7
+2025-08,E039,Product,Senior Product Manager,13310.0,0.0,2662.0,15972.0
+2025-08,E040,Operations,Operations Manager,6917.17,0.0,1383.43,8300.6
+2025-08,E041,Operations,People Operations Specialist,7133.96,0.0,1426.79,8560.75
+2025-08,E042,Operations,IT Administrator,7350.75,0.0,1470.15,8820.9
+2025-08,E043,Operations,Operations Manager,7567.54,0.0,1513.51,9081.05
+2025-08,E044,Operations,People Operations Specialist,7784.33,0.0,1556.87,9341.2
+2025-08,E045,Operations,IT Administrator,8001.13,0.0,1600.23,9601.35
+2025-08,E046,Operations,Operations Manager,8217.92,0.0,1643.58,9861.5
+2025-08,E047,Finance,Financial Analyst,8994.33,0.0,1798.87,10793.2
+2025-08,E048,Finance,Controller,9500.18,0.0,1900.04,11400.22
+2025-08,E049,Finance,Accounting Manager,10006.03,0.0,2001.21,12007.23
+2025-08,E050,Finance,Financial Analyst,10511.88,0.0,2102.38,12614.25
+2025-09,E001,Engineering,Software Engineer,12826.0,0.0,2565.2,15391.2
+2025-09,E002,Engineering,Senior Software Engineer,12979.03,0.0,2595.81,15574.84
+2025-09,E003,Engineering,Staff Engineer,13132.06,0.0,2626.41,15758.47
+2025-09,E004,Engineering,DevOps Engineer,13285.09,0.0,2657.02,15942.11
+2025-09,E005,Engineering,Software Engineer,13438.12,0.0,2687.62,16125.74
+2025-09,E006,Engineering,Senior Software Engineer,13591.15,0.0,2718.23,16309.38
+2025-09,E007,Engineering,Staff Engineer,13744.18,0.0,2748.84,16493.01
+2025-09,E008,Engineering,DevOps Engineer,13897.21,0.0,2779.44,16676.65
+2025-09,E009,Engineering,Software Engineer,14050.24,0.0,2810.05,16860.28
+2025-09,E010,Engineering,Senior Software Engineer,14203.26,0.0,2840.65,17043.92
+2025-09,E011,Engineering,Staff Engineer,14356.29,0.0,2871.26,17227.55
+2025-09,E012,Engineering,DevOps Engineer,14509.32,0.0,2901.86,17411.19
+2025-09,E013,Engineering,Software Engineer,14662.35,0.0,2932.47,17594.82
+2025-09,E014,Engineering,Senior Software Engineer,14815.38,0.0,2963.08,17778.46
+2025-09,E015,Engineering,Staff Engineer,14968.41,0.0,2993.68,17962.09
+2025-09,E016,Engineering,DevOps Engineer,15121.44,0.0,3024.29,18145.73
+2025-09,E017,Engineering,Software Engineer,15274.47,0.0,3054.89,18329.36
+2025-09,E018,Engineering,Senior Software Engineer,15427.5,0.0,3085.5,18513.0
+2025-09,E019,Sales,Account Executive,8550.67,855.07,1710.13,11115.87
+2025-09,E020,Sales,Sales Development Rep,8743.37,874.34,1748.67,11366.38
+2025-09,E021,Sales,Sales Manager,8936.07,893.61,1787.21,11616.9
+2025-09,E022,Sales,Account Executive,9128.78,912.88,1825.76,11867.41
+2025-09,E023,Sales,Sales Development Rep,9321.48,932.15,1864.3,12117.93
+2025-09,E024,Sales,Sales Manager,9514.19,951.42,1902.84,12368.44
+2025-09,E025,Sales,Account Executive,9706.89,970.69,1941.38,12618.96
+2025-09,E026,Sales,Sales Development Rep,9899.59,989.96,1979.92,12869.47
+2025-09,E027,Sales,Sales Manager,10092.3,1009.23,2018.46,13119.99
+2025-09,E028,Sales,Account Executive,10285.0,1028.5,2057.0,13370.5
+2025-09,E029,Marketing,Marketing Manager,7986.0,0.0,1597.2,9583.2
+2025-09,E030,Marketing,Demand Generation Specialist,8289.51,0.0,1657.9,9947.41
+2025-09,E031,Marketing,Content Strategist,8593.02,0.0,1718.6,10311.62
+2025-09,E032,Marketing,Marketing Manager,8896.53,0.0,1779.31,10675.83
+2025-09,E033,Marketing,Demand Generation Specialist,9200.03,0.0,1840.01,11040.04
+2025-09,E034,Marketing,Content Strategist,9503.54,0.0,1900.71,11404.25
+2025-09,E035,Product,Product Manager,11575.67,0.0,2315.13,13890.8
+2025-09,E036,Product,Senior Product Manager,12009.25,0.0,2401.85,14411.1
+2025-09,E037,Product,Product Designer,12442.83,0.0,2488.57,14931.4
+2025-09,E038,Product,Product Manager,12876.42,0.0,2575.28,15451.7
+2025-09,E039,Product,Senior Product Manager,13310.0,0.0,2662.0,15972.0
+2025-09,E040,Operations,Operations Manager,6917.17,0.0,1383.43,8300.6
+2025-09,E041,Operations,People Operations Specialist,7133.96,0.0,1426.79,8560.75
+2025-09,E042,Operations,IT Administrator,7350.75,0.0,1470.15,8820.9
+2025-09,E043,Operations,Operations Manager,7567.54,0.0,1513.51,9081.05
+2025-09,E044,Operations,People Operations Specialist,7784.33,0.0,1556.87,9341.2
+2025-09,E045,Operations,IT Administrator,8001.13,0.0,1600.23,9601.35
+2025-09,E046,Operations,Operations Manager,8217.92,0.0,1643.58,9861.5
+2025-09,E047,Finance,Financial Analyst,8994.33,0.0,1798.87,10793.2
+2025-09,E048,Finance,Controller,9500.18,0.0,1900.04,11400.22
+2025-09,E049,Finance,Accounting Manager,10006.03,0.0,2001.21,12007.23
+2025-09,E050,Finance,Financial Analyst,10511.88,0.0,2102.38,12614.25
+2025-10,E001,Engineering,Software Engineer,12826.0,0.0,2565.2,15391.2
+2025-10,E002,Engineering,Senior Software Engineer,12979.03,0.0,2595.81,15574.84
+2025-10,E003,Engineering,Staff Engineer,13132.06,0.0,2626.41,15758.47
+2025-10,E004,Engineering,DevOps Engineer,13285.09,0.0,2657.02,15942.11
+2025-10,E005,Engineering,Software Engineer,13438.12,0.0,2687.62,16125.74
+2025-10,E006,Engineering,Senior Software Engineer,13591.15,0.0,2718.23,16309.38
+2025-10,E007,Engineering,Staff Engineer,13744.18,0.0,2748.84,16493.01
+2025-10,E008,Engineering,DevOps Engineer,13897.21,0.0,2779.44,16676.65
+2025-10,E009,Engineering,Software Engineer,14050.24,0.0,2810.05,16860.28
+2025-10,E010,Engineering,Senior Software Engineer,14203.26,0.0,2840.65,17043.92
+2025-10,E011,Engineering,Staff Engineer,14356.29,0.0,2871.26,17227.55
+2025-10,E012,Engineering,DevOps Engineer,14509.32,0.0,2901.86,17411.19
+2025-10,E013,Engineering,Software Engineer,14662.35,0.0,2932.47,17594.82
+2025-10,E014,Engineering,Senior Software Engineer,14815.38,0.0,2963.08,17778.46
+2025-10,E015,Engineering,Staff Engineer,14968.41,0.0,2993.68,17962.09
+2025-10,E016,Engineering,DevOps Engineer,15121.44,0.0,3024.29,18145.73
+2025-10,E017,Engineering,Software Engineer,15274.47,0.0,3054.89,18329.36
+2025-10,E018,Engineering,Senior Software Engineer,15427.5,0.0,3085.5,18513.0
+2025-10,E019,Sales,Account Executive,8550.67,855.07,1710.13,11115.87
+2025-10,E020,Sales,Sales Development Rep,8743.37,874.34,1748.67,11366.38
+2025-10,E021,Sales,Sales Manager,8936.07,893.61,1787.21,11616.9
+2025-10,E022,Sales,Account Executive,9128.78,912.88,1825.76,11867.41
+2025-10,E023,Sales,Sales Development Rep,9321.48,932.15,1864.3,12117.93
+2025-10,E024,Sales,Sales Manager,9514.19,951.42,1902.84,12368.44
+2025-10,E025,Sales,Account Executive,9706.89,970.69,1941.38,12618.96
+2025-10,E026,Sales,Sales Development Rep,9899.59,989.96,1979.92,12869.47
+2025-10,E027,Sales,Sales Manager,10092.3,1009.23,2018.46,13119.99
+2025-10,E028,Sales,Account Executive,10285.0,1028.5,2057.0,13370.5
+2025-10,E029,Marketing,Marketing Manager,7986.0,0.0,1597.2,9583.2
+2025-10,E030,Marketing,Demand Generation Specialist,8289.51,0.0,1657.9,9947.41
+2025-10,E031,Marketing,Content Strategist,8593.02,0.0,1718.6,10311.62
+2025-10,E032,Marketing,Marketing Manager,8896.53,0.0,1779.31,10675.83
+2025-10,E033,Marketing,Demand Generation Specialist,9200.03,0.0,1840.01,11040.04
+2025-10,E034,Marketing,Content Strategist,9503.54,0.0,1900.71,11404.25
+2025-10,E035,Product,Product Manager,11575.67,0.0,2315.13,13890.8
+2025-10,E036,Product,Senior Product Manager,12009.25,0.0,2401.85,14411.1
+2025-10,E037,Product,Product Designer,12442.83,0.0,2488.57,14931.4
+2025-10,E038,Product,Product Manager,12876.42,0.0,2575.28,15451.7
+2025-10,E039,Product,Senior Product Manager,13310.0,0.0,2662.0,15972.0
+2025-10,E040,Operations,Operations Manager,6917.17,0.0,1383.43,8300.6
+2025-10,E041,Operations,People Operations Specialist,7133.96,0.0,1426.79,8560.75
+2025-10,E042,Operations,IT Administrator,7350.75,0.0,1470.15,8820.9
+2025-10,E043,Operations,Operations Manager,7567.54,0.0,1513.51,9081.05
+2025-10,E044,Operations,People Operations Specialist,7784.33,0.0,1556.87,9341.2
+2025-10,E045,Operations,IT Administrator,8001.13,0.0,1600.23,9601.35
+2025-10,E046,Operations,Operations Manager,8217.92,0.0,1643.58,9861.5
+2025-10,E047,Finance,Financial Analyst,8994.33,0.0,1798.87,10793.2
+2025-10,E048,Finance,Controller,9500.18,0.0,1900.04,11400.22
+2025-10,E049,Finance,Accounting Manager,10006.03,0.0,2001.21,12007.23
+2025-10,E050,Finance,Financial Analyst,10511.88,0.0,2102.38,12614.25
+2025-11,E001,Engineering,Software Engineer,12826.0,0.0,2565.2,15391.2
+2025-11,E002,Engineering,Senior Software Engineer,12979.03,0.0,2595.81,15574.84
+2025-11,E003,Engineering,Staff Engineer,13132.06,0.0,2626.41,15758.47
+2025-11,E004,Engineering,DevOps Engineer,13285.09,0.0,2657.02,15942.11
+2025-11,E005,Engineering,Software Engineer,13438.12,0.0,2687.62,16125.74
+2025-11,E006,Engineering,Senior Software Engineer,13591.15,0.0,2718.23,16309.38
+2025-11,E007,Engineering,Staff Engineer,13744.18,0.0,2748.84,16493.01
+2025-11,E008,Engineering,DevOps Engineer,13897.21,0.0,2779.44,16676.65
+2025-11,E009,Engineering,Software Engineer,14050.24,0.0,2810.05,16860.28
+2025-11,E010,Engineering,Senior Software Engineer,14203.26,0.0,2840.65,17043.92
+2025-11,E011,Engineering,Staff Engineer,14356.29,0.0,2871.26,17227.55
+2025-11,E012,Engineering,DevOps Engineer,14509.32,0.0,2901.86,17411.19
+2025-11,E013,Engineering,Software Engineer,14662.35,0.0,2932.47,17594.82
+2025-11,E014,Engineering,Senior Software Engineer,14815.38,0.0,2963.08,17778.46
+2025-11,E015,Engineering,Staff Engineer,14968.41,0.0,2993.68,17962.09
+2025-11,E016,Engineering,DevOps Engineer,15121.44,0.0,3024.29,18145.73
+2025-11,E017,Engineering,Software Engineer,15274.47,0.0,3054.89,18329.36
+2025-11,E018,Engineering,Senior Software Engineer,15427.5,0.0,3085.5,18513.0
+2025-11,E019,Sales,Account Executive,8550.67,855.07,1710.13,11115.87
+2025-11,E020,Sales,Sales Development Rep,8743.37,874.34,1748.67,11366.38
+2025-11,E021,Sales,Sales Manager,8936.07,893.61,1787.21,11616.9
+2025-11,E022,Sales,Account Executive,9128.78,912.88,1825.76,11867.41
+2025-11,E023,Sales,Sales Development Rep,9321.48,932.15,1864.3,12117.93
+2025-11,E024,Sales,Sales Manager,9514.19,951.42,1902.84,12368.44
+2025-11,E025,Sales,Account Executive,9706.89,970.69,1941.38,12618.96
+2025-11,E026,Sales,Sales Development Rep,9899.59,989.96,1979.92,12869.47
+2025-11,E027,Sales,Sales Manager,10092.3,1009.23,2018.46,13119.99
+2025-11,E028,Sales,Account Executive,10285.0,1028.5,2057.0,13370.5
+2025-11,E029,Marketing,Marketing Manager,7986.0,0.0,1597.2,9583.2
+2025-11,E030,Marketing,Demand Generation Specialist,8289.51,0.0,1657.9,9947.41
+2025-11,E031,Marketing,Content Strategist,8593.02,0.0,1718.6,10311.62
+2025-11,E032,Marketing,Marketing Manager,8896.53,0.0,1779.31,10675.83
+2025-11,E033,Marketing,Demand Generation Specialist,9200.03,0.0,1840.01,11040.04
+2025-11,E034,Marketing,Content Strategist,9503.54,0.0,1900.71,11404.25
+2025-11,E035,Product,Product Manager,11575.67,0.0,2315.13,13890.8
+2025-11,E036,Product,Senior Product Manager,12009.25,0.0,2401.85,14411.1
+2025-11,E037,Product,Product Designer,12442.83,0.0,2488.57,14931.4
+2025-11,E038,Product,Product Manager,12876.42,0.0,2575.28,15451.7
+2025-11,E039,Product,Senior Product Manager,13310.0,0.0,2662.0,15972.0
+2025-11,E040,Operations,Operations Manager,6917.17,0.0,1383.43,8300.6
+2025-11,E041,Operations,People Operations Specialist,7133.96,0.0,1426.79,8560.75
+2025-11,E042,Operations,IT Administrator,7350.75,0.0,1470.15,8820.9
+2025-11,E043,Operations,Operations Manager,7567.54,0.0,1513.51,9081.05
+2025-11,E044,Operations,People Operations Specialist,7784.33,0.0,1556.87,9341.2
+2025-11,E045,Operations,IT Administrator,8001.13,0.0,1600.23,9601.35
+2025-11,E046,Operations,Operations Manager,8217.92,0.0,1643.58,9861.5
+2025-11,E047,Finance,Financial Analyst,8994.33,0.0,1798.87,10793.2
+2025-11,E048,Finance,Controller,9500.18,0.0,1900.04,11400.22
+2025-11,E049,Finance,Accounting Manager,10006.03,0.0,2001.21,12007.23
+2025-11,E050,Finance,Financial Analyst,10511.88,0.0,2102.38,12614.25
+2025-12,E001,Engineering,Software Engineer,12826.0,23086.8,2565.2,38478.0
+2025-12,E002,Engineering,Senior Software Engineer,12979.03,23362.25,2595.81,38937.09
+2025-12,E003,Engineering,Staff Engineer,13132.06,23637.71,2626.41,39396.18
+2025-12,E004,Engineering,DevOps Engineer,13285.09,23913.16,2657.02,39855.26
+2025-12,E005,Engineering,Software Engineer,13438.12,24188.61,2687.62,40314.35
+2025-12,E006,Engineering,Senior Software Engineer,13591.15,24464.06,2718.23,40773.44
+2025-12,E007,Engineering,Staff Engineer,13744.18,24739.52,2748.84,41232.53
+2025-12,E008,Engineering,DevOps Engineer,13897.21,25014.97,2779.44,41691.62
+2025-12,E009,Engineering,Software Engineer,14050.24,25290.42,2810.05,42150.71
+2025-12,E010,Engineering,Senior Software Engineer,14203.26,25565.88,2840.65,42609.79
+2025-12,E011,Engineering,Staff Engineer,14356.29,25841.33,2871.26,43068.88
+2025-12,E012,Engineering,DevOps Engineer,14509.32,26116.78,2901.86,43527.97
+2025-12,E013,Engineering,Software Engineer,14662.35,26392.24,2932.47,43987.06
+2025-12,E014,Engineering,Senior Software Engineer,14815.38,26667.69,2963.08,44446.15
+2025-12,E015,Engineering,Staff Engineer,14968.41,26943.14,2993.68,44905.24
+2025-12,E016,Engineering,DevOps Engineer,15121.44,27218.59,3024.29,45364.32
+2025-12,E017,Engineering,Software Engineer,15274.47,27494.05,3054.89,45823.41
+2025-12,E018,Engineering,Senior Software Engineer,15427.5,27769.5,3085.5,46282.5
+2025-12,E019,Sales,Account Executive,8550.67,16246.27,1710.13,26507.07
+2025-12,E020,Sales,Sales Development Rep,8743.37,16612.4,1748.67,27104.45
+2025-12,E021,Sales,Sales Manager,8936.07,16978.54,1787.21,27701.83
+2025-12,E022,Sales,Account Executive,9128.78,17344.68,1825.76,28299.21
+2025-12,E023,Sales,Sales Development Rep,9321.48,17710.81,1864.3,28896.59
+2025-12,E024,Sales,Sales Manager,9514.19,18076.95,1902.84,29493.97
+2025-12,E025,Sales,Account Executive,9706.89,18443.09,1941.38,30091.36
+2025-12,E026,Sales,Sales Development Rep,9899.59,18809.23,1979.92,30688.74
+2025-12,E027,Sales,Sales Manager,10092.3,19175.36,2018.46,31286.12
+2025-12,E028,Sales,Account Executive,10285.0,19541.5,2057.0,31883.5
+2025-12,E029,Marketing,Marketing Manager,7986.0,14374.8,1597.2,23958.0
+2025-12,E030,Marketing,Demand Generation Specialist,8289.51,14921.12,1657.9,24868.53
+2025-12,E031,Marketing,Content Strategist,8593.02,15467.43,1718.6,25779.05
+2025-12,E032,Marketing,Marketing Manager,8896.53,16013.75,1779.31,26689.58
+2025-12,E033,Marketing,Demand Generation Specialist,9200.03,16560.06,1840.01,27600.1
+2025-12,E034,Marketing,Content Strategist,9503.54,17106.38,1900.71,28510.62
+2025-12,E035,Product,Product Manager,11575.67,20836.2,2315.13,34727.0
+2025-12,E036,Product,Senior Product Manager,12009.25,21616.65,2401.85,36027.75
+2025-12,E037,Product,Product Designer,12442.83,22397.1,2488.57,37328.5
+2025-12,E038,Product,Product Manager,12876.42,23177.55,2575.28,38629.25
+2025-12,E039,Product,Senior Product Manager,13310.0,23958.0,2662.0,39930.0
+2025-12,E040,Operations,Operations Manager,6917.17,12450.9,1383.43,20751.5
+2025-12,E041,Operations,People Operations Specialist,7133.96,12841.13,1426.79,21401.88
+2025-12,E042,Operations,IT Administrator,7350.75,13231.35,1470.15,22052.25
+2025-12,E043,Operations,Operations Manager,7567.54,13621.58,1513.51,22702.63
+2025-12,E044,Operations,People Operations Specialist,7784.33,14011.8,1556.87,23353.0
+2025-12,E045,Operations,IT Administrator,8001.13,14402.03,1600.23,24003.38
+2025-12,E046,Operations,Operations Manager,8217.92,14792.25,1643.58,24653.75
+2025-12,E047,Finance,Financial Analyst,8994.33,16189.8,1798.87,26983.0
+2025-12,E048,Finance,Controller,9500.18,17100.33,1900.04,28500.54
+2025-12,E049,Finance,Accounting Manager,10006.03,18010.85,2001.21,30018.08
+2025-12,E050,Finance,Financial Analyst,10511.88,18921.38,2102.38,31535.62

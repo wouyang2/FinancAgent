@@ -1,0 +1,21 @@
+streamlit
+setuptools
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-chroma
+langchain-community
+langgraph
+openai
+chromadb>=0.6.0
+numpy>=2.0.0
+pandas
+plotly
+python-dotenv
+pydantic
+tavily-python
+requests
+# Upgraded for Python 3.13 compatibility:
+opentelemetry-exporter-otlp-proto-grpc>=1.25.0
+opentelemetry-sdk>=1.25.0
+grpcio>=1.66.0
+protobuf>=5.26.0

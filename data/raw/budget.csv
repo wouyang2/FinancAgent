@@ -1,0 +1,649 @@
+year,month,department,gl_category,budgeted_amount
+2023,2023-01,Engineering,Payroll & Benefits,165741.61
+2023,2023-01,Engineering,Cloud Infrastructure,53547.29
+2023,2023-01,Engineering,R&D Expenses,35698.19
+2023,2023-01,Sales,Payroll & Benefits,94709.49
+2023,2023-01,Sales,SaaS Tools & Subscriptions,28048.58
+2023,2023-01,Sales,Travel & Entertainment,22948.84
+2023,2023-01,Marketing,Payroll & Benefits,71032.12
+2023,2023-01,Marketing,Sales & Marketing,30598.45
+2023,2023-01,Marketing,SaaS Tools & Subscriptions,7649.61
+2023,2023-01,Product,Payroll & Benefits,47354.74
+2023,2023-01,Product,Cloud Infrastructure,19124.03
+2023,2023-01,Product,R&D Expenses,6374.68
+2023,2023-01,Operations,Payroll & Benefits,56825.69
+2023,2023-01,Operations,SaaS Tools & Subscriptions,13769.3
+2023,2023-01,Operations,Office & Facilities,16829.15
+2023,2023-01,Finance,Payroll & Benefits,37883.8
+2023,2023-01,Finance,Professional Services,17339.12
+2023,2023-01,Finance,SaaS Tools & Subscriptions,3059.85
+2023,2023-02,Engineering,Payroll & Benefits,156870.74
+2023,2023-02,Engineering,Cloud Infrastructure,50681.32
+2023,2023-02,Engineering,R&D Expenses,33787.54
+2023,2023-02,Sales,Payroll & Benefits,89640.43
+2023,2023-02,Sales,SaaS Tools & Subscriptions,26547.36
+2023,2023-02,Sales,Travel & Entertainment,21720.56
+2023,2023-02,Marketing,Payroll & Benefits,67230.32
+2023,2023-02,Marketing,Sales & Marketing,28960.75
+2023,2023-02,Marketing,SaaS Tools & Subscriptions,7240.19
+2023,2023-02,Product,Payroll & Benefits,44820.21
+2023,2023-02,Product,Cloud Infrastructure,18100.47
+2023,2023-02,Product,R&D Expenses,6033.49
+2023,2023-02,Operations,Payroll & Benefits,53784.26
+2023,2023-02,Operations,SaaS Tools & Subscriptions,13032.34
+2023,2023-02,Operations,Office & Facilities,15928.41
+2023,2023-02,Finance,Payroll & Benefits,35856.17
+2023,2023-02,Finance,Professional Services,16411.09
+2023,2023-02,Finance,SaaS Tools & Subscriptions,2896.08
+2023,2023-03,Engineering,Payroll & Benefits,158666.04
+2023,2023-03,Engineering,Cloud Infrastructure,51261.34
+2023,2023-03,Engineering,R&D Expenses,34174.22
+2023,2023-03,Sales,Payroll & Benefits,90666.31
+2023,2023-03,Sales,SaaS Tools & Subscriptions,26851.18
+2023,2023-03,Sales,Travel & Entertainment,21969.14
+2023,2023-03,Marketing,Payroll & Benefits,67999.73
+2023,2023-03,Marketing,Sales & Marketing,29292.19
+2023,2023-03,Marketing,SaaS Tools & Subscriptions,7323.05
+2023,2023-03,Product,Payroll & Benefits,45333.15
+2023,2023-03,Product,Cloud Infrastructure,18307.62
+2023,2023-03,Product,R&D Expenses,6102.54
+2023,2023-03,Operations,Payroll & Benefits,54399.78
+2023,2023-03,Operations,SaaS Tools & Subscriptions,13181.49
+2023,2023-03,Operations,Office & Facilities,16110.71
+2023,2023-03,Finance,Payroll & Benefits,36266.52
+2023,2023-03,Finance,Professional Services,16598.91
+2023,2023-03,Finance,SaaS Tools & Subscriptions,2929.22
+2023,2023-04,Engineering,Payroll & Benefits,160841.0
+2023,2023-04,Engineering,Cloud Infrastructure,51964.01
+2023,2023-04,Engineering,R&D Expenses,34642.68
+2023,2023-04,Sales,Payroll & Benefits,91909.14
+2023,2023-04,Sales,SaaS Tools & Subscriptions,27219.25
+2023,2023-04,Sales,Travel & Entertainment,22270.29
+2023,2023-04,Marketing,Payroll & Benefits,68931.86
+2023,2023-04,Marketing,Sales & Marketing,29693.72
+2023,2023-04,Marketing,SaaS Tools & Subscriptions,7423.43
+2023,2023-04,Product,Payroll & Benefits,45954.57
+2023,2023-04,Product,Cloud Infrastructure,18558.58
+2023,2023-04,Product,R&D Expenses,6186.19
+2023,2023-04,Operations,Payroll & Benefits,55145.48
+2023,2023-04,Operations,SaaS Tools & Subscriptions,13362.18
+2023,2023-04,Operations,Office & Facilities,16331.55
+2023,2023-04,Finance,Payroll & Benefits,36763.66
+2023,2023-04,Finance,Professional Services,16826.44
+2023,2023-04,Finance,SaaS Tools & Subscriptions,2969.37
+2023,2023-05,Engineering,Payroll & Benefits,176048.19
+2023,2023-05,Engineering,Cloud Infrastructure,56877.11
+2023,2023-05,Engineering,R&D Expenses,37918.07
+2023,2023-05,Sales,Payroll & Benefits,100598.97
+2023,2023-05,Sales,SaaS Tools & Subscriptions,29792.77
+2023,2023-05,Sales,Travel & Entertainment,24375.9
+2023,2023-05,Marketing,Payroll & Benefits,75449.22
+2023,2023-05,Marketing,Sales & Marketing,32501.2
+2023,2023-05,Marketing,SaaS Tools & Subscriptions,8125.3
+2023,2023-05,Product,Payroll & Benefits,50299.48
+2023,2023-05,Product,Cloud Infrastructure,20313.25
+2023,2023-05,Product,R&D Expenses,6771.08
+2023,2023-05,Operations,Payroll & Benefits,60359.38
+2023,2023-05,Operations,SaaS Tools & Subscriptions,14625.54
+2023,2023-05,Operations,Office & Facilities,17875.66
+2023,2023-05,Finance,Payroll & Benefits,40239.59
+2023,2023-05,Finance,Professional Services,18417.35
+2023,2023-05,Finance,SaaS Tools & Subscriptions,3250.12
+2023,2023-06,Engineering,Payroll & Benefits,162636.29
+2023,2023-06,Engineering,Cloud Infrastructure,52544.03
+2023,2023-06,Engineering,R&D Expenses,35029.36
+2023,2023-06,Sales,Payroll & Benefits,92935.02
+2023,2023-06,Sales,SaaS Tools & Subscriptions,27523.06
+2023,2023-06,Sales,Travel & Entertainment,22518.87
+2023,2023-06,Marketing,Payroll & Benefits,69701.27
+2023,2023-06,Marketing,Sales & Marketing,30025.16
+2023,2023-06,Marketing,SaaS Tools & Subscriptions,7506.29
+2023,2023-06,Product,Payroll & Benefits,46467.51
+2023,2023-06,Product,Cloud Infrastructure,18765.73
+2023,2023-06,Product,R&D Expenses,6255.24
+2023,2023-06,Operations,Payroll & Benefits,55761.01
+2023,2023-06,Operations,SaaS Tools & Subscriptions,13511.32
+2023,2023-06,Operations,Office & Facilities,16513.84
+2023,2023-06,Finance,Payroll & Benefits,37174.01
+2023,2023-06,Finance,Professional Services,17014.26
+2023,2023-06,Finance,SaaS Tools & Subscriptions,3002.52
+2023,2023-07,Engineering,Payroll & Benefits,162923.94
+2023,2023-07,Engineering,Cloud Infrastructure,52636.96
+2023,2023-07,Engineering,R&D Expenses,35091.31
+2023,2023-07,Sales,Payroll & Benefits,93099.39
+2023,2023-07,Sales,SaaS Tools & Subscriptions,27571.74
+2023,2023-07,Sales,Travel & Entertainment,22558.7
+2023,2023-07,Marketing,Payroll & Benefits,69824.55
+2023,2023-07,Marketing,Sales & Marketing,30078.27
+2023,2023-07,Marketing,SaaS Tools & Subscriptions,7519.57
+2023,2023-07,Product,Payroll & Benefits,46549.7
+2023,2023-07,Product,Cloud Infrastructure,18798.92
+2023,2023-07,Product,R&D Expenses,6266.31
+2023,2023-07,Operations,Payroll & Benefits,55859.64
+2023,2023-07,Operations,SaaS Tools & Subscriptions,13535.22
+2023,2023-07,Operations,Office & Facilities,16543.05
+2023,2023-07,Finance,Payroll & Benefits,37239.76
+2023,2023-07,Finance,Professional Services,17044.35
+2023,2023-07,Finance,SaaS Tools & Subscriptions,3007.83
+2023,2023-08,Engineering,Payroll & Benefits,170949.96
+2023,2023-08,Engineering,Cloud Infrastructure,55229.99
+2023,2023-08,Engineering,R&D Expenses,36819.99
+2023,2023-08,Sales,Payroll & Benefits,97685.69
+2023,2023-08,Sales,SaaS Tools & Subscriptions,28929.99
+2023,2023-08,Sales,Travel & Entertainment,23669.99
+2023,2023-08,Marketing,Payroll & Benefits,73264.27
+2023,2023-08,Marketing,Sales & Marketing,31559.99
+2023,2023-08,Marketing,SaaS Tools & Subscriptions,7890.0
+2023,2023-08,Product,Payroll & Benefits,48842.84
+2023,2023-08,Product,Cloud Infrastructure,19725.0
+2023,2023-08,Product,R&D Expenses,6575.0
+2023,2023-08,Operations,Payroll & Benefits,58611.41
+2023,2023-08,Operations,SaaS Tools & Subscriptions,14202.0
+2023,2023-08,Operations,Office & Facilities,17358.0
+2023,2023-08,Finance,Payroll & Benefits,39074.28
+2023,2023-08,Finance,Professional Services,17884.0
+2023,2023-08,Finance,SaaS Tools & Subscriptions,3156.0
+2023,2023-09,Engineering,Payroll & Benefits,164719.23
+2023,2023-09,Engineering,Cloud Infrastructure,53216.98
+2023,2023-09,Engineering,R&D Expenses,35477.99
+2023,2023-09,Sales,Payroll & Benefits,94125.28
+2023,2023-09,Sales,SaaS Tools & Subscriptions,27875.56
+2023,2023-09,Sales,Travel & Entertainment,22807.28
+2023,2023-09,Marketing,Payroll & Benefits,70593.96
+2023,2023-09,Marketing,Sales & Marketing,30409.7
+2023,2023-09,Marketing,SaaS Tools & Subscriptions,7602.43
+2023,2023-09,Product,Payroll & Benefits,47062.64
+2023,2023-09,Product,Cloud Infrastructure,19006.07
+2023,2023-09,Product,R&D Expenses,6335.36
+2023,2023-09,Operations,Payroll & Benefits,56475.17
+2023,2023-09,Operations,SaaS Tools & Subscriptions,13684.37
+2023,2023-09,Operations,Office & Facilities,16725.34
+2023,2023-09,Finance,Payroll & Benefits,37650.11
+2023,2023-09,Finance,Professional Services,17232.17
+2023,2023-09,Finance,SaaS Tools & Subscriptions,3040.97
+2023,2023-10,Engineering,Payroll & Benefits,164563.7
+2023,2023-10,Engineering,Cloud Infrastructure,53166.74
+2023,2023-10,Engineering,R&D Expenses,35444.49
+2023,2023-10,Sales,Payroll & Benefits,94036.4
+2023,2023-10,Sales,SaaS Tools & Subscriptions,27849.24
+2023,2023-10,Sales,Travel & Entertainment,22785.74
+2023,2023-10,Marketing,Payroll & Benefits,70527.3
+2023,2023-10,Marketing,Sales & Marketing,30380.99
+2023,2023-10,Marketing,SaaS Tools & Subscriptions,7595.25
+2023,2023-10,Product,Payroll & Benefits,47018.2
+2023,2023-10,Product,Cloud Infrastructure,18988.12
+2023,2023-10,Product,R&D Expenses,6329.37
+2023,2023-10,Operations,Payroll & Benefits,56421.84
+2023,2023-10,Operations,SaaS Tools & Subscriptions,13671.45
+2023,2023-10,Operations,Office & Facilities,16709.55
+2023,2023-10,Finance,Payroll & Benefits,37614.56
+2023,2023-10,Finance,Professional Services,17215.9
+2023,2023-10,Finance,SaaS Tools & Subscriptions,3038.1
+2023,2023-11,Engineering,Payroll & Benefits,164563.7
+2023,2023-11,Engineering,Cloud Infrastructure,53166.74
+2023,2023-11,Engineering,R&D Expenses,35444.49
+2023,2023-11,Sales,Payroll & Benefits,94036.4
+2023,2023-11,Sales,SaaS Tools & Subscriptions,27849.24
+2023,2023-11,Sales,Travel & Entertainment,22785.74
+2023,2023-11,Marketing,Payroll & Benefits,70527.3
+2023,2023-11,Marketing,Sales & Marketing,30380.99
+2023,2023-11,Marketing,SaaS Tools & Subscriptions,7595.25
+2023,2023-11,Product,Payroll & Benefits,47018.2
+2023,2023-11,Product,Cloud Infrastructure,18988.12
+2023,2023-11,Product,R&D Expenses,6329.37
+2023,2023-11,Operations,Payroll & Benefits,56421.84
+2023,2023-11,Operations,SaaS Tools & Subscriptions,13671.45
+2023,2023-11,Operations,Office & Facilities,16709.55
+2023,2023-11,Finance,Payroll & Benefits,37614.56
+2023,2023-11,Finance,Professional Services,17215.9
+2023,2023-11,Finance,SaaS Tools & Subscriptions,3038.1
+2023,2023-12,Engineering,Payroll & Benefits,373017.95
+2023,2023-12,Engineering,Cloud Infrastructure,120513.49
+2023,2023-12,Engineering,R&D Expenses,80342.33
+2023,2023-12,Sales,Payroll & Benefits,213153.12
+2023,2023-12,Sales,SaaS Tools & Subscriptions,63126.12
+2023,2023-12,Sales,Travel & Entertainment,51648.64
+2023,2023-12,Marketing,Payroll & Benefits,159864.84
+2023,2023-12,Marketing,Sales & Marketing,68864.85
+2023,2023-12,Marketing,SaaS Tools & Subscriptions,17216.21
+2023,2023-12,Product,Payroll & Benefits,106576.56
+2023,2023-12,Product,Cloud Infrastructure,43040.53
+2023,2023-12,Product,R&D Expenses,14346.84
+2023,2023-12,Operations,Payroll & Benefits,127891.87
+2023,2023-12,Operations,SaaS Tools & Subscriptions,30989.18
+2023,2023-12,Operations,Office & Facilities,37875.67
+2023,2023-12,Finance,Payroll & Benefits,85261.25
+2023,2023-12,Finance,Professional Services,39023.42
+2023,2023-12,Finance,SaaS Tools & Subscriptions,6886.49
+2024,2024-01,Engineering,Payroll & Benefits,186628.07
+2024,2024-01,Engineering,Cloud Infrastructure,60295.22
+2024,2024-01,Engineering,R&D Expenses,40196.81
+2024,2024-01,Sales,Payroll & Benefits,106644.61
+2024,2024-01,Sales,SaaS Tools & Subscriptions,31583.21
+2024,2024-01,Sales,Travel & Entertainment,25840.81
+2024,2024-01,Marketing,Payroll & Benefits,79983.46
+2024,2024-01,Marketing,Sales & Marketing,34454.41
+2024,2024-01,Marketing,SaaS Tools & Subscriptions,8613.6
+2024,2024-01,Product,Payroll & Benefits,53322.3
+2024,2024-01,Product,Cloud Infrastructure,21534.01
+2024,2024-01,Product,R&D Expenses,7178.0
+2024,2024-01,Operations,Payroll & Benefits,63986.77
+2024,2024-01,Operations,SaaS Tools & Subscriptions,15504.49
+2024,2024-01,Operations,Office & Facilities,18949.93
+2024,2024-01,Finance,Payroll & Benefits,42657.84
+2024,2024-01,Finance,Professional Services,19524.17
+2024,2024-01,Finance,SaaS Tools & Subscriptions,3445.44
+2024,2024-02,Engineering,Payroll & Benefits,196225.49
+2024,2024-02,Engineering,Cloud Infrastructure,63395.93
+2024,2024-02,Engineering,R&D Expenses,42263.95
+2024,2024-02,Sales,Payroll & Benefits,112128.85
+2024,2024-02,Sales,SaaS Tools & Subscriptions,33207.39
+2024,2024-02,Sales,Travel & Entertainment,27169.68
+2024,2024-02,Marketing,Payroll & Benefits,84096.64
+2024,2024-02,Marketing,Sales & Marketing,36226.25
+2024,2024-02,Marketing,SaaS Tools & Subscriptions,9056.56
+2024,2024-02,Product,Payroll & Benefits,56064.43
+2024,2024-02,Product,Cloud Infrastructure,22641.4
+2024,2024-02,Product,R&D Expenses,7547.13
+2024,2024-02,Operations,Payroll & Benefits,67277.31
+2024,2024-02,Operations,SaaS Tools & Subscriptions,16301.81
+2024,2024-02,Operations,Office & Facilities,19924.43
+2024,2024-02,Finance,Payroll & Benefits,44851.54
+2024,2024-02,Finance,Professional Services,20528.21
+2024,2024-02,Finance,SaaS Tools & Subscriptions,3622.62
+2024,2024-03,Engineering,Payroll & Benefits,178099.37
+2024,2024-03,Engineering,Cloud Infrastructure,57539.8
+2024,2024-03,Engineering,R&D Expenses,38359.86
+2024,2024-03,Sales,Payroll & Benefits,101771.07
+2024,2024-03,Sales,SaaS Tools & Subscriptions,30139.89
+2024,2024-03,Sales,Travel & Entertainment,24659.91
+2024,2024-03,Marketing,Payroll & Benefits,76328.3
+2024,2024-03,Marketing,Sales & Marketing,32879.88
+2024,2024-03,Marketing,SaaS Tools & Subscriptions,8219.97
+2024,2024-03,Product,Payroll & Benefits,50885.53
+2024,2024-03,Product,Cloud Infrastructure,20549.93
+2024,2024-03,Product,R&D Expenses,6849.98
+2024,2024-03,Operations,Payroll & Benefits,61062.64
+2024,2024-03,Operations,SaaS Tools & Subscriptions,14795.95
+2024,2024-03,Operations,Office & Facilities,18083.94
+2024,2024-03,Finance,Payroll & Benefits,40708.43
+2024,2024-03,Finance,Professional Services,18631.93
+2024,2024-03,Finance,SaaS Tools & Subscriptions,3287.99
+2024,2024-04,Engineering,Payroll & Benefits,181406.18
+2024,2024-04,Engineering,Cloud Infrastructure,58608.15
+2024,2024-04,Engineering,R&D Expenses,39072.1
+2024,2024-04,Sales,Payroll & Benefits,103660.68
+2024,2024-04,Sales,SaaS Tools & Subscriptions,30699.51
+2024,2024-04,Sales,Travel & Entertainment,25117.78
+2024,2024-04,Marketing,Payroll & Benefits,77745.51
+2024,2024-04,Marketing,Sales & Marketing,33490.37
+2024,2024-04,Marketing,SaaS Tools & Subscriptions,8372.59
+2024,2024-04,Product,Payroll & Benefits,51830.34
+2024,2024-04,Product,Cloud Infrastructure,20931.48
+2024,2024-04,Product,R&D Expenses,6977.16
+2024,2024-04,Operations,Payroll & Benefits,62196.41
+2024,2024-04,Operations,SaaS Tools & Subscriptions,15070.67
+2024,2024-04,Operations,Office & Facilities,18419.7
+2024,2024-04,Finance,Payroll & Benefits,41464.27
+2024,2024-04,Finance,Professional Services,18977.88
+2024,2024-04,Finance,SaaS Tools & Subscriptions,3349.04
+2024,2024-05,Engineering,Payroll & Benefits,181406.18
+2024,2024-05,Engineering,Cloud Infrastructure,58608.15
+2024,2024-05,Engineering,R&D Expenses,39072.1
+2024,2024-05,Sales,Payroll & Benefits,103660.68
+2024,2024-05,Sales,SaaS Tools & Subscriptions,30699.51
+2024,2024-05,Sales,Travel & Entertainment,25117.78
+2024,2024-05,Marketing,Payroll & Benefits,77745.51
+2024,2024-05,Marketing,Sales & Marketing,33490.37
+2024,2024-05,Marketing,SaaS Tools & Subscriptions,8372.59
+2024,2024-05,Product,Payroll & Benefits,51830.34
+2024,2024-05,Product,Cloud Infrastructure,20931.48
+2024,2024-05,Product,R&D Expenses,6977.16
+2024,2024-05,Operations,Payroll & Benefits,62196.41
+2024,2024-05,Operations,SaaS Tools & Subscriptions,15070.67
+2024,2024-05,Operations,Office & Facilities,18419.7
+2024,2024-05,Finance,Payroll & Benefits,41464.27
+2024,2024-05,Finance,Professional Services,18977.88
+2024,2024-05,Finance,SaaS Tools & Subscriptions,3349.04
+2024,2024-06,Engineering,Payroll & Benefits,183345.1
+2024,2024-06,Engineering,Cloud Infrastructure,59234.57
+2024,2024-06,Engineering,R&D Expenses,39489.71
+2024,2024-06,Sales,Payroll & Benefits,104768.63
+2024,2024-06,Sales,SaaS Tools & Subscriptions,31027.63
+2024,2024-06,Sales,Travel & Entertainment,25386.24
+2024,2024-06,Marketing,Payroll & Benefits,78576.47
+2024,2024-06,Marketing,Sales & Marketing,33848.33
+2024,2024-06,Marketing,SaaS Tools & Subscriptions,8462.08
+2024,2024-06,Product,Payroll & Benefits,52384.31
+2024,2024-06,Product,Cloud Infrastructure,21155.2
+2024,2024-06,Product,R&D Expenses,7051.73
+2024,2024-06,Operations,Payroll & Benefits,62861.18
+2024,2024-06,Operations,SaaS Tools & Subscriptions,15231.75
+2024,2024-06,Operations,Office & Facilities,18616.58
+2024,2024-06,Finance,Payroll & Benefits,41907.45
+2024,2024-06,Finance,Professional Services,19180.72
+2024,2024-06,Finance,SaaS Tools & Subscriptions,3384.83
+2024,2024-07,Engineering,Payroll & Benefits,184959.74
+2024,2024-07,Engineering,Cloud Infrastructure,59756.22
+2024,2024-07,Engineering,R&D Expenses,39837.48
+2024,2024-07,Sales,Payroll & Benefits,105691.28
+2024,2024-07,Sales,SaaS Tools & Subscriptions,31300.88
+2024,2024-07,Sales,Travel & Entertainment,25609.81
+2024,2024-07,Marketing,Payroll & Benefits,79268.46
+2024,2024-07,Marketing,Sales & Marketing,34146.41
+2024,2024-07,Marketing,SaaS Tools & Subscriptions,8536.6
+2024,2024-07,Product,Payroll & Benefits,52845.64
+2024,2024-07,Product,Cloud Infrastructure,21341.51
+2024,2024-07,Product,R&D Expenses,7113.84
+2024,2024-07,Operations,Payroll & Benefits,63414.77
+2024,2024-07,Operations,SaaS Tools & Subscriptions,15365.89
+2024,2024-07,Operations,Office & Facilities,18780.53
+2024,2024-07,Finance,Payroll & Benefits,42276.51
+2024,2024-07,Finance,Professional Services,19349.63
+2024,2024-07,Finance,SaaS Tools & Subscriptions,3414.64
+2024,2024-08,Engineering,Payroll & Benefits,193948.88
+2024,2024-08,Engineering,Cloud Infrastructure,62660.41
+2024,2024-08,Engineering,R&D Expenses,41773.61
+2024,2024-08,Sales,Payroll & Benefits,110827.93
+2024,2024-08,Sales,SaaS Tools & Subscriptions,32822.12
+2024,2024-08,Sales,Travel & Entertainment,26854.46
+2024,2024-08,Marketing,Payroll & Benefits,83120.95
+2024,2024-08,Marketing,Sales & Marketing,35805.95
+2024,2024-08,Marketing,SaaS Tools & Subscriptions,8951.49
+2024,2024-08,Product,Payroll & Benefits,55413.97
+2024,2024-08,Product,Cloud Infrastructure,22378.72
+2024,2024-08,Product,R&D Expenses,7459.57
+2024,2024-08,Operations,Payroll & Benefits,66496.76
+2024,2024-08,Operations,SaaS Tools & Subscriptions,16112.68
+2024,2024-08,Operations,Office & Facilities,19693.27
+2024,2024-08,Finance,Payroll & Benefits,44331.17
+2024,2024-08,Finance,Professional Services,20290.04
+2024,2024-08,Finance,SaaS Tools & Subscriptions,3580.59
+2024,2024-09,Engineering,Payroll & Benefits,186898.66
+2024,2024-09,Engineering,Cloud Infrastructure,60382.64
+2024,2024-09,Engineering,R&D Expenses,40255.1
+2024,2024-09,Sales,Payroll & Benefits,106799.23
+2024,2024-09,Sales,SaaS Tools & Subscriptions,31629.0
+2024,2024-09,Sales,Travel & Entertainment,25878.28
+2024,2024-09,Marketing,Payroll & Benefits,80099.43
+2024,2024-09,Marketing,Sales & Marketing,34504.37
+2024,2024-09,Marketing,SaaS Tools & Subscriptions,8626.09
+2024,2024-09,Product,Payroll & Benefits,53399.62
+2024,2024-09,Product,Cloud Infrastructure,21565.23
+2024,2024-09,Product,R&D Expenses,7188.41
+2024,2024-09,Operations,Payroll & Benefits,64079.54
+2024,2024-09,Operations,SaaS Tools & Subscriptions,15526.97
+2024,2024-09,Operations,Office & Facilities,18977.4
+2024,2024-09,Finance,Payroll & Benefits,42719.69
+2024,2024-09,Finance,Professional Services,19552.48
+2024,2024-09,Finance,SaaS Tools & Subscriptions,3450.44
+2024,2024-10,Engineering,Payroll & Benefits,187120.3
+2024,2024-10,Engineering,Cloud Infrastructure,60454.25
+2024,2024-10,Engineering,R&D Expenses,40302.83
+2024,2024-10,Sales,Payroll & Benefits,106925.89
+2024,2024-10,Sales,SaaS Tools & Subscriptions,31666.51
+2024,2024-10,Sales,Travel & Entertainment,25908.96
+2024,2024-10,Marketing,Payroll & Benefits,80194.41
+2024,2024-10,Marketing,Sales & Marketing,34545.29
+2024,2024-10,Marketing,SaaS Tools & Subscriptions,8636.32
+2024,2024-10,Product,Payroll & Benefits,53462.94
+2024,2024-10,Product,Cloud Infrastructure,21590.8
+2024,2024-10,Product,R&D Expenses,7196.93
+2024,2024-10,Operations,Payroll & Benefits,64155.53
+2024,2024-10,Operations,SaaS Tools & Subscriptions,15545.38
+2024,2024-10,Operations,Office & Facilities,18999.91
+2024,2024-10,Finance,Payroll & Benefits,42770.35
+2024,2024-10,Finance,Professional Services,19575.66
+2024,2024-10,Finance,SaaS Tools & Subscriptions,3454.53
+2024,2024-11,Engineering,Payroll & Benefits,187120.3
+2024,2024-11,Engineering,Cloud Infrastructure,60454.25
+2024,2024-11,Engineering,R&D Expenses,40302.83
+2024,2024-11,Sales,Payroll & Benefits,106925.89
+2024,2024-11,Sales,SaaS Tools & Subscriptions,31666.51
+2024,2024-11,Sales,Travel & Entertainment,25908.96
+2024,2024-11,Marketing,Payroll & Benefits,80194.41
+2024,2024-11,Marketing,Sales & Marketing,34545.29
+2024,2024-11,Marketing,SaaS Tools & Subscriptions,8636.32
+2024,2024-11,Product,Payroll & Benefits,53462.94
+2024,2024-11,Product,Cloud Infrastructure,21590.8
+2024,2024-11,Product,R&D Expenses,7196.93
+2024,2024-11,Operations,Payroll & Benefits,64155.53
+2024,2024-11,Operations,SaaS Tools & Subscriptions,15545.38
+2024,2024-11,Operations,Office & Facilities,18999.91
+2024,2024-11,Finance,Payroll & Benefits,42770.35
+2024,2024-11,Finance,Professional Services,19575.66
+2024,2024-11,Finance,SaaS Tools & Subscriptions,3454.53
+2024,2024-12,Engineering,Payroll & Benefits,416384.07
+2024,2024-12,Engineering,Cloud Infrastructure,134524.08
+2024,2024-12,Engineering,R&D Expenses,89682.72
+2024,2024-12,Sales,Payroll & Benefits,237933.75
+2024,2024-12,Sales,SaaS Tools & Subscriptions,70465.0
+2024,2024-12,Sales,Travel & Entertainment,57653.18
+2024,2024-12,Marketing,Payroll & Benefits,178450.31
+2024,2024-12,Marketing,Sales & Marketing,76870.9
+2024,2024-12,Marketing,SaaS Tools & Subscriptions,19217.73
+2024,2024-12,Product,Payroll & Benefits,118966.88
+2024,2024-12,Product,Cloud Infrastructure,48044.32
+2024,2024-12,Product,R&D Expenses,16014.77
+2024,2024-12,Operations,Payroll & Benefits,142760.25
+2024,2024-12,Operations,SaaS Tools & Subscriptions,34591.91
+2024,2024-12,Operations,Office & Facilities,42279.0
+2024,2024-12,Finance,Payroll & Benefits,95173.5
+2024,2024-12,Finance,Professional Services,43560.18
+2024,2024-12,Finance,SaaS Tools & Subscriptions,7687.09
+2025,2025-01,Engineering,Payroll & Benefits,212524.74
+2025,2025-01,Engineering,Cloud Infrastructure,68661.84
+2025,2025-01,Engineering,R&D Expenses,45774.56
+2025,2025-01,Sales,Payroll & Benefits,121442.71
+2025,2025-01,Sales,SaaS Tools & Subscriptions,35965.73
+2025,2025-01,Sales,Travel & Entertainment,29426.5
+2025,2025-01,Marketing,Payroll & Benefits,91082.03
+2025,2025-01,Marketing,Sales & Marketing,39235.34
+2025,2025-01,Marketing,SaaS Tools & Subscriptions,9808.83
+2025,2025-01,Product,Payroll & Benefits,60721.35
+2025,2025-01,Product,Cloud Infrastructure,24522.09
+2025,2025-01,Product,R&D Expenses,8174.03
+2025,2025-01,Operations,Payroll & Benefits,72865.63
+2025,2025-01,Operations,SaaS Tools & Subscriptions,17655.9
+2025,2025-01,Operations,Office & Facilities,21579.44
+2025,2025-01,Finance,Payroll & Benefits,48577.08
+2025,2025-01,Finance,Professional Services,22233.36
+2025,2025-01,Finance,SaaS Tools & Subscriptions,3923.53
+2025,2025-02,Engineering,Payroll & Benefits,200172.95
+2025,2025-02,Engineering,Cloud Infrastructure,64671.26
+2025,2025-02,Engineering,R&D Expenses,43114.17
+2025,2025-02,Sales,Payroll & Benefits,114384.54
+2025,2025-02,Sales,SaaS Tools & Subscriptions,33875.42
+2025,2025-02,Sales,Travel & Entertainment,27716.25
+2025,2025-02,Marketing,Payroll & Benefits,85788.41
+2025,2025-02,Marketing,Sales & Marketing,36955.01
+2025,2025-02,Marketing,SaaS Tools & Subscriptions,9238.75
+2025,2025-02,Product,Payroll & Benefits,57192.27
+2025,2025-02,Product,Cloud Infrastructure,23096.88
+2025,2025-02,Product,R&D Expenses,7698.96
+2025,2025-02,Operations,Payroll & Benefits,68630.73
+2025,2025-02,Operations,SaaS Tools & Subscriptions,16629.75
+2025,2025-02,Operations,Office & Facilities,20325.25
+2025,2025-02,Finance,Payroll & Benefits,45753.82
+2025,2025-02,Finance,Professional Services,20941.17
+2025,2025-02,Finance,SaaS Tools & Subscriptions,3695.5
+2025,2025-03,Engineering,Payroll & Benefits,202266.98
+2025,2025-03,Engineering,Cloud Infrastructure,65347.79
+2025,2025-03,Engineering,R&D Expenses,43565.2
+2025,2025-03,Sales,Payroll & Benefits,115581.13
+2025,2025-03,Sales,SaaS Tools & Subscriptions,34229.8
+2025,2025-03,Sales,Travel & Entertainment,28006.2
+2025,2025-03,Marketing,Payroll & Benefits,86685.85
+2025,2025-03,Marketing,Sales & Marketing,37341.6
+2025,2025-03,Marketing,SaaS Tools & Subscriptions,9335.4
+2025,2025-03,Product,Payroll & Benefits,57790.57
+2025,2025-03,Product,Cloud Infrastructure,23338.5
+2025,2025-03,Product,R&D Expenses,7779.5
+2025,2025-03,Operations,Payroll & Benefits,69348.68
+2025,2025-03,Operations,SaaS Tools & Subscriptions,16803.72
+2025,2025-03,Operations,Office & Facilities,20537.88
+2025,2025-03,Finance,Payroll & Benefits,46232.45
+2025,2025-03,Finance,Professional Services,21160.24
+2025,2025-03,Finance,SaaS Tools & Subscriptions,3734.16
+2025,2025-04,Engineering,Payroll & Benefits,207116.86
+2025,2025-04,Engineering,Cloud Infrastructure,66914.68
+2025,2025-04,Engineering,R&D Expenses,44609.79
+2025,2025-04,Sales,Payroll & Benefits,118352.49
+2025,2025-04,Sales,SaaS Tools & Subscriptions,35050.55
+2025,2025-04,Sales,Travel & Entertainment,28677.72
+2025,2025-04,Marketing,Payroll & Benefits,88764.37
+2025,2025-04,Marketing,Sales & Marketing,38236.96
+2025,2025-04,Marketing,SaaS Tools & Subscriptions,9559.24
+2025,2025-04,Product,Payroll & Benefits,59176.25
+2025,2025-04,Product,Cloud Infrastructure,23898.1
+2025,2025-04,Product,R&D Expenses,7966.03
+2025,2025-04,Operations,Payroll & Benefits,71011.5
+2025,2025-04,Operations,SaaS Tools & Subscriptions,17206.63
+2025,2025-04,Operations,Office & Facilities,21030.33
+2025,2025-04,Finance,Payroll & Benefits,47341.0
+2025,2025-04,Finance,Professional Services,21667.61
+2025,2025-04,Finance,SaaS Tools & Subscriptions,3823.7
+2025,2025-05,Engineering,Payroll & Benefits,207116.86
+2025,2025-05,Engineering,Cloud Infrastructure,66914.68
+2025,2025-05,Engineering,R&D Expenses,44609.79
+2025,2025-05,Sales,Payroll & Benefits,118352.49
+2025,2025-05,Sales,SaaS Tools & Subscriptions,35050.55
+2025,2025-05,Sales,Travel & Entertainment,28677.72
+2025,2025-05,Marketing,Payroll & Benefits,88764.37
+2025,2025-05,Marketing,Sales & Marketing,38236.96
+2025,2025-05,Marketing,SaaS Tools & Subscriptions,9559.24
+2025,2025-05,Product,Payroll & Benefits,59176.25
+2025,2025-05,Product,Cloud Infrastructure,23898.1
+2025,2025-05,Product,R&D Expenses,7966.03
+2025,2025-05,Operations,Payroll & Benefits,71011.5
+2025,2025-05,Operations,SaaS Tools & Subscriptions,17206.63
+2025,2025-05,Operations,Office & Facilities,21030.33
+2025,2025-05,Finance,Payroll & Benefits,47341.0
+2025,2025-05,Finance,Professional Services,21667.61
+2025,2025-05,Finance,SaaS Tools & Subscriptions,3823.7
+2025,2025-06,Engineering,Payroll & Benefits,209210.89
+2025,2025-06,Engineering,Cloud Infrastructure,67591.21
+2025,2025-06,Engineering,R&D Expenses,45060.81
+2025,2025-06,Sales,Payroll & Benefits,119549.08
+2025,2025-06,Sales,SaaS Tools & Subscriptions,35404.92
+2025,2025-06,Sales,Travel & Entertainment,28967.66
+2025,2025-06,Marketing,Payroll & Benefits,89661.81
+2025,2025-06,Marketing,Sales & Marketing,38623.55
+2025,2025-06,Marketing,SaaS Tools & Subscriptions,9655.89
+2025,2025-06,Product,Payroll & Benefits,59774.54
+2025,2025-06,Product,Cloud Infrastructure,24139.72
+2025,2025-06,Product,R&D Expenses,8046.57
+2025,2025-06,Operations,Payroll & Benefits,71729.45
+2025,2025-06,Operations,SaaS Tools & Subscriptions,17380.6
+2025,2025-06,Operations,Office & Facilities,21242.95
+2025,2025-06,Finance,Payroll & Benefits,47819.63
+2025,2025-06,Finance,Professional Services,21886.68
+2025,2025-06,Finance,SaaS Tools & Subscriptions,3862.35
+2025,2025-07,Engineering,Payroll & Benefits,213184.55
+2025,2025-07,Engineering,Cloud Infrastructure,68875.01
+2025,2025-07,Engineering,R&D Expenses,45916.67
+2025,2025-07,Sales,Payroll & Benefits,121819.74
+2025,2025-07,Sales,SaaS Tools & Subscriptions,36077.38
+2025,2025-07,Sales,Travel & Entertainment,29517.86
+2025,2025-07,Marketing,Payroll & Benefits,91364.81
+2025,2025-07,Marketing,Sales & Marketing,39357.15
+2025,2025-07,Marketing,SaaS Tools & Subscriptions,9839.29
+2025,2025-07,Product,Payroll & Benefits,60909.87
+2025,2025-07,Product,Cloud Infrastructure,24598.22
+2025,2025-07,Product,R&D Expenses,8199.41
+2025,2025-07,Operations,Payroll & Benefits,73091.84
+2025,2025-07,Operations,SaaS Tools & Subscriptions,17710.72
+2025,2025-07,Operations,Office & Facilities,21646.43
+2025,2025-07,Finance,Payroll & Benefits,48727.9
+2025,2025-07,Finance,Professional Services,22302.38
+2025,2025-07,Finance,SaaS Tools & Subscriptions,3935.71
+2025,2025-08,Engineering,Payroll & Benefits,223252.38
+2025,2025-08,Engineering,Cloud Infrastructure,72127.69
+2025,2025-08,Engineering,R&D Expenses,48085.13
+2025,2025-08,Sales,Payroll & Benefits,127572.79
+2025,2025-08,Sales,SaaS Tools & Subscriptions,37781.17
+2025,2025-08,Sales,Travel & Entertainment,30911.87
+2025,2025-08,Marketing,Payroll & Benefits,95679.59
+2025,2025-08,Marketing,Sales & Marketing,41215.82
+2025,2025-08,Marketing,SaaS Tools & Subscriptions,10303.96
+2025,2025-08,Product,Payroll & Benefits,63786.4
+2025,2025-08,Product,Cloud Infrastructure,25759.89
+2025,2025-08,Product,R&D Expenses,8586.63
+2025,2025-08,Operations,Payroll & Benefits,76543.67
+2025,2025-08,Operations,SaaS Tools & Subscriptions,18547.12
+2025,2025-08,Operations,Office & Facilities,22668.7
+2025,2025-08,Finance,Payroll & Benefits,51029.12
+2025,2025-08,Finance,Professional Services,23355.63
+2025,2025-08,Finance,SaaS Tools & Subscriptions,4121.58
+2025,2025-09,Engineering,Payroll & Benefits,215278.58
+2025,2025-09,Engineering,Cloud Infrastructure,69551.54
+2025,2025-09,Engineering,R&D Expenses,46367.69
+2025,2025-09,Sales,Payroll & Benefits,123016.33
+2025,2025-09,Sales,SaaS Tools & Subscriptions,36431.76
+2025,2025-09,Sales,Travel & Entertainment,29807.8
+2025,2025-09,Marketing,Payroll & Benefits,92262.25
+2025,2025-09,Marketing,Sales & Marketing,39743.74
+2025,2025-09,Marketing,SaaS Tools & Subscriptions,9935.93
+2025,2025-09,Product,Payroll & Benefits,61508.16
+2025,2025-09,Product,Cloud Infrastructure,24839.84
+2025,2025-09,Product,R&D Expenses,8279.95
+2025,2025-09,Operations,Payroll & Benefits,73809.8
+2025,2025-09,Operations,SaaS Tools & Subscriptions,17884.68
+2025,2025-09,Operations,Office & Facilities,21859.06
+2025,2025-09,Finance,Payroll & Benefits,49206.53
+2025,2025-09,Finance,Professional Services,22521.45
+2025,2025-09,Finance,SaaS Tools & Subscriptions,3974.37
+2025,2025-10,Engineering,Payroll & Benefits,215999.73
+2025,2025-10,Engineering,Cloud Infrastructure,69784.53
+2025,2025-10,Engineering,R&D Expenses,46523.02
+2025,2025-10,Sales,Payroll & Benefits,123428.42
+2025,2025-10,Sales,SaaS Tools & Subscriptions,36553.8
+2025,2025-10,Sales,Travel & Entertainment,29907.66
+2025,2025-10,Marketing,Payroll & Benefits,92571.31
+2025,2025-10,Marketing,Sales & Marketing,39876.87
+2025,2025-10,Marketing,SaaS Tools & Subscriptions,9969.22
+2025,2025-10,Product,Payroll & Benefits,61714.21
+2025,2025-10,Product,Cloud Infrastructure,24923.05
+2025,2025-10,Product,R&D Expenses,8307.68
+2025,2025-10,Operations,Payroll & Benefits,74057.05
+2025,2025-10,Operations,SaaS Tools & Subscriptions,17944.59
+2025,2025-10,Operations,Office & Facilities,21932.28
+2025,2025-10,Finance,Payroll & Benefits,49371.37
+2025,2025-10,Finance,Professional Services,22596.9
+2025,2025-10,Finance,SaaS Tools & Subscriptions,3987.69
+2025,2025-11,Engineering,Payroll & Benefits,215999.73
+2025,2025-11,Engineering,Cloud Infrastructure,69784.53
+2025,2025-11,Engineering,R&D Expenses,46523.02
+2025,2025-11,Sales,Payroll & Benefits,123428.42
+2025,2025-11,Sales,SaaS Tools & Subscriptions,36553.8
+2025,2025-11,Sales,Travel & Entertainment,29907.66
+2025,2025-11,Marketing,Payroll & Benefits,92571.31
+2025,2025-11,Marketing,Sales & Marketing,39876.87
+2025,2025-11,Marketing,SaaS Tools & Subscriptions,9969.22
+2025,2025-11,Product,Payroll & Benefits,61714.21
+2025,2025-11,Product,Cloud Infrastructure,24923.05
+2025,2025-11,Product,R&D Expenses,8307.68
+2025,2025-11,Operations,Payroll & Benefits,74057.05
+2025,2025-11,Operations,SaaS Tools & Subscriptions,17944.59
+2025,2025-11,Operations,Office & Facilities,21932.28
+2025,2025-11,Finance,Payroll & Benefits,49371.37
+2025,2025-11,Finance,Professional Services,22596.9
+2025,2025-11,Finance,SaaS Tools & Subscriptions,3987.69
+2025,2025-12,Engineering,Payroll & Benefits,468151.1
+2025,2025-12,Engineering,Cloud Infrastructure,151248.82
+2025,2025-12,Engineering,R&D Expenses,100832.54
+2025,2025-12,Sales,Payroll & Benefits,267514.91
+2025,2025-12,Sales,SaaS Tools & Subscriptions,79225.57
+2025,2025-12,Sales,Travel & Entertainment,64820.92
+2025,2025-12,Marketing,Payroll & Benefits,200636.18
+2025,2025-12,Marketing,Sales & Marketing,86427.89
+2025,2025-12,Marketing,SaaS Tools & Subscriptions,21606.97
+2025,2025-12,Product,Payroll & Benefits,133757.46
+2025,2025-12,Product,Cloud Infrastructure,54017.43
+2025,2025-12,Product,R&D Expenses,18005.81
+2025,2025-12,Operations,Payroll & Benefits,160508.95
+2025,2025-12,Operations,SaaS Tools & Subscriptions,38892.55
+2025,2025-12,Operations,Office & Facilities,47535.34
+2025,2025-12,Finance,Payroll & Benefits,107005.96
+2025,2025-12,Finance,Professional Services,48975.81
+2025,2025-12,Finance,SaaS Tools & Subscriptions,8642.79

@@ -1,0 +1,10 @@
+gl_code,gl_category,account_type,description
+6000,Payroll & Benefits,Expense,"Employee salaries, commissions, bonuses, payroll taxes, and benefits."
+6100,Cloud Infrastructure,Expense,"Usage-based cloud hosting, storage, data processing, and platform infrastructure."
+6200,SaaS Tools & Subscriptions,Expense,Software subscriptions and seat-based tools used to operate the business.
+6300,Sales & Marketing,Expense,"Demand generation, advertising, campaigns, events, and go-to-market programs."
+6400,Travel & Entertainment,Expense,"Customer travel, meals, conferences, team events, and company retreats."
+6500,Professional Services,Expense,"Legal, accounting, tax, fundraising, advisory, and consulting services."
+6600,Office & Facilities,Expense,"Office rent, coworking space, facilities, furniture, deposits, and buildout costs."
+6700,R&D Expenses,Expense,"Product research, prototyping, contractor engineering, testing, and experimentation."
+8000,Accounts Receivable,Asset,Customer invoices and receivables for recurring SaaS subscription revenue.
